@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/8ddc19f2db0d43e1b05dc5c1f8991356/artifacts
+end_time: 1712405598539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ddc19f2db0d43e1b05dc5c1f8991356
+run_name: rumbling-flea-760
+run_uuid: 8ddc19f2db0d43e1b05dc5c1f8991356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712405497465
+status: 3
+tags: []
+user_id: raka

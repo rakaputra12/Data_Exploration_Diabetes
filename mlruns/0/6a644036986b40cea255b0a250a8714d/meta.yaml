@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/6a644036986b40cea255b0a250a8714d/artifacts
+end_time: 1712509604413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a644036986b40cea255b0a250a8714d
+run_name: invincible-moth-290
+run_uuid: 6a644036986b40cea255b0a250a8714d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712509525143
+status: 3
+tags: []
+user_id: raka

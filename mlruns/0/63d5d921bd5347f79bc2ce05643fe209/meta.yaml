@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/63d5d921bd5347f79bc2ce05643fe209/artifacts
+end_time: 1712405739491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63d5d921bd5347f79bc2ce05643fe209
+run_name: luminous-stag-356
+run_uuid: 63d5d921bd5347f79bc2ce05643fe209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712405657409
+status: 3
+tags: []
+user_id: raka
