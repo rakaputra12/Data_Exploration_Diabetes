@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/2902f91d95a84f70b78634de3c906a8b/artifacts
+end_time: 1712664418257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2902f91d95a84f70b78634de3c906a8b
+run_name: welcoming-snake-722
+run_uuid: 2902f91d95a84f70b78634de3c906a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712658751002
+status: 3
+tags: []
+user_id: raka
