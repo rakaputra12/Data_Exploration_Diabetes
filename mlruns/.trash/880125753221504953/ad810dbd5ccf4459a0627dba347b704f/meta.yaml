@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ad810dbd5ccf4459a0627dba347b704f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381036
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ad810dbd5ccf4459a0627dba347b704f
+run_name: nervous-smelt-802
+run_uuid: ad810dbd5ccf4459a0627dba347b704f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381023
+status: 3
+tags: []
+user_id: raka

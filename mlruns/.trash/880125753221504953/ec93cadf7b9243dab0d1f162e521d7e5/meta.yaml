@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ec93cadf7b9243dab0d1f162e521d7e5/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373475
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ec93cadf7b9243dab0d1f162e521d7e5
+run_name: indecisive-goose-458
+run_uuid: ec93cadf7b9243dab0d1f162e521d7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373466
+status: 3
+tags: []
+user_id: raka

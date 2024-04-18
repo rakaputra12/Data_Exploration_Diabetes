@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b1fa8cc877fe4d5d8cc971b06afa9978/artifacts
+deleted_time: 1712947893581
+end_time: 1712946399203
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b1fa8cc877fe4d5d8cc971b06afa9978
+run_name: sedate-lark-208
+run_uuid: b1fa8cc877fe4d5d8cc971b06afa9978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946399182
+status: 3
+tags: []
+user_id: raka

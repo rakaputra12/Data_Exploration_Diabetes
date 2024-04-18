@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9f2d18e12c064608a20e2a6b2e35bcdd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384118
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9f2d18e12c064608a20e2a6b2e35bcdd
+run_name: blushing-lynx-917
+run_uuid: 9f2d18e12c064608a20e2a6b2e35bcdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384104
+status: 3
+tags: []
+user_id: raka

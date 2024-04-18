@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dab3d640ce0b48148f8e579b32c371db/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405015
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dab3d640ce0b48148f8e579b32c371db
+run_name: beautiful-roo-869
+run_uuid: dab3d640ce0b48148f8e579b32c371db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404992
+status: 3
+tags: []
+user_id: raka

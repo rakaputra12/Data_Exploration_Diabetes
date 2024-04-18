@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/40cf8b75c0ca404c9ce1495b89cf53e0/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402736
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 40cf8b75c0ca404c9ce1495b89cf53e0
+run_name: abrasive-finch-173
+run_uuid: 40cf8b75c0ca404c9ce1495b89cf53e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402713
+status: 3
+tags: []
+user_id: raka

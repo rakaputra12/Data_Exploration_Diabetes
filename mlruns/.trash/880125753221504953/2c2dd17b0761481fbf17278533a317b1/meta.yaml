@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2c2dd17b0761481fbf17278533a317b1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371182
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2c2dd17b0761481fbf17278533a317b1
+run_name: nervous-deer-153
+run_uuid: 2c2dd17b0761481fbf17278533a317b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371176
+status: 3
+tags: []
+user_id: raka

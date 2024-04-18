@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ad06d9a0af71424681cd1b3a23ae7f18/artifacts
+deleted_time: 1712947893581
+end_time: 1712946435447
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ad06d9a0af71424681cd1b3a23ae7f18
+run_name: luminous-zebra-248
+run_uuid: ad06d9a0af71424681cd1b3a23ae7f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946435407
+status: 3
+tags: []
+user_id: raka

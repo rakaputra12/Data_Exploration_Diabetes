@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/81c0d1ca7b4344469089372dc236fae8/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437559
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 81c0d1ca7b4344469089372dc236fae8
+run_name: sincere-jay-106
+run_uuid: 81c0d1ca7b4344469089372dc236fae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437520
+status: 3
+tags: []
+user_id: raka

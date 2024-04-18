@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/563ddb9303764b6a88894d5f79e4a2c6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371930
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 563ddb9303764b6a88894d5f79e4a2c6
+run_name: learned-snake-839
+run_uuid: 563ddb9303764b6a88894d5f79e4a2c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371923
+status: 3
+tags: []
+user_id: raka

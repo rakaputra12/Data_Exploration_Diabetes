@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/42adc1d8adfd47b089f78497f434e37b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436579
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 42adc1d8adfd47b089f78497f434e37b
+run_name: angry-hen-456
+run_uuid: 42adc1d8adfd47b089f78497f434e37b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436547
+status: 3
+tags: []
+user_id: raka

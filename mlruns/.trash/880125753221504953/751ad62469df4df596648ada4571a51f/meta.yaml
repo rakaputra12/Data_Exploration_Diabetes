@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/751ad62469df4df596648ada4571a51f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391528
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 751ad62469df4df596648ada4571a51f
+run_name: enchanting-finch-996
+run_uuid: 751ad62469df4df596648ada4571a51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391509
+status: 3
+tags: []
+user_id: raka

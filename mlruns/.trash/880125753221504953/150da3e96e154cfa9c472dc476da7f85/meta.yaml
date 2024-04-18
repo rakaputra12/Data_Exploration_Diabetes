@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/150da3e96e154cfa9c472dc476da7f85/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373862
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 150da3e96e154cfa9c472dc476da7f85
+run_name: big-foal-448
+run_uuid: 150da3e96e154cfa9c472dc476da7f85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373853
+status: 3
+tags: []
+user_id: raka

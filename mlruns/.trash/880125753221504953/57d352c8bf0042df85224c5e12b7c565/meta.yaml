@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/57d352c8bf0042df85224c5e12b7c565/artifacts
+deleted_time: 1712947893581
+end_time: 1712946403665
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 57d352c8bf0042df85224c5e12b7c565
+run_name: painted-bee-472
+run_uuid: 57d352c8bf0042df85224c5e12b7c565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946403642
+status: 3
+tags: []
+user_id: raka

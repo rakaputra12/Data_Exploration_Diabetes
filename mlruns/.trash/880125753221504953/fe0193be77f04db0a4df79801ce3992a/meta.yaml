@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fe0193be77f04db0a4df79801ce3992a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946394403
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fe0193be77f04db0a4df79801ce3992a
+run_name: delightful-lamb-387
+run_uuid: fe0193be77f04db0a4df79801ce3992a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946394383
+status: 3
+tags: []
+user_id: raka

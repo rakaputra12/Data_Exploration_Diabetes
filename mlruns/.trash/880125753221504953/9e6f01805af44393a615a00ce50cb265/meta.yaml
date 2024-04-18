@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9e6f01805af44393a615a00ce50cb265/artifacts
+deleted_time: 1712947893581
+end_time: 1712946412399
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9e6f01805af44393a615a00ce50cb265
+run_name: entertaining-bat-460
+run_uuid: 9e6f01805af44393a615a00ce50cb265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946412373
+status: 3
+tags: []
+user_id: raka

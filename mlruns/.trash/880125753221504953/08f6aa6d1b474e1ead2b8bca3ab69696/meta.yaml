@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/08f6aa6d1b474e1ead2b8bca3ab69696/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388048
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 08f6aa6d1b474e1ead2b8bca3ab69696
+run_name: nosy-quail-245
+run_uuid: 08f6aa6d1b474e1ead2b8bca3ab69696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388031
+status: 3
+tags: []
+user_id: raka

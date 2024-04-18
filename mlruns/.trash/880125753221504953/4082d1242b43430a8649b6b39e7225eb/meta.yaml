@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4082d1242b43430a8649b6b39e7225eb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946445100
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4082d1242b43430a8649b6b39e7225eb
+run_name: enthused-shrimp-793
+run_uuid: 4082d1242b43430a8649b6b39e7225eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946445065
+status: 3
+tags: []
+user_id: raka

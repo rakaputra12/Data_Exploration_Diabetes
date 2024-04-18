@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ed5aafa5349b4697bbab27d6d5f59ec6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383573
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ed5aafa5349b4697bbab27d6d5f59ec6
+run_name: luminous-bird-403
+run_uuid: ed5aafa5349b4697bbab27d6d5f59ec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383559
+status: 3
+tags: []
+user_id: raka

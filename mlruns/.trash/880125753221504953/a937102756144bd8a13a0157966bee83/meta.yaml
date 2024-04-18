@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a937102756144bd8a13a0157966bee83/artifacts
+deleted_time: 1712947893581
+end_time: 1712946442422
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a937102756144bd8a13a0157966bee83
+run_name: gentle-squid-369
+run_uuid: a937102756144bd8a13a0157966bee83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946442388
+status: 3
+tags: []
+user_id: raka

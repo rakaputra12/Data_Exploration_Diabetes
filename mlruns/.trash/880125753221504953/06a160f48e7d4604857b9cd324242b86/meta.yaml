@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/06a160f48e7d4604857b9cd324242b86/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379368
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 06a160f48e7d4604857b9cd324242b86
+run_name: ambitious-bat-233
+run_uuid: 06a160f48e7d4604857b9cd324242b86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379354
+status: 3
+tags: []
+user_id: raka

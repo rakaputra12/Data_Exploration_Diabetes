@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/86a37aff45774c8297c6cddbd187ff9a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389760
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 86a37aff45774c8297c6cddbd187ff9a
+run_name: bold-carp-57
+run_uuid: 86a37aff45774c8297c6cddbd187ff9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389743
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/376e93bb7ad14f8e930e29a35cc259af/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379529
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 376e93bb7ad14f8e930e29a35cc259af
+run_name: fun-fowl-872
+run_uuid: 376e93bb7ad14f8e930e29a35cc259af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379516
+status: 3
+tags: []
+user_id: raka

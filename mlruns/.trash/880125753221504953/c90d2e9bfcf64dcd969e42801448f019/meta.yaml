@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c90d2e9bfcf64dcd969e42801448f019/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378043
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c90d2e9bfcf64dcd969e42801448f019
+run_name: dazzling-wasp-407
+run_uuid: c90d2e9bfcf64dcd969e42801448f019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378031
+status: 3
+tags: []
+user_id: raka

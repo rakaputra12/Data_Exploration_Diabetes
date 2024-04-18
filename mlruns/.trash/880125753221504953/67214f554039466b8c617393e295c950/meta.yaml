@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/67214f554039466b8c617393e295c950/artifacts
+deleted_time: 1712947893581
+end_time: 1712946439728
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 67214f554039466b8c617393e295c950
+run_name: kindly-vole-935
+run_uuid: 67214f554039466b8c617393e295c950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946439693
+status: 3
+tags: []
+user_id: raka

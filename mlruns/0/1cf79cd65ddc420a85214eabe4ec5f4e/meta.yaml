@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/1cf79cd65ddc420a85214eabe4ec5f4e/artifacts
+end_time: 1712949871905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf79cd65ddc420a85214eabe4ec5f4e
+run_name: bouncy-conch-357
+run_uuid: 1cf79cd65ddc420a85214eabe4ec5f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712947973304
+status: 3
+tags: []
+user_id: raka

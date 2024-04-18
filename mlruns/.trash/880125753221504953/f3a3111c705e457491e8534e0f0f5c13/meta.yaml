@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f3a3111c705e457491e8534e0f0f5c13/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380077
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f3a3111c705e457491e8534e0f0f5c13
+run_name: merciful-calf-430
+run_uuid: f3a3111c705e457491e8534e0f0f5c13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380064
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4a5b1d427e3a490a9b80620d8c084d86/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371807
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4a5b1d427e3a490a9b80620d8c084d86
+run_name: treasured-gull-176
+run_uuid: 4a5b1d427e3a490a9b80620d8c084d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371800
+status: 3
+tags: []
+user_id: raka

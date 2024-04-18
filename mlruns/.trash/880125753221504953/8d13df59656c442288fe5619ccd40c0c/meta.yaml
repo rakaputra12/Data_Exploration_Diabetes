@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8d13df59656c442288fe5619ccd40c0c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946417419
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8d13df59656c442288fe5619ccd40c0c
+run_name: hilarious-croc-35
+run_uuid: 8d13df59656c442288fe5619ccd40c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946417392
+status: 3
+tags: []
+user_id: raka

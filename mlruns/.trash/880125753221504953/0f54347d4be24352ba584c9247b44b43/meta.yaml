@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0f54347d4be24352ba584c9247b44b43/artifacts
+deleted_time: 1712947893581
+end_time: 1712946401543
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0f54347d4be24352ba584c9247b44b43
+run_name: clumsy-mare-280
+run_uuid: 0f54347d4be24352ba584c9247b44b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946401520
+status: 3
+tags: []
+user_id: raka

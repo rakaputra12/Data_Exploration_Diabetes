@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/174ccf923d5f4b0a9300ad506e5ef45c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374442
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 174ccf923d5f4b0a9300ad506e5ef45c
+run_name: intelligent-flea-811
+run_uuid: 174ccf923d5f4b0a9300ad506e5ef45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374432
+status: 3
+tags: []
+user_id: raka

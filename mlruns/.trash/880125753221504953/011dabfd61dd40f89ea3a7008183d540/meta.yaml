@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/011dabfd61dd40f89ea3a7008183d540/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379206
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 011dabfd61dd40f89ea3a7008183d540
+run_name: carefree-stoat-797
+run_uuid: 011dabfd61dd40f89ea3a7008183d540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379194
+status: 3
+tags: []
+user_id: raka

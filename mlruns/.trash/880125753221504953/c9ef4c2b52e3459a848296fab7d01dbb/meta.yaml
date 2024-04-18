@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c9ef4c2b52e3459a848296fab7d01dbb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373627
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c9ef4c2b52e3459a848296fab7d01dbb
+run_name: indecisive-crow-848
+run_uuid: c9ef4c2b52e3459a848296fab7d01dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373618
+status: 3
+tags: []
+user_id: raka

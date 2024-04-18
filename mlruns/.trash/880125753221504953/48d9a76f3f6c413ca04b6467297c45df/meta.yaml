@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/48d9a76f3f6c413ca04b6467297c45df/artifacts
+deleted_time: 1712947893581
+end_time: 1712946429277
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 48d9a76f3f6c413ca04b6467297c45df
+run_name: victorious-goose-392
+run_uuid: 48d9a76f3f6c413ca04b6467297c45df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946429246
+status: 3
+tags: []
+user_id: raka

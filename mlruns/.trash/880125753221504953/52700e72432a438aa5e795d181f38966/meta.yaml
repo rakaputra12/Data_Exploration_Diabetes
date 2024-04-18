@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/52700e72432a438aa5e795d181f38966/artifacts
+deleted_time: 1712947893581
+end_time: 1712946406182
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 52700e72432a438aa5e795d181f38966
+run_name: salty-owl-329
+run_uuid: 52700e72432a438aa5e795d181f38966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946406158
+status: 3
+tags: []
+user_id: raka

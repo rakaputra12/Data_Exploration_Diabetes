@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e47f458909664729a496c4cb4d392c4c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375374
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e47f458909664729a496c4cb4d392c4c
+run_name: crawling-dog-969
+run_uuid: e47f458909664729a496c4cb4d392c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375361
+status: 3
+tags: []
+user_id: raka

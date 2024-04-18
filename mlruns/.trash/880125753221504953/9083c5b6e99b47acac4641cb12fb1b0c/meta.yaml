@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9083c5b6e99b47acac4641cb12fb1b0c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384102
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9083c5b6e99b47acac4641cb12fb1b0c
+run_name: bemused-sponge-64
+run_uuid: 9083c5b6e99b47acac4641cb12fb1b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384087
+status: 3
+tags: []
+user_id: raka

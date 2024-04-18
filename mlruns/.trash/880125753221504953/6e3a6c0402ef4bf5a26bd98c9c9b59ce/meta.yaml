@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6e3a6c0402ef4bf5a26bd98c9c9b59ce/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374183
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6e3a6c0402ef4bf5a26bd98c9c9b59ce
+run_name: colorful-fowl-518
+run_uuid: 6e3a6c0402ef4bf5a26bd98c9c9b59ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374174
+status: 3
+tags: []
+user_id: raka

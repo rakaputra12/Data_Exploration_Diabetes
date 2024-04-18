@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2bef7f19f140427e9e80a22085348dae/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389406
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2bef7f19f140427e9e80a22085348dae
+run_name: zealous-stork-578
+run_uuid: 2bef7f19f140427e9e80a22085348dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389387
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/94b7487abe5744aaaa5eea6df2ec31df/artifacts
+deleted_time: 1712947893581
+end_time: 1712946431678
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 94b7487abe5744aaaa5eea6df2ec31df
+run_name: upbeat-shark-936
+run_uuid: 94b7487abe5744aaaa5eea6df2ec31df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946431645
+status: 3
+tags: []
+user_id: raka

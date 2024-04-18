@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2cfd6c851d8d4e40ad1fda5221768a18/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382127
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2cfd6c851d8d4e40ad1fda5221768a18
+run_name: popular-horse-370
+run_uuid: 2cfd6c851d8d4e40ad1fda5221768a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382113
+status: 3
+tags: []
+user_id: raka

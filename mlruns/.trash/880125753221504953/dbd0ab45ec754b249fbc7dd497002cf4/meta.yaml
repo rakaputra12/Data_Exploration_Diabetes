@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dbd0ab45ec754b249fbc7dd497002cf4/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370336
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dbd0ab45ec754b249fbc7dd497002cf4
+run_name: luminous-shrew-349
+run_uuid: dbd0ab45ec754b249fbc7dd497002cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370331
+status: 3
+tags: []
+user_id: raka

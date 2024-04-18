@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dd5ebb70ff7249968b09d317a69d9590/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373014
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dd5ebb70ff7249968b09d317a69d9590
+run_name: painted-stork-340
+run_uuid: dd5ebb70ff7249968b09d317a69d9590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373005
+status: 3
+tags: []
+user_id: raka

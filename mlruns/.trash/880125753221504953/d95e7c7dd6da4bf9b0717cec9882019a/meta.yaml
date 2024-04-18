@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d95e7c7dd6da4bf9b0717cec9882019a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946432470
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d95e7c7dd6da4bf9b0717cec9882019a
+run_name: stately-moose-835
+run_uuid: d95e7c7dd6da4bf9b0717cec9882019a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946432437
+status: 3
+tags: []
+user_id: raka

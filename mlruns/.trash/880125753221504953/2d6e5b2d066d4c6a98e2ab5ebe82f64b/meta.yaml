@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2d6e5b2d066d4c6a98e2ab5ebe82f64b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946442050
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2d6e5b2d066d4c6a98e2ab5ebe82f64b
+run_name: gentle-doe-427
+run_uuid: 2d6e5b2d066d4c6a98e2ab5ebe82f64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946442013
+status: 3
+tags: []
+user_id: raka

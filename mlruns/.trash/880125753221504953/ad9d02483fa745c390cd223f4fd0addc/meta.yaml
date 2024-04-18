@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ad9d02483fa745c390cd223f4fd0addc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410135
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ad9d02483fa745c390cd223f4fd0addc
+run_name: youthful-moose-544
+run_uuid: ad9d02483fa745c390cd223f4fd0addc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410110
+status: 3
+tags: []
+user_id: raka

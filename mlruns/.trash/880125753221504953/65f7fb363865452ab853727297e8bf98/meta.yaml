@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/65f7fb363865452ab853727297e8bf98/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379886
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 65f7fb363865452ab853727297e8bf98
+run_name: bold-tern-570
+run_uuid: 65f7fb363865452ab853727297e8bf98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379872
+status: 3
+tags: []
+user_id: raka

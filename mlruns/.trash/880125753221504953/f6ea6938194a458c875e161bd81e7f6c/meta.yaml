@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f6ea6938194a458c875e161bd81e7f6c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376598
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f6ea6938194a458c875e161bd81e7f6c
+run_name: bright-steed-84
+run_uuid: f6ea6938194a458c875e161bd81e7f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376586
+status: 3
+tags: []
+user_id: raka

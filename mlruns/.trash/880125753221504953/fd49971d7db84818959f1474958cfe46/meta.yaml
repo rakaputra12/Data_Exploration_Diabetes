@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fd49971d7db84818959f1474958cfe46/artifacts
+deleted_time: 1712947893581
+end_time: 1712946395619
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fd49971d7db84818959f1474958cfe46
+run_name: powerful-horse-370
+run_uuid: fd49971d7db84818959f1474958cfe46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946395598
+status: 3
+tags: []
+user_id: raka

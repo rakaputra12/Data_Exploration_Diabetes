@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a189ad1231a940fbb5bfe58c7aed4d58/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426744
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a189ad1231a940fbb5bfe58c7aed4d58
+run_name: gaudy-mink-756
+run_uuid: a189ad1231a940fbb5bfe58c7aed4d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426713
+status: 3
+tags: []
+user_id: raka

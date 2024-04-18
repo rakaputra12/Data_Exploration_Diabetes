@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e28378aacd6d4f558dd1864bb3835dae/artifacts
+deleted_time: 1712947893581
+end_time: 1712946439575
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e28378aacd6d4f558dd1864bb3835dae
+run_name: resilient-mole-26
+run_uuid: e28378aacd6d4f558dd1864bb3835dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946439540
+status: 3
+tags: []
+user_id: raka

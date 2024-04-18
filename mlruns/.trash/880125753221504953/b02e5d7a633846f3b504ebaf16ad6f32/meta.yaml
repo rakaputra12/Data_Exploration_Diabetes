@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b02e5d7a633846f3b504ebaf16ad6f32/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380962
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b02e5d7a633846f3b504ebaf16ad6f32
+run_name: adaptable-shoat-398
+run_uuid: b02e5d7a633846f3b504ebaf16ad6f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380948
+status: 3
+tags: []
+user_id: raka

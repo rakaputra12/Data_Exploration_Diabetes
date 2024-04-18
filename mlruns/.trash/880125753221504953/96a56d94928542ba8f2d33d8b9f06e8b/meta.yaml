@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/96a56d94928542ba8f2d33d8b9f06e8b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387415
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 96a56d94928542ba8f2d33d8b9f06e8b
+run_name: abundant-grouse-64
+run_uuid: 96a56d94928542ba8f2d33d8b9f06e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946387395
+status: 3
+tags: []
+user_id: raka

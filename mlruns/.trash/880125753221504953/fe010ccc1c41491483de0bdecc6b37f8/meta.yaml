@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fe010ccc1c41491483de0bdecc6b37f8/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371528
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fe010ccc1c41491483de0bdecc6b37f8
+run_name: rare-wasp-0
+run_uuid: fe010ccc1c41491483de0bdecc6b37f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371520
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cf0ace2f4c834b30b653614ee0f4cf59/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376097
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cf0ace2f4c834b30b653614ee0f4cf59
+run_name: mercurial-crab-908
+run_uuid: cf0ace2f4c834b30b653614ee0f4cf59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376084
+status: 3
+tags: []
+user_id: raka

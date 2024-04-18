@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/375db2d9543f46f3a1fce668b101ffa9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426846
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 375db2d9543f46f3a1fce668b101ffa9
+run_name: bemused-duck-592
+run_uuid: 375db2d9543f46f3a1fce668b101ffa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426814
+status: 3
+tags: []
+user_id: raka

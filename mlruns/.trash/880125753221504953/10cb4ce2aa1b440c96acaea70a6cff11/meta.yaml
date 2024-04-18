@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/10cb4ce2aa1b440c96acaea70a6cff11/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444173
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 10cb4ce2aa1b440c96acaea70a6cff11
+run_name: amusing-turtle-471
+run_uuid: 10cb4ce2aa1b440c96acaea70a6cff11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444137
+status: 3
+tags: []
+user_id: raka

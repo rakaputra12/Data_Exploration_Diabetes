@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9d6d8c3484e94b2e9e3684811f934096/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388206
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9d6d8c3484e94b2e9e3684811f934096
+run_name: ambitious-lynx-285
+run_uuid: 9d6d8c3484e94b2e9e3684811f934096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388186
+status: 3
+tags: []
+user_id: raka

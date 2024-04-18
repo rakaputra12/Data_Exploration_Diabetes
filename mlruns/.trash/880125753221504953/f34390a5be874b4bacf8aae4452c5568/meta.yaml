@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f34390a5be874b4bacf8aae4452c5568/artifacts
+deleted_time: 1712947893581
+end_time: 1712946446203
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f34390a5be874b4bacf8aae4452c5568
+run_name: rebellious-bat-627
+run_uuid: f34390a5be874b4bacf8aae4452c5568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946446167
+status: 3
+tags: []
+user_id: raka

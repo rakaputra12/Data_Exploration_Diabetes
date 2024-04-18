@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/252cfe192fa34362aa32b9a3601e179f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383540
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 252cfe192fa34362aa32b9a3601e179f
+run_name: illustrious-fowl-289
+run_uuid: 252cfe192fa34362aa32b9a3601e179f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383526
+status: 3
+tags: []
+user_id: raka

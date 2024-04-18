@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fa3a58ffc03d441897ab300f180f891a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946400461
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fa3a58ffc03d441897ab300f180f891a
+run_name: auspicious-horse-902
+run_uuid: fa3a58ffc03d441897ab300f180f891a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946400439
+status: 3
+tags: []
+user_id: raka

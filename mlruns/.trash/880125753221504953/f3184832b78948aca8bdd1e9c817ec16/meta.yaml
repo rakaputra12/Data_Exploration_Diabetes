@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f3184832b78948aca8bdd1e9c817ec16/artifacts
+deleted_time: 1712947893581
+end_time: 1712946451480
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f3184832b78948aca8bdd1e9c817ec16
+run_name: monumental-tern-526
+run_uuid: f3184832b78948aca8bdd1e9c817ec16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946451445
+status: 3
+tags: []
+user_id: raka

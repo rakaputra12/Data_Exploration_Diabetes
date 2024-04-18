@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/22442b07e5454496800fa80fda7d2047/artifacts
+deleted_time: 1712947893581
+end_time: 1712946445784
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 22442b07e5454496800fa80fda7d2047
+run_name: gifted-turtle-264
+run_uuid: 22442b07e5454496800fa80fda7d2047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946445749
+status: 3
+tags: []
+user_id: raka

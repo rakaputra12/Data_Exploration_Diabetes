@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1a74673134724b62a9e4c92c76619ecd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381728
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1a74673134724b62a9e4c92c76619ecd
+run_name: efficient-ram-147
+run_uuid: 1a74673134724b62a9e4c92c76619ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381714
+status: 3
+tags: []
+user_id: raka

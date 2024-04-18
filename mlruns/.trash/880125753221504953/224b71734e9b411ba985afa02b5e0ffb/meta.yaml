@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/224b71734e9b411ba985afa02b5e0ffb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391589
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 224b71734e9b411ba985afa02b5e0ffb
+run_name: industrious-hawk-792
+run_uuid: 224b71734e9b411ba985afa02b5e0ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391571
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bb78360dabd645ec81286577f9489303/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398235
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bb78360dabd645ec81286577f9489303
+run_name: nimble-quail-889
+run_uuid: bb78360dabd645ec81286577f9489303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398213
+status: 3
+tags: []
+user_id: raka

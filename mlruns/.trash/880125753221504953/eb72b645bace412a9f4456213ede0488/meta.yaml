@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/eb72b645bace412a9f4456213ede0488/artifacts
+deleted_time: 1712947893581
+end_time: 1712946406261
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: eb72b645bace412a9f4456213ede0488
+run_name: gaudy-deer-941
+run_uuid: eb72b645bace412a9f4456213ede0488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946406237
+status: 3
+tags: []
+user_id: raka

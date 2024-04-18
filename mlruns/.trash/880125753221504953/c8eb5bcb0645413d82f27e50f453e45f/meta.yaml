@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c8eb5bcb0645413d82f27e50f453e45f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372767
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c8eb5bcb0645413d82f27e50f453e45f
+run_name: bouncy-shrike-670
+run_uuid: c8eb5bcb0645413d82f27e50f453e45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372758
+status: 3
+tags: []
+user_id: raka

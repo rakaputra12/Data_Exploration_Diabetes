@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a300f5accfc54b7c9d50f78f5775e0f9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370925
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a300f5accfc54b7c9d50f78f5775e0f9
+run_name: treasured-lynx-488
+run_uuid: a300f5accfc54b7c9d50f78f5775e0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370919
+status: 3
+tags: []
+user_id: raka

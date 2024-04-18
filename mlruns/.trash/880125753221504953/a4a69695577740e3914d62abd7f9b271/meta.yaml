@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a4a69695577740e3914d62abd7f9b271/artifacts
+deleted_time: 1712947893581
+end_time: 1712946416931
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a4a69695577740e3914d62abd7f9b271
+run_name: unruly-mule-213
+run_uuid: a4a69695577740e3914d62abd7f9b271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946416904
+status: 3
+tags: []
+user_id: raka

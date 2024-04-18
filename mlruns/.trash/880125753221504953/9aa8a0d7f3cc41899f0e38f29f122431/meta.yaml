@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9aa8a0d7f3cc41899f0e38f29f122431/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377948
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9aa8a0d7f3cc41899f0e38f29f122431
+run_name: bald-sloth-173
+run_uuid: 9aa8a0d7f3cc41899f0e38f29f122431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377936
+status: 3
+tags: []
+user_id: raka

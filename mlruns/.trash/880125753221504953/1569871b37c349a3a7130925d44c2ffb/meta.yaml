@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1569871b37c349a3a7130925d44c2ffb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946422881
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1569871b37c349a3a7130925d44c2ffb
+run_name: charming-ray-151
+run_uuid: 1569871b37c349a3a7130925d44c2ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946422851
+status: 3
+tags: []
+user_id: raka

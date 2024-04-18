@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d6aa0b8af73343a8ba4eaa21d069995c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386773
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d6aa0b8af73343a8ba4eaa21d069995c
+run_name: wise-squirrel-60
+run_uuid: d6aa0b8af73343a8ba4eaa21d069995c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386757
+status: 3
+tags: []
+user_id: raka

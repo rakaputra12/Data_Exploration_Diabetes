@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d5828bb8859447609c5ad49f55fc68d2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374476
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d5828bb8859447609c5ad49f55fc68d2
+run_name: handsome-hen-112
+run_uuid: d5828bb8859447609c5ad49f55fc68d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374466
+status: 3
+tags: []
+user_id: raka

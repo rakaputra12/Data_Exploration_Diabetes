@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/334e783552c34862ab3b3e5329388485/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376046
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 334e783552c34862ab3b3e5329388485
+run_name: rebellious-carp-337
+run_uuid: 334e783552c34862ab3b3e5329388485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376031
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/68b0ec8d74c64d2aab7f93ccb815707f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946399923
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 68b0ec8d74c64d2aab7f93ccb815707f
+run_name: wise-dolphin-482
+run_uuid: 68b0ec8d74c64d2aab7f93ccb815707f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946399901
+status: 3
+tags: []
+user_id: raka

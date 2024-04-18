@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/296aba320b0d4bb98e0097fa34291bce/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378582
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 296aba320b0d4bb98e0097fa34291bce
+run_name: big-cat-721
+run_uuid: 296aba320b0d4bb98e0097fa34291bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378570
+status: 3
+tags: []
+user_id: raka

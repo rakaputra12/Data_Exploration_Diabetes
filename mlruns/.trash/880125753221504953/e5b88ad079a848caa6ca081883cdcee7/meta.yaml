@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e5b88ad079a848caa6ca081883cdcee7/artifacts
+deleted_time: 1712947893581
+end_time: 1712946415851
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e5b88ad079a848caa6ca081883cdcee7
+run_name: industrious-shad-783
+run_uuid: e5b88ad079a848caa6ca081883cdcee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946415825
+status: 3
+tags: []
+user_id: raka

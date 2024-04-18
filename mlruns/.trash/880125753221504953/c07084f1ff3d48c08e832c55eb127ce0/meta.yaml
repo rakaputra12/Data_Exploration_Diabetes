@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c07084f1ff3d48c08e832c55eb127ce0/artifacts
+deleted_time: 1712947893581
+end_time: 1712946400237
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c07084f1ff3d48c08e832c55eb127ce0
+run_name: redolent-squid-515
+run_uuid: c07084f1ff3d48c08e832c55eb127ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946400215
+status: 3
+tags: []
+user_id: raka

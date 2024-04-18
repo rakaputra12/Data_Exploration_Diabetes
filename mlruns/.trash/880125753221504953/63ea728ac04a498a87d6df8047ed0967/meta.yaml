@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/63ea728ac04a498a87d6df8047ed0967/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370911
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 63ea728ac04a498a87d6df8047ed0967
+run_name: gaudy-finch-810
+run_uuid: 63ea728ac04a498a87d6df8047ed0967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370904
+status: 3
+tags: []
+user_id: raka

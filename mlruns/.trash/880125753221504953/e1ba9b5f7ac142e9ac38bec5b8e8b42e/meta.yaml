@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e1ba9b5f7ac142e9ac38bec5b8e8b42e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946394952
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e1ba9b5f7ac142e9ac38bec5b8e8b42e
+run_name: awesome-worm-918
+run_uuid: e1ba9b5f7ac142e9ac38bec5b8e8b42e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946394933
+status: 3
+tags: []
+user_id: raka

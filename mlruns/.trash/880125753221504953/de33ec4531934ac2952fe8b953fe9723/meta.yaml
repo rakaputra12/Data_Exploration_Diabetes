@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/de33ec4531934ac2952fe8b953fe9723/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410444
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: de33ec4531934ac2952fe8b953fe9723
+run_name: redolent-doe-182
+run_uuid: de33ec4531934ac2952fe8b953fe9723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410419
+status: 3
+tags: []
+user_id: raka

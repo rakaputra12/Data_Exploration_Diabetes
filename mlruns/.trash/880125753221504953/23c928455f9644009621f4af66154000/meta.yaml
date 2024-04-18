@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/23c928455f9644009621f4af66154000/artifacts
+deleted_time: 1712947893581
+end_time: 1712946403564
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 23c928455f9644009621f4af66154000
+run_name: silent-jay-145
+run_uuid: 23c928455f9644009621f4af66154000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946403541
+status: 3
+tags: []
+user_id: raka

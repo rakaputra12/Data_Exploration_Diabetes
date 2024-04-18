@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/546e4d452b824ebe906bb67cf01ca753/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404104
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 546e4d452b824ebe906bb67cf01ca753
+run_name: amazing-shrike-551
+run_uuid: 546e4d452b824ebe906bb67cf01ca753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404081
+status: 3
+tags: []
+user_id: raka

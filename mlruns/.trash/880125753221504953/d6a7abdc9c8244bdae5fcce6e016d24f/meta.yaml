@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d6a7abdc9c8244bdae5fcce6e016d24f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946403146
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d6a7abdc9c8244bdae5fcce6e016d24f
+run_name: resilient-skink-472
+run_uuid: d6a7abdc9c8244bdae5fcce6e016d24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946403123
+status: 3
+tags: []
+user_id: raka

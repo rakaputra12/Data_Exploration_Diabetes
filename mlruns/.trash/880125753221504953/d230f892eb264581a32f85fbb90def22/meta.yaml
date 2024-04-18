@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d230f892eb264581a32f85fbb90def22/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370895
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d230f892eb264581a32f85fbb90def22
+run_name: sedate-shrew-262
+run_uuid: d230f892eb264581a32f85fbb90def22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370889
+status: 3
+tags: []
+user_id: raka

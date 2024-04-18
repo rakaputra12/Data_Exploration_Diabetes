@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6c92089d18994cfabb35cfa82c3921cb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405411
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6c92089d18994cfabb35cfa82c3921cb
+run_name: ambitious-goose-180
+run_uuid: 6c92089d18994cfabb35cfa82c3921cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405387
+status: 3
+tags: []
+user_id: raka

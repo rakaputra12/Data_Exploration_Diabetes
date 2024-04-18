@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7724671731f7473d96d26cc849768aad/artifacts
+deleted_time: 1712947893581
+end_time: 1712946409673
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7724671731f7473d96d26cc849768aad
+run_name: lyrical-stoat-654
+run_uuid: 7724671731f7473d96d26cc849768aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946409648
+status: 3
+tags: []
+user_id: raka

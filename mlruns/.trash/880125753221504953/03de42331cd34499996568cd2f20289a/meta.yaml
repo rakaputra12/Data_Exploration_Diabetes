@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/03de42331cd34499996568cd2f20289a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444947
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 03de42331cd34499996568cd2f20289a
+run_name: adaptable-wolf-680
+run_uuid: 03de42331cd34499996568cd2f20289a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444913
+status: 3
+tags: []
+user_id: raka

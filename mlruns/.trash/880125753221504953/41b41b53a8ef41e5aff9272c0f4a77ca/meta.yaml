@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/41b41b53a8ef41e5aff9272c0f4a77ca/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372279
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 41b41b53a8ef41e5aff9272c0f4a77ca
+run_name: gentle-toad-321
+run_uuid: 41b41b53a8ef41e5aff9272c0f4a77ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372271
+status: 3
+tags: []
+user_id: raka

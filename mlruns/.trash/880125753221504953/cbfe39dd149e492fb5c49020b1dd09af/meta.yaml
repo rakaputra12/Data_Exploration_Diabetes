@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cbfe39dd149e492fb5c49020b1dd09af/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398635
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cbfe39dd149e492fb5c49020b1dd09af
+run_name: calm-mole-226
+run_uuid: cbfe39dd149e492fb5c49020b1dd09af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398614
+status: 3
+tags: []
+user_id: raka

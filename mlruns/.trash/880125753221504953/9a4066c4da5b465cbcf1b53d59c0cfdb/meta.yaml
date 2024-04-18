@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9a4066c4da5b465cbcf1b53d59c0cfdb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381941
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9a4066c4da5b465cbcf1b53d59c0cfdb
+run_name: loud-lynx-856
+run_uuid: 9a4066c4da5b465cbcf1b53d59c0cfdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381926
+status: 3
+tags: []
+user_id: raka

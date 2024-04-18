@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a7a09f38269d43d88854eaad6d8fc54f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373131
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a7a09f38269d43d88854eaad6d8fc54f
+run_name: agreeable-sponge-928
+run_uuid: a7a09f38269d43d88854eaad6d8fc54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373121
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ab35d725da3e401fa2bcd8da0d530856/artifacts
+deleted_time: 1712947893581
+end_time: 1712946428223
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ab35d725da3e401fa2bcd8da0d530856
+run_name: bittersweet-fowl-327
+run_uuid: ab35d725da3e401fa2bcd8da0d530856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946428192
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/63fe7d030559464db278a0da688ac7c0/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374359
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 63fe7d030559464db278a0da688ac7c0
+run_name: blushing-dog-575
+run_uuid: 63fe7d030559464db278a0da688ac7c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374349
+status: 3
+tags: []
+user_id: raka

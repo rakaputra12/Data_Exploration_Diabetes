@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/04fa7096a67448a58378d64fa46c1320/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410787
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 04fa7096a67448a58378d64fa46c1320
+run_name: painted-ram-390
+run_uuid: 04fa7096a67448a58378d64fa46c1320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410762
+status: 3
+tags: []
+user_id: raka

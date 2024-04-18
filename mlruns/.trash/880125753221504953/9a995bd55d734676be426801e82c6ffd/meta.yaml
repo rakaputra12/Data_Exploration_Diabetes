@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9a995bd55d734676be426801e82c6ffd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385352
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9a995bd55d734676be426801e82c6ffd
+run_name: thoughtful-mole-390
+run_uuid: 9a995bd55d734676be426801e82c6ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385336
+status: 3
+tags: []
+user_id: raka

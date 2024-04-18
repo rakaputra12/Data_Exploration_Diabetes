@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7d87dd2f8b7e4e1fa74d0eb5ae8474df/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385767
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7d87dd2f8b7e4e1fa74d0eb5ae8474df
+run_name: wise-calf-896
+run_uuid: 7d87dd2f8b7e4e1fa74d0eb5ae8474df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385751
+status: 3
+tags: []
+user_id: raka

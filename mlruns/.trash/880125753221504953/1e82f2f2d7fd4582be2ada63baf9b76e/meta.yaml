@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1e82f2f2d7fd4582be2ada63baf9b76e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376641
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1e82f2f2d7fd4582be2ada63baf9b76e
+run_name: ambitious-asp-671
+run_uuid: 1e82f2f2d7fd4582be2ada63baf9b76e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376628
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/748c2c2db89f4168a42f767879846a8b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946421639
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 748c2c2db89f4168a42f767879846a8b
+run_name: mercurial-seal-559
+run_uuid: 748c2c2db89f4168a42f767879846a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946421609
+status: 3
+tags: []
+user_id: raka

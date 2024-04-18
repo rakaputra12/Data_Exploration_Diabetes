@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/da7e06c5a6f1449db6d7dc0dc24a0d3c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387004
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: da7e06c5a6f1449db6d7dc0dc24a0d3c
+run_name: unleashed-sow-673
+run_uuid: da7e06c5a6f1449db6d7dc0dc24a0d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386939
+status: 3
+tags: []
+user_id: raka

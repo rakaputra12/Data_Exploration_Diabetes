@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/619121b32bd44f79ab9155252c4663ac/artifacts
+deleted_time: 1712947893581
+end_time: 1712946408016
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 619121b32bd44f79ab9155252c4663ac
+run_name: thoughtful-lynx-427
+run_uuid: 619121b32bd44f79ab9155252c4663ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946407991
+status: 3
+tags: []
+user_id: raka

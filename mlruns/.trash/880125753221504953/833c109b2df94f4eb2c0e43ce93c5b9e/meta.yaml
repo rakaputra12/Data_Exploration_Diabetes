@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/833c109b2df94f4eb2c0e43ce93c5b9e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946439148
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 833c109b2df94f4eb2c0e43ce93c5b9e
+run_name: spiffy-calf-662
+run_uuid: 833c109b2df94f4eb2c0e43ce93c5b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946439111
+status: 3
+tags: []
+user_id: raka

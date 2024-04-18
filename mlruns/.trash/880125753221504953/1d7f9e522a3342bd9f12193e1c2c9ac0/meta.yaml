@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1d7f9e522a3342bd9f12193e1c2c9ac0/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374073
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1d7f9e522a3342bd9f12193e1c2c9ac0
+run_name: illustrious-stag-967
+run_uuid: 1d7f9e522a3342bd9f12193e1c2c9ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374064
+status: 3
+tags: []
+user_id: raka

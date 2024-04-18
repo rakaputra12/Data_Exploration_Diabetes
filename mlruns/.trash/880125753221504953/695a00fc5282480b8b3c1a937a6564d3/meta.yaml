@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/695a00fc5282480b8b3c1a937a6564d3/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410107
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 695a00fc5282480b8b3c1a937a6564d3
+run_name: dazzling-sheep-623
+run_uuid: 695a00fc5282480b8b3c1a937a6564d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410081
+status: 3
+tags: []
+user_id: raka

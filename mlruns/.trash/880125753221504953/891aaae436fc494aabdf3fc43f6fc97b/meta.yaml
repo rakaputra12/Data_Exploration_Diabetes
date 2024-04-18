@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/891aaae436fc494aabdf3fc43f6fc97b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946429449
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 891aaae436fc494aabdf3fc43f6fc97b
+run_name: monumental-sloth-75
+run_uuid: 891aaae436fc494aabdf3fc43f6fc97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946429418
+status: 3
+tags: []
+user_id: raka

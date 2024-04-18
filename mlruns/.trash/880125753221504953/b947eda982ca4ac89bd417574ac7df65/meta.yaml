@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b947eda982ca4ac89bd417574ac7df65/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436056
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b947eda982ca4ac89bd417574ac7df65
+run_name: gregarious-flea-151
+run_uuid: b947eda982ca4ac89bd417574ac7df65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436025
+status: 3
+tags: []
+user_id: raka

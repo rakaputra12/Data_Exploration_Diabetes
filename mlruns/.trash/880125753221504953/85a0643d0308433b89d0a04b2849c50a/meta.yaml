@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/85a0643d0308433b89d0a04b2849c50a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376029
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 85a0643d0308433b89d0a04b2849c50a
+run_name: brawny-dolphin-964
+run_uuid: 85a0643d0308433b89d0a04b2849c50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376011
+status: 3
+tags: []
+user_id: raka

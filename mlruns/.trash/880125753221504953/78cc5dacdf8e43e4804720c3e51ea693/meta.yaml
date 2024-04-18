@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/78cc5dacdf8e43e4804720c3e51ea693/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426036
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 78cc5dacdf8e43e4804720c3e51ea693
+run_name: youthful-fly-783
+run_uuid: 78cc5dacdf8e43e4804720c3e51ea693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426006
+status: 3
+tags: []
+user_id: raka

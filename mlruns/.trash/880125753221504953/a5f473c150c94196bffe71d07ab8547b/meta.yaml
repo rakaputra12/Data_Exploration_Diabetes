@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a5f473c150c94196bffe71d07ab8547b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946438359
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a5f473c150c94196bffe71d07ab8547b
+run_name: marvelous-foal-780
+run_uuid: a5f473c150c94196bffe71d07ab8547b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946438325
+status: 3
+tags: []
+user_id: raka

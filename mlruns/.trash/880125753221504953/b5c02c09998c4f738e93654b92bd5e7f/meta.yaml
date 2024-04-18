@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b5c02c09998c4f738e93654b92bd5e7f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946449510
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b5c02c09998c4f738e93654b92bd5e7f
+run_name: sedate-swan-95
+run_uuid: b5c02c09998c4f738e93654b92bd5e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946449475
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cf92d5c0fd9a4f4d9e3db71a97eeebab/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388106
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cf92d5c0fd9a4f4d9e3db71a97eeebab
+run_name: debonair-panda-812
+run_uuid: cf92d5c0fd9a4f4d9e3db71a97eeebab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388089
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1f52bf58b97449b69440ff6443af152a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946435823
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1f52bf58b97449b69440ff6443af152a
+run_name: loud-duck-708
+run_uuid: 1f52bf58b97449b69440ff6443af152a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946435783
+status: 3
+tags: []
+user_id: raka

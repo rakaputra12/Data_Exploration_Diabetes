@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/952f519907fd473a8fd0015e99b90809/artifacts
+deleted_time: 1712947893581
+end_time: 1712946425536
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 952f519907fd473a8fd0015e99b90809
+run_name: fearless-sow-532
+run_uuid: 952f519907fd473a8fd0015e99b90809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946425506
+status: 3
+tags: []
+user_id: raka

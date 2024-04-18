@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/41f54d8e39324bb898fdd83c1d0ce1ea/artifacts
+deleted_time: 1712947893581
+end_time: 1712946427651
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 41f54d8e39324bb898fdd83c1d0ce1ea
+run_name: rumbling-turtle-889
+run_uuid: 41f54d8e39324bb898fdd83c1d0ce1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946427621
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d1232f2b2c1348318214561156d78b76/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436988
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d1232f2b2c1348318214561156d78b76
+run_name: entertaining-yak-981
+run_uuid: d1232f2b2c1348318214561156d78b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436956
+status: 3
+tags: []
+user_id: raka

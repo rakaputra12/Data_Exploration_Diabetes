@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8b38127e213e46fc8b9845c9e3269439/artifacts
+deleted_time: 1712947893581
+end_time: 1712946446089
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8b38127e213e46fc8b9845c9e3269439
+run_name: peaceful-stork-153
+run_uuid: 8b38127e213e46fc8b9845c9e3269439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946446054
+status: 3
+tags: []
+user_id: raka

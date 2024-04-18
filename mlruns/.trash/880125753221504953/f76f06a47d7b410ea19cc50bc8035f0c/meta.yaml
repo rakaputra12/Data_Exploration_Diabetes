@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f76f06a47d7b410ea19cc50bc8035f0c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946413761
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f76f06a47d7b410ea19cc50bc8035f0c
+run_name: shivering-loon-206
+run_uuid: f76f06a47d7b410ea19cc50bc8035f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946413735
+status: 3
+tags: []
+user_id: raka

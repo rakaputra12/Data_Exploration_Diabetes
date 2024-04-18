@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3a19ef62c1364960b360c488fca5b80f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437938
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3a19ef62c1364960b360c488fca5b80f
+run_name: youthful-seal-715
+run_uuid: 3a19ef62c1364960b360c488fca5b80f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437904
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/33c38f47ab72493f9fa11972b0712e4c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371577
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 33c38f47ab72493f9fa11972b0712e4c
+run_name: popular-lynx-95
+run_uuid: 33c38f47ab72493f9fa11972b0712e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371570
+status: 3
+tags: []
+user_id: raka

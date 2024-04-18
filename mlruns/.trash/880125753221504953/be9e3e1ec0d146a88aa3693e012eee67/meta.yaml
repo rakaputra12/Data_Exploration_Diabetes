@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/be9e3e1ec0d146a88aa3693e012eee67/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375605
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: be9e3e1ec0d146a88aa3693e012eee67
+run_name: enchanting-moth-924
+run_uuid: be9e3e1ec0d146a88aa3693e012eee67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375592
+status: 3
+tags: []
+user_id: raka

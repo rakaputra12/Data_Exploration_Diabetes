@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f624363338db441f9ed0f5e588b67452/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371167
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f624363338db441f9ed0f5e588b67452
+run_name: carefree-skink-283
+run_uuid: f624363338db441f9ed0f5e588b67452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371160
+status: 3
+tags: []
+user_id: raka

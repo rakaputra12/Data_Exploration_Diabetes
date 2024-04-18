@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fd1a7ff8739344fb9d7fa2b4b89d0479/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398070
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fd1a7ff8739344fb9d7fa2b4b89d0479
+run_name: youthful-ram-953
+run_uuid: fd1a7ff8739344fb9d7fa2b4b89d0479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398049
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/663e6d2b0ba944dbaaff852b23f12940/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426376
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 663e6d2b0ba944dbaaff852b23f12940
+run_name: bittersweet-toad-664
+run_uuid: 663e6d2b0ba944dbaaff852b23f12940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426346
+status: 3
+tags: []
+user_id: raka

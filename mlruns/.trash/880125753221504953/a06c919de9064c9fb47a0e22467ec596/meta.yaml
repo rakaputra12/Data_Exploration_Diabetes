@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a06c919de9064c9fb47a0e22467ec596/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437146
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a06c919de9064c9fb47a0e22467ec596
+run_name: powerful-fox-664
+run_uuid: a06c919de9064c9fb47a0e22467ec596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437111
+status: 3
+tags: []
+user_id: raka

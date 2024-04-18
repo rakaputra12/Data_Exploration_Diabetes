@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/957a1609a5a141cd981038dd067de93f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375056
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 957a1609a5a141cd981038dd067de93f
+run_name: clumsy-crow-813
+run_uuid: 957a1609a5a141cd981038dd067de93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375044
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d506343a98954842a515bf8a219af1c9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372690
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d506343a98954842a515bf8a219af1c9
+run_name: melodic-gnat-619
+run_uuid: d506343a98954842a515bf8a219af1c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372682
+status: 3
+tags: []
+user_id: raka

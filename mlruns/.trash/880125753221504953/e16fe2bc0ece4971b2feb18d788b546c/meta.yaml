@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e16fe2bc0ece4971b2feb18d788b546c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405329
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e16fe2bc0ece4971b2feb18d788b546c
+run_name: fun-perch-820
+run_uuid: e16fe2bc0ece4971b2feb18d788b546c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405305
+status: 3
+tags: []
+user_id: raka

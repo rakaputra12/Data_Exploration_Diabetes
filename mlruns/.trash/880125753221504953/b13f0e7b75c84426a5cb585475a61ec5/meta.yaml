@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b13f0e7b75c84426a5cb585475a61ec5/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398943
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b13f0e7b75c84426a5cb585475a61ec5
+run_name: worried-gnu-118
+run_uuid: b13f0e7b75c84426a5cb585475a61ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398922
+status: 3
+tags: []
+user_id: raka

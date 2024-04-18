@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5ad1cdeab2f84a8ea9a3998dbde5c8f7/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377415
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5ad1cdeab2f84a8ea9a3998dbde5c8f7
+run_name: selective-gnat-871
+run_uuid: 5ad1cdeab2f84a8ea9a3998dbde5c8f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377402
+status: 3
+tags: []
+user_id: raka

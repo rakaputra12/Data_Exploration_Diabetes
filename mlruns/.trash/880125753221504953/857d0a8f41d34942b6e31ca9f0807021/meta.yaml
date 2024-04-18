@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/857d0a8f41d34942b6e31ca9f0807021/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387909
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 857d0a8f41d34942b6e31ca9f0807021
+run_name: intrigued-dog-488
+run_uuid: 857d0a8f41d34942b6e31ca9f0807021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946387887
+status: 3
+tags: []
+user_id: raka

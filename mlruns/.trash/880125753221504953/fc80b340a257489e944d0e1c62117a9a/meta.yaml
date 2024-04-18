@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fc80b340a257489e944d0e1c62117a9a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382347
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fc80b340a257489e944d0e1c62117a9a
+run_name: agreeable-snipe-649
+run_uuid: fc80b340a257489e944d0e1c62117a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382332
+status: 3
+tags: []
+user_id: raka

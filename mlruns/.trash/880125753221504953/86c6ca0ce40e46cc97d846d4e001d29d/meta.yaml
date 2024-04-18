@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/86c6ca0ce40e46cc97d846d4e001d29d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376701
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 86c6ca0ce40e46cc97d846d4e001d29d
+run_name: rebellious-croc-37
+run_uuid: 86c6ca0ce40e46cc97d846d4e001d29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376688
+status: 3
+tags: []
+user_id: raka

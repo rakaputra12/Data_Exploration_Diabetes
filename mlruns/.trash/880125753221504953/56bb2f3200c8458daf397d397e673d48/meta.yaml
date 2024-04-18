@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/56bb2f3200c8458daf397d397e673d48/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391963
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 56bb2f3200c8458daf397d397e673d48
+run_name: honorable-shark-987
+run_uuid: 56bb2f3200c8458daf397d397e673d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391944
+status: 3
+tags: []
+user_id: raka

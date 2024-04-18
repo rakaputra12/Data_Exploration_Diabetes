@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/23cb2a162c0449bb80c5a87a4a37102f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380788
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 23cb2a162c0449bb80c5a87a4a37102f
+run_name: bedecked-wolf-483
+run_uuid: 23cb2a162c0449bb80c5a87a4a37102f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380775
+status: 3
+tags: []
+user_id: raka

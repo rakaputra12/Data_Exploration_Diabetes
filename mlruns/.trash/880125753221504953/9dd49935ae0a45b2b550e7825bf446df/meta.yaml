@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9dd49935ae0a45b2b550e7825bf446df/artifacts
+deleted_time: 1712947893581
+end_time: 1712946414202
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9dd49935ae0a45b2b550e7825bf446df
+run_name: worried-squid-281
+run_uuid: 9dd49935ae0a45b2b550e7825bf446df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946414175
+status: 3
+tags: []
+user_id: raka

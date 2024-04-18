@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2fbf95e5a64844f88d7a9b46e635b7be/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384861
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2fbf95e5a64844f88d7a9b46e635b7be
+run_name: ambitious-dove-297
+run_uuid: 2fbf95e5a64844f88d7a9b46e635b7be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384844
+status: 3
+tags: []
+user_id: raka

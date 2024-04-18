@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ee1bf71331ff47e3b113a015775343b6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946432505
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ee1bf71331ff47e3b113a015775343b6
+run_name: painted-snake-267
+run_uuid: ee1bf71331ff47e3b113a015775343b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946432473
+status: 3
+tags: []
+user_id: raka

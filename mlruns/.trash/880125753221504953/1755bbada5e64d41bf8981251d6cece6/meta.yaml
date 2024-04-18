@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1755bbada5e64d41bf8981251d6cece6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371315
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1755bbada5e64d41bf8981251d6cece6
+run_name: spiffy-deer-40
+run_uuid: 1755bbada5e64d41bf8981251d6cece6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371308
+status: 3
+tags: []
+user_id: raka

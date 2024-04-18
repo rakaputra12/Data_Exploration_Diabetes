@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ea03b9be77ca48d1b45c3b05c45c9cee/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396728
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ea03b9be77ca48d1b45c3b05c45c9cee
+run_name: efficient-midge-531
+run_uuid: ea03b9be77ca48d1b45c3b05c45c9cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396702
+status: 3
+tags: []
+user_id: raka

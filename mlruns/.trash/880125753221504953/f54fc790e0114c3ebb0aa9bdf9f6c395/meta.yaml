@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f54fc790e0114c3ebb0aa9bdf9f6c395/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374225
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f54fc790e0114c3ebb0aa9bdf9f6c395
+run_name: respected-deer-894
+run_uuid: f54fc790e0114c3ebb0aa9bdf9f6c395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374216
+status: 3
+tags: []
+user_id: raka

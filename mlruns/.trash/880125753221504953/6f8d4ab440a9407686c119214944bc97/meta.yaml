@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6f8d4ab440a9407686c119214944bc97/artifacts
+deleted_time: 1712947893581
+end_time: 1712946420108
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6f8d4ab440a9407686c119214944bc97
+run_name: upset-mink-354
+run_uuid: 6f8d4ab440a9407686c119214944bc97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946420072
+status: 3
+tags: []
+user_id: raka

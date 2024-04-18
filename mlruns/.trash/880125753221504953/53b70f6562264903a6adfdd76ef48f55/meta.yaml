@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/53b70f6562264903a6adfdd76ef48f55/artifacts
+deleted_time: 1712947893581
+end_time: 1712946435187
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 53b70f6562264903a6adfdd76ef48f55
+run_name: capable-squirrel-956
+run_uuid: 53b70f6562264903a6adfdd76ef48f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946435151
+status: 3
+tags: []
+user_id: raka

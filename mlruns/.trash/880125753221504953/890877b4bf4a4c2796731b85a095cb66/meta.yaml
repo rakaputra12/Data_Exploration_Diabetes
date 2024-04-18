@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/890877b4bf4a4c2796731b85a095cb66/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371757
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 890877b4bf4a4c2796731b85a095cb66
+run_name: thundering-mole-861
+run_uuid: 890877b4bf4a4c2796731b85a095cb66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371749
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fd3b1d50304c446aab8d250e63f86595/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370963
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fd3b1d50304c446aab8d250e63f86595
+run_name: luminous-lynx-917
+run_uuid: fd3b1d50304c446aab8d250e63f86595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370956
+status: 3
+tags: []
+user_id: raka

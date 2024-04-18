@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/029c3b1ae6b94c3e815801d4a0248091/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386592
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 029c3b1ae6b94c3e815801d4a0248091
+run_name: merciful-kit-194
+run_uuid: 029c3b1ae6b94c3e815801d4a0248091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386575
+status: 3
+tags: []
+user_id: raka

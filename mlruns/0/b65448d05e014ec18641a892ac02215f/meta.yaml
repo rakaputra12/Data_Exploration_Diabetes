@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/b65448d05e014ec18641a892ac02215f/artifacts
+end_time: 1713001241802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b65448d05e014ec18641a892ac02215f
+run_name: debonair-perch-853
+run_uuid: b65448d05e014ec18641a892ac02215f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713000860253
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/242114619458729313/0f4339f5b1f844a3896e63c017e60636/artifacts
+deleted_time: 1712944405144
+end_time: 1712944336745
+entry_point_name: ''
+experiment_id: '242114619458729313'
+lifecycle_stage: deleted
+run_id: 0f4339f5b1f844a3896e63c017e60636
+run_name: hilarious-ram-942
+run_uuid: 0f4339f5b1f844a3896e63c017e60636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712944088789
+status: 3
+tags: []
+user_id: raka

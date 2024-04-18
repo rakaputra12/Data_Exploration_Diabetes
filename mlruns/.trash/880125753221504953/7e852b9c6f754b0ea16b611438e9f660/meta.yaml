@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7e852b9c6f754b0ea16b611438e9f660/artifacts
+deleted_time: 1712947893581
+end_time: 1712946418535
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7e852b9c6f754b0ea16b611438e9f660
+run_name: hilarious-roo-318
+run_uuid: 7e852b9c6f754b0ea16b611438e9f660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946418406
+status: 3
+tags: []
+user_id: raka

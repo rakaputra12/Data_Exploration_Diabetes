@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ed8d0f96e71e4ef29f948f2f9a1882bf/artifacts
+deleted_time: 1712947893581
+end_time: 1712946441710
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ed8d0f96e71e4ef29f948f2f9a1882bf
+run_name: salty-colt-270
+run_uuid: ed8d0f96e71e4ef29f948f2f9a1882bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946441675
+status: 3
+tags: []
+user_id: raka

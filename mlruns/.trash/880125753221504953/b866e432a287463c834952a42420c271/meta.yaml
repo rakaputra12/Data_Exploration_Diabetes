@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b866e432a287463c834952a42420c271/artifacts
+deleted_time: 1712947893581
+end_time: 1712946451603
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b866e432a287463c834952a42420c271
+run_name: big-squid-811
+run_uuid: b866e432a287463c834952a42420c271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946451562
+status: 3
+tags: []
+user_id: raka

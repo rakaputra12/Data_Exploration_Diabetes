@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/edfbd5bc2dfe4b3f8b5173a0cdd4c595/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376219
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: edfbd5bc2dfe4b3f8b5173a0cdd4c595
+run_name: illustrious-goat-594
+run_uuid: edfbd5bc2dfe4b3f8b5173a0cdd4c595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376207
+status: 3
+tags: []
+user_id: raka

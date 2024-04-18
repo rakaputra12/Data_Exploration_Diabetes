@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b31e04bc78a64474b0037e9a84d1d166/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380608
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b31e04bc78a64474b0037e9a84d1d166
+run_name: intelligent-moth-572
+run_uuid: b31e04bc78a64474b0037e9a84d1d166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380593
+status: 3
+tags: []
+user_id: raka

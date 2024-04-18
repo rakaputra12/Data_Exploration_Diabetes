@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2d86b5ff55b143a283f40837c0fb7503/artifacts
+deleted_time: 1712947893581
+end_time: 1712946439305
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2d86b5ff55b143a283f40837c0fb7503
+run_name: aged-snail-985
+run_uuid: 2d86b5ff55b143a283f40837c0fb7503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946439271
+status: 3
+tags: []
+user_id: raka

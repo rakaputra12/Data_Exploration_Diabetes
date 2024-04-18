@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c71b085715ca49e9aa408bac64c82a33/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380136
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c71b085715ca49e9aa408bac64c82a33
+run_name: dashing-gnat-1000
+run_uuid: c71b085715ca49e9aa408bac64c82a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380123
+status: 3
+tags: []
+user_id: raka

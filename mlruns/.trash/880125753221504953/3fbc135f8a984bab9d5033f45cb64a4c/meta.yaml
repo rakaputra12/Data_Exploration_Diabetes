@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3fbc135f8a984bab9d5033f45cb64a4c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392067
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3fbc135f8a984bab9d5033f45cb64a4c
+run_name: gifted-gnat-602
+run_uuid: 3fbc135f8a984bab9d5033f45cb64a4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392049
+status: 3
+tags: []
+user_id: raka

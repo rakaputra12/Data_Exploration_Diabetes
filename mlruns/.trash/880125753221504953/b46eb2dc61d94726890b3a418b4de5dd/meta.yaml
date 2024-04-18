@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b46eb2dc61d94726890b3a418b4de5dd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398140
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b46eb2dc61d94726890b3a418b4de5dd
+run_name: upset-snake-417
+run_uuid: b46eb2dc61d94726890b3a418b4de5dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398119
+status: 3
+tags: []
+user_id: raka

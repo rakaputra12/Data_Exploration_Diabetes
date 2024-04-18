@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4003bdaa968c485b800fc1905fbd5edd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946428324
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4003bdaa968c485b800fc1905fbd5edd
+run_name: gentle-carp-771
+run_uuid: 4003bdaa968c485b800fc1905fbd5edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946428293
+status: 3
+tags: []
+user_id: raka

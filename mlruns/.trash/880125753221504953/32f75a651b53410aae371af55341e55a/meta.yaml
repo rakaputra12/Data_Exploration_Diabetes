@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/32f75a651b53410aae371af55341e55a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946407446
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 32f75a651b53410aae371af55341e55a
+run_name: peaceful-shad-66
+run_uuid: 32f75a651b53410aae371af55341e55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946407422
+status: 3
+tags: []
+user_id: raka

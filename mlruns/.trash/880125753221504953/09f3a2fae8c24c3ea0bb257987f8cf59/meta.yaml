@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/09f3a2fae8c24c3ea0bb257987f8cf59/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404830
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 09f3a2fae8c24c3ea0bb257987f8cf59
+run_name: legendary-fly-731
+run_uuid: 09f3a2fae8c24c3ea0bb257987f8cf59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404806
+status: 3
+tags: []
+user_id: raka

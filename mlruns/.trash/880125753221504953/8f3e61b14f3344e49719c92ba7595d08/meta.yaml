@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8f3e61b14f3344e49719c92ba7595d08/artifacts
+deleted_time: 1712947893581
+end_time: 1712946412515
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8f3e61b14f3344e49719c92ba7595d08
+run_name: whimsical-stork-61
+run_uuid: 8f3e61b14f3344e49719c92ba7595d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946412489
+status: 3
+tags: []
+user_id: raka

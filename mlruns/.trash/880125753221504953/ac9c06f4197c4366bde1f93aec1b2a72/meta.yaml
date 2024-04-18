@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ac9c06f4197c4366bde1f93aec1b2a72/artifacts
+deleted_time: 1712947893581
+end_time: 1712946414612
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ac9c06f4197c4366bde1f93aec1b2a72
+run_name: treasured-panda-184
+run_uuid: ac9c06f4197c4366bde1f93aec1b2a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946414586
+status: 3
+tags: []
+user_id: raka

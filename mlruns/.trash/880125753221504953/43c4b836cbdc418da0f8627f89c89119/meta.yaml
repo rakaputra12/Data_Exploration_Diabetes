@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/43c4b836cbdc418da0f8627f89c89119/artifacts
+deleted_time: 1712947893581
+end_time: 1712946417607
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 43c4b836cbdc418da0f8627f89c89119
+run_name: nosy-robin-131
+run_uuid: 43c4b836cbdc418da0f8627f89c89119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946417579
+status: 3
+tags: []
+user_id: raka

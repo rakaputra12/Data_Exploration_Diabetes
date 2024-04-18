@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1de33600444e4841a8f75c0c15edad7e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380151
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1de33600444e4841a8f75c0c15edad7e
+run_name: skittish-seal-920
+run_uuid: 1de33600444e4841a8f75c0c15edad7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380138
+status: 3
+tags: []
+user_id: raka

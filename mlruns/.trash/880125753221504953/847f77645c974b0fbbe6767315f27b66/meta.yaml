@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/847f77645c974b0fbbe6767315f27b66/artifacts
+deleted_time: 1712947893581
+end_time: 1712946448810
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 847f77645c974b0fbbe6767315f27b66
+run_name: vaunted-moth-104
+run_uuid: 847f77645c974b0fbbe6767315f27b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946448775
+status: 3
+tags: []
+user_id: raka

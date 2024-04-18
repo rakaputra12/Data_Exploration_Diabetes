@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/725301a6470a48a29a7f257fed8fb35f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381203
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 725301a6470a48a29a7f257fed8fb35f
+run_name: legendary-seal-789
+run_uuid: 725301a6470a48a29a7f257fed8fb35f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381158
+status: 3
+tags: []
+user_id: raka

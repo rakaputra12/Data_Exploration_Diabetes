@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/81eaf5b1b652454a80df5fc65842453a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373749
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 81eaf5b1b652454a80df5fc65842453a
+run_name: dazzling-bird-182
+run_uuid: 81eaf5b1b652454a80df5fc65842453a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373740
+status: 3
+tags: []
+user_id: raka

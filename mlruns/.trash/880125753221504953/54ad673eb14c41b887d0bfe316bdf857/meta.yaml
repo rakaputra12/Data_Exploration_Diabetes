@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/54ad673eb14c41b887d0bfe316bdf857/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389345
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 54ad673eb14c41b887d0bfe316bdf857
+run_name: caring-hen-283
+run_uuid: 54ad673eb14c41b887d0bfe316bdf857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389328
+status: 3
+tags: []
+user_id: raka

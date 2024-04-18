@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/be0957079936455687fe40bb66efb07e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378191
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: be0957079936455687fe40bb66efb07e
+run_name: gaudy-steed-991
+run_uuid: be0957079936455687fe40bb66efb07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378179
+status: 3
+tags: []
+user_id: raka

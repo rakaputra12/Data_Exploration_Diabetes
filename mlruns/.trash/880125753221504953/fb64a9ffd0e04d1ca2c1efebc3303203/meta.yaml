@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fb64a9ffd0e04d1ca2c1efebc3303203/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389839
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fb64a9ffd0e04d1ca2c1efebc3303203
+run_name: merciful-chimp-814
+run_uuid: fb64a9ffd0e04d1ca2c1efebc3303203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389821
+status: 3
+tags: []
+user_id: raka

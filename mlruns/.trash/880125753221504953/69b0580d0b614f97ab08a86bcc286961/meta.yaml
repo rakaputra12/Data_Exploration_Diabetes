@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/69b0580d0b614f97ab08a86bcc286961/artifacts
+deleted_time: 1712947893581
+end_time: 1712946412256
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 69b0580d0b614f97ab08a86bcc286961
+run_name: capable-whale-543
+run_uuid: 69b0580d0b614f97ab08a86bcc286961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946412229
+status: 3
+tags: []
+user_id: raka

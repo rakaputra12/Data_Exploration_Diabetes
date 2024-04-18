@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/aaa6a7dc1a8841a6899b8d853adc7ed9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436654
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: aaa6a7dc1a8841a6899b8d853adc7ed9
+run_name: hilarious-hound-646
+run_uuid: aaa6a7dc1a8841a6899b8d853adc7ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436621
+status: 3
+tags: []
+user_id: raka

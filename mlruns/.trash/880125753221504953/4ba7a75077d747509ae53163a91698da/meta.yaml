@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4ba7a75077d747509ae53163a91698da/artifacts
+deleted_time: 1712947893581
+end_time: 1712946438020
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4ba7a75077d747509ae53163a91698da
+run_name: silent-smelt-806
+run_uuid: 4ba7a75077d747509ae53163a91698da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437981
+status: 3
+tags: []
+user_id: raka

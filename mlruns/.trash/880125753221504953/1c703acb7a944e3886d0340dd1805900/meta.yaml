@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1c703acb7a944e3886d0340dd1805900/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384720
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1c703acb7a944e3886d0340dd1805900
+run_name: salty-crab-238
+run_uuid: 1c703acb7a944e3886d0340dd1805900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384705
+status: 3
+tags: []
+user_id: raka

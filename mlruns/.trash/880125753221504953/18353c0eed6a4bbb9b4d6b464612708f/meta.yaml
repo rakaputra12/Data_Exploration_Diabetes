@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/18353c0eed6a4bbb9b4d6b464612708f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946406155
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 18353c0eed6a4bbb9b4d6b464612708f
+run_name: intrigued-bear-522
+run_uuid: 18353c0eed6a4bbb9b4d6b464612708f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946406131
+status: 3
+tags: []
+user_id: raka

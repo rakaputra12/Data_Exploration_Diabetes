@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/69cfeef5546d43b49d3f1385342c206f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946418266
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 69cfeef5546d43b49d3f1385342c206f
+run_name: delicate-moose-782
+run_uuid: 69cfeef5546d43b49d3f1385342c206f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946418237
+status: 3
+tags: []
+user_id: raka

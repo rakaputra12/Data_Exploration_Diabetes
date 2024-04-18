@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/aeeb2ba37b8a436ca5f079587677bd7d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382944
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: aeeb2ba37b8a436ca5f079587677bd7d
+run_name: whimsical-midge-628
+run_uuid: aeeb2ba37b8a436ca5f079587677bd7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382929
+status: 3
+tags: []
+user_id: raka

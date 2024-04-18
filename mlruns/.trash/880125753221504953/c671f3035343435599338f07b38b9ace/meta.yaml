@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c671f3035343435599338f07b38b9ace/artifacts
+deleted_time: 1712947893581
+end_time: 1712946393816
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c671f3035343435599338f07b38b9ace
+run_name: big-lamb-876
+run_uuid: c671f3035343435599338f07b38b9ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946393796
+status: 3
+tags: []
+user_id: raka

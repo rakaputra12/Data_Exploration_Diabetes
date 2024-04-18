@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/85d31cbf0b75428085124e5a5d1251c8/artifacts
+deleted_time: 1712947893581
+end_time: 1712946420870
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 85d31cbf0b75428085124e5a5d1251c8
+run_name: monumental-worm-679
+run_uuid: 85d31cbf0b75428085124e5a5d1251c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946420815
+status: 3
+tags: []
+user_id: raka

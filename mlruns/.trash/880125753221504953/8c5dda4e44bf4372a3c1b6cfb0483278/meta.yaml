@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8c5dda4e44bf4372a3c1b6cfb0483278/artifacts
+deleted_time: 1712947893581
+end_time: 1712946433567
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8c5dda4e44bf4372a3c1b6cfb0483278
+run_name: rumbling-rat-956
+run_uuid: 8c5dda4e44bf4372a3c1b6cfb0483278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946433536
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8bd131b35e3b41dea303be34f2932a14/artifacts
+deleted_time: 1712947893581
+end_time: 1712946420777
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8bd131b35e3b41dea303be34f2932a14
+run_name: bright-gnat-307
+run_uuid: 8bd131b35e3b41dea303be34f2932a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946420744
+status: 3
+tags: []
+user_id: raka

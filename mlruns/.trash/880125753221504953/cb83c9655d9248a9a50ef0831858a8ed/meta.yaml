@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cb83c9655d9248a9a50ef0831858a8ed/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386304
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cb83c9655d9248a9a50ef0831858a8ed
+run_name: whimsical-hound-638
+run_uuid: cb83c9655d9248a9a50ef0831858a8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386284
+status: 3
+tags: []
+user_id: raka

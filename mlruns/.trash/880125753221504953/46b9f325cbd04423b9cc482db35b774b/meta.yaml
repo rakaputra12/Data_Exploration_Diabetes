@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/46b9f325cbd04423b9cc482db35b774b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398775
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 46b9f325cbd04423b9cc482db35b774b
+run_name: fortunate-toad-86
+run_uuid: 46b9f325cbd04423b9cc482db35b774b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398754
+status: 3
+tags: []
+user_id: raka

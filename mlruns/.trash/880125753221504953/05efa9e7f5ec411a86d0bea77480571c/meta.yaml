@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/05efa9e7f5ec411a86d0bea77480571c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946418041
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 05efa9e7f5ec411a86d0bea77480571c
+run_name: tasteful-moth-365
+run_uuid: 05efa9e7f5ec411a86d0bea77480571c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946418011
+status: 3
+tags: []
+user_id: raka

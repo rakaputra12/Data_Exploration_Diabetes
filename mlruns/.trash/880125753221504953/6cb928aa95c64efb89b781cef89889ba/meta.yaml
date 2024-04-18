@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6cb928aa95c64efb89b781cef89889ba/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384135
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6cb928aa95c64efb89b781cef89889ba
+run_name: dazzling-vole-474
+run_uuid: 6cb928aa95c64efb89b781cef89889ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384120
+status: 3
+tags: []
+user_id: raka

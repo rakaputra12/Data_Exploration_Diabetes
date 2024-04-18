@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f0c7f84a4c0b4c88970d6ebdc8a60e13/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405671
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f0c7f84a4c0b4c88970d6ebdc8a60e13
+run_name: youthful-stork-952
+run_uuid: f0c7f84a4c0b4c88970d6ebdc8a60e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405647
+status: 3
+tags: []
+user_id: raka

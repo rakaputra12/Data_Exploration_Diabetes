@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/89f210d445684bef88dedf9dff996a28/artifacts
+deleted_time: 1712947893581
+end_time: 1712946438850
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 89f210d445684bef88dedf9dff996a28
+run_name: able-duck-744
+run_uuid: 89f210d445684bef88dedf9dff996a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946438815
+status: 3
+tags: []
+user_id: raka

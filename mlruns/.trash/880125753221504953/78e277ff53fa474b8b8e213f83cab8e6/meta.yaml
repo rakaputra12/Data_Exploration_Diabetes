@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/78e277ff53fa474b8b8e213f83cab8e6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376010
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 78e277ff53fa474b8b8e213f83cab8e6
+run_name: whimsical-shrimp-466
+run_uuid: 78e277ff53fa474b8b8e213f83cab8e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375996
+status: 3
+tags: []
+user_id: raka

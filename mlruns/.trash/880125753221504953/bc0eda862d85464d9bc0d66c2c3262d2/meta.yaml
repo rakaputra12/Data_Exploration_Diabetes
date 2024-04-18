@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bc0eda862d85464d9bc0d66c2c3262d2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946411382
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bc0eda862d85464d9bc0d66c2c3262d2
+run_name: bustling-pug-824
+run_uuid: bc0eda862d85464d9bc0d66c2c3262d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946411356
+status: 3
+tags: []
+user_id: raka

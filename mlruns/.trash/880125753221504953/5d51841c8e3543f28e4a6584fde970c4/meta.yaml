@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5d51841c8e3543f28e4a6584fde970c4/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410645
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5d51841c8e3543f28e4a6584fde970c4
+run_name: bright-frog-595
+run_uuid: 5d51841c8e3543f28e4a6584fde970c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410617
+status: 3
+tags: []
+user_id: raka

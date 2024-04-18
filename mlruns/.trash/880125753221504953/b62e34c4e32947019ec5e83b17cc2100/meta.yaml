@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b62e34c4e32947019ec5e83b17cc2100/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376554
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b62e34c4e32947019ec5e83b17cc2100
+run_name: dazzling-trout-72
+run_uuid: b62e34c4e32947019ec5e83b17cc2100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376541
+status: 3
+tags: []
+user_id: raka

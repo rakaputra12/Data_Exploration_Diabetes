@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5957170b48364763a22871eb6632337f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946447939
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5957170b48364763a22871eb6632337f
+run_name: dazzling-shark-913
+run_uuid: 5957170b48364763a22871eb6632337f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946447902
+status: 3
+tags: []
+user_id: raka

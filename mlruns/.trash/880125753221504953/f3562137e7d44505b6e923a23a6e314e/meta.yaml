@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f3562137e7d44505b6e923a23a6e314e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410613
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f3562137e7d44505b6e923a23a6e314e
+run_name: indecisive-dog-979
+run_uuid: f3562137e7d44505b6e923a23a6e314e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410586
+status: 3
+tags: []
+user_id: raka

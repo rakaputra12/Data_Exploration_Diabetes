@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6d00a4cdeff64522a12841f3d97c0104/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377894
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6d00a4cdeff64522a12841f3d97c0104
+run_name: enchanting-zebra-164
+run_uuid: 6d00a4cdeff64522a12841f3d97c0104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377880
+status: 3
+tags: []
+user_id: raka

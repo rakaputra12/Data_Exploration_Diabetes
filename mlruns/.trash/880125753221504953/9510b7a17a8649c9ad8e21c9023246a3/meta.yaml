@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9510b7a17a8649c9ad8e21c9023246a3/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437288
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9510b7a17a8649c9ad8e21c9023246a3
+run_name: indecisive-zebra-495
+run_uuid: 9510b7a17a8649c9ad8e21c9023246a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437257
+status: 3
+tags: []
+user_id: raka

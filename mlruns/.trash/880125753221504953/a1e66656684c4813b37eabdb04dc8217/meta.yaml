@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a1e66656684c4813b37eabdb04dc8217/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384185
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a1e66656684c4813b37eabdb04dc8217
+run_name: brawny-kite-794
+run_uuid: a1e66656684c4813b37eabdb04dc8217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384170
+status: 3
+tags: []
+user_id: raka

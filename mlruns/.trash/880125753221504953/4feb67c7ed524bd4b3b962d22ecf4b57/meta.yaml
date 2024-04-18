@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4feb67c7ed524bd4b3b962d22ecf4b57/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383140
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4feb67c7ed524bd4b3b962d22ecf4b57
+run_name: caring-foal-893
+run_uuid: 4feb67c7ed524bd4b3b962d22ecf4b57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383125
+status: 3
+tags: []
+user_id: raka

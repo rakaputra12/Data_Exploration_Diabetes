@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/05b0dc667c1f4e7e8bbc58321ccec78d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392980
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 05b0dc667c1f4e7e8bbc58321ccec78d
+run_name: rumbling-fawn-264
+run_uuid: 05b0dc667c1f4e7e8bbc58321ccec78d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392961
+status: 3
+tags: []
+user_id: raka

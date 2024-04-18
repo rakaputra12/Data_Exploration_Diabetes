@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/22277f811d944fe39b87d05a26b562dc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386243
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 22277f811d944fe39b87d05a26b562dc
+run_name: overjoyed-pug-650
+run_uuid: 22277f811d944fe39b87d05a26b562dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386226
+status: 3
+tags: []
+user_id: raka

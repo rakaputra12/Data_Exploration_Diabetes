@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8ba5471d8d014012a435be34dfee8f20/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389859
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8ba5471d8d014012a435be34dfee8f20
+run_name: painted-bird-250
+run_uuid: 8ba5471d8d014012a435be34dfee8f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389841
+status: 3
+tags: []
+user_id: raka

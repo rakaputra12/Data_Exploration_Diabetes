@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6a7832d0f6d6489298ed6c3ac17a2bd8/artifacts
+deleted_time: 1712947893581
+end_time: 1712946399274
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6a7832d0f6d6489298ed6c3ac17a2bd8
+run_name: judicious-shark-843
+run_uuid: 6a7832d0f6d6489298ed6c3ac17a2bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946399253
+status: 3
+tags: []
+user_id: raka

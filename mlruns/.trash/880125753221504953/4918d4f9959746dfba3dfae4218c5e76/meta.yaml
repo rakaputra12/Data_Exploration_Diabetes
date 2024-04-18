@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4918d4f9959746dfba3dfae4218c5e76/artifacts
+deleted_time: 1712947893581
+end_time: 1712946433035
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4918d4f9959746dfba3dfae4218c5e76
+run_name: exultant-roo-273
+run_uuid: 4918d4f9959746dfba3dfae4218c5e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946433003
+status: 3
+tags: []
+user_id: raka

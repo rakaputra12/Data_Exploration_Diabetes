@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/529d9e337b744bef812e4116ff41861d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385573
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 529d9e337b744bef812e4116ff41861d
+run_name: sedate-gnat-80
+run_uuid: 529d9e337b744bef812e4116ff41861d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385557
+status: 3
+tags: []
+user_id: raka

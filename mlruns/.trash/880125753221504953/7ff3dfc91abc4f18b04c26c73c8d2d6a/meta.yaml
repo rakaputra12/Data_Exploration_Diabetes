@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7ff3dfc91abc4f18b04c26c73c8d2d6a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946401920
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7ff3dfc91abc4f18b04c26c73c8d2d6a
+run_name: worried-goat-239
+run_uuid: 7ff3dfc91abc4f18b04c26c73c8d2d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946401897
+status: 3
+tags: []
+user_id: raka

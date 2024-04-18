@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/80a9ca3eb4184bf195819886ad49b116/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376925
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 80a9ca3eb4184bf195819886ad49b116
+run_name: rogue-fish-618
+run_uuid: 80a9ca3eb4184bf195819886ad49b116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376912
+status: 3
+tags: []
+user_id: raka

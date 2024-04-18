@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/59d1d1db0b3846fba36997268c2e9995/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396404
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 59d1d1db0b3846fba36997268c2e9995
+run_name: nosy-shrew-853
+run_uuid: 59d1d1db0b3846fba36997268c2e9995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396384
+status: 3
+tags: []
+user_id: raka

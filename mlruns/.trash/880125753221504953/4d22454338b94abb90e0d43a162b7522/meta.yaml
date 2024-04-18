@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4d22454338b94abb90e0d43a162b7522/artifacts
+deleted_time: 1712947893581
+end_time: 1712946442199
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4d22454338b94abb90e0d43a162b7522
+run_name: defiant-panda-876
+run_uuid: 4d22454338b94abb90e0d43a162b7522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946442164
+status: 3
+tags: []
+user_id: raka

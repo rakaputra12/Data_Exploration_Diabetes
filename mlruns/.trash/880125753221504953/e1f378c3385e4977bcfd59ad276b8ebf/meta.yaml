@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e1f378c3385e4977bcfd59ad276b8ebf/artifacts
+deleted_time: 1712947893581
+end_time: 1712946393944
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e1f378c3385e4977bcfd59ad276b8ebf
+run_name: glamorous-shrew-884
+run_uuid: e1f378c3385e4977bcfd59ad276b8ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946393925
+status: 3
+tags: []
+user_id: raka

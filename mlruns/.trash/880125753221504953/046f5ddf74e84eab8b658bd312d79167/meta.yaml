@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/046f5ddf74e84eab8b658bd312d79167/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390211
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 046f5ddf74e84eab8b658bd312d79167
+run_name: adaptable-hound-777
+run_uuid: 046f5ddf74e84eab8b658bd312d79167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390193
+status: 3
+tags: []
+user_id: raka

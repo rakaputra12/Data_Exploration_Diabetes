@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/477ec7e32723478e89485cc2a926c152/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379628
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 477ec7e32723478e89485cc2a926c152
+run_name: bouncy-penguin-79
+run_uuid: 477ec7e32723478e89485cc2a926c152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379615
+status: 3
+tags: []
+user_id: raka

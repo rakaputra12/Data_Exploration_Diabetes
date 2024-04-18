@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/753939bb53ab49d4b1e0674a25c141a3/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426143
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 753939bb53ab49d4b1e0674a25c141a3
+run_name: peaceful-mouse-473
+run_uuid: 753939bb53ab49d4b1e0674a25c141a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426106
+status: 3
+tags: []
+user_id: raka

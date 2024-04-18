@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5a5429620ec04e67af23d162b4c45f1d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391076
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5a5429620ec04e67af23d162b4c45f1d
+run_name: stately-snail-727
+run_uuid: 5a5429620ec04e67af23d162b4c45f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391056
+status: 3
+tags: []
+user_id: raka

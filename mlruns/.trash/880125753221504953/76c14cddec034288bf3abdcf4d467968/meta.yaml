@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/76c14cddec034288bf3abdcf4d467968/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370530
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 76c14cddec034288bf3abdcf4d467968
+run_name: invincible-wren-260
+run_uuid: 76c14cddec034288bf3abdcf4d467968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370524
+status: 3
+tags: []
+user_id: raka

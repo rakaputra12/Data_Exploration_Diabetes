@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/678b7d44b7054ddabaf1c25f283056cb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374799
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 678b7d44b7054ddabaf1c25f283056cb
+run_name: secretive-croc-576
+run_uuid: 678b7d44b7054ddabaf1c25f283056cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374790
+status: 3
+tags: []
+user_id: raka

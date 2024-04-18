@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4f541f5456c34f3db395fd5c718ba48a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437830
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4f541f5456c34f3db395fd5c718ba48a
+run_name: luminous-jay-694
+run_uuid: 4f541f5456c34f3db395fd5c718ba48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437793
+status: 3
+tags: []
+user_id: raka

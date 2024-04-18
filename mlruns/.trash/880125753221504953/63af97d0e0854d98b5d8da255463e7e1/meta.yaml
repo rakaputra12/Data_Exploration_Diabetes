@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/63af97d0e0854d98b5d8da255463e7e1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437711
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 63af97d0e0854d98b5d8da255463e7e1
+run_name: smiling-deer-574
+run_uuid: 63af97d0e0854d98b5d8da255463e7e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437676
+status: 3
+tags: []
+user_id: raka

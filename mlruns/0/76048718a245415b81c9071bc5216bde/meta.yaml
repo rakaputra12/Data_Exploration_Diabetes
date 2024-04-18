@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/76048718a245415b81c9071bc5216bde/artifacts
+end_time: 1712907717127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76048718a245415b81c9071bc5216bde
+run_name: ambitious-wren-797
+run_uuid: 76048718a245415b81c9071bc5216bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712907506237
+status: 3
+tags: []
+user_id: raka

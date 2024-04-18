@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/676c26ee14e6455ca2fdc4f28635a70e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946449083
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 676c26ee14e6455ca2fdc4f28635a70e
+run_name: marvelous-finch-56
+run_uuid: 676c26ee14e6455ca2fdc4f28635a70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946449047
+status: 3
+tags: []
+user_id: raka

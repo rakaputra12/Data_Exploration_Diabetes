@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/71c2968454b348448d5e30cc441bdd80/artifacts
+deleted_time: 1712947893581
+end_time: 1712946429620
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 71c2968454b348448d5e30cc441bdd80
+run_name: bustling-crow-43
+run_uuid: 71c2968454b348448d5e30cc441bdd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946429589
+status: 3
+tags: []
+user_id: raka

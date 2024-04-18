@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/975c22804b124426af049414279ad0bb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946424487
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 975c22804b124426af049414279ad0bb
+run_name: adaptable-stork-424
+run_uuid: 975c22804b124426af049414279ad0bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946424457
+status: 3
+tags: []
+user_id: raka

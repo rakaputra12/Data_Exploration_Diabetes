@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f5c10871895f418d9aaeaf54e2f72441/artifacts
+deleted_time: 1712947893581
+end_time: 1712946418829
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f5c10871895f418d9aaeaf54e2f72441
+run_name: learned-midge-457
+run_uuid: f5c10871895f418d9aaeaf54e2f72441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946418801
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1cd5d4ac7fd54fea820d4734d673f640/artifacts
+deleted_time: 1712947893581
+end_time: 1712946443901
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1cd5d4ac7fd54fea820d4734d673f640
+run_name: fearless-mare-909
+run_uuid: 1cd5d4ac7fd54fea820d4734d673f640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946443866
+status: 3
+tags: []
+user_id: raka

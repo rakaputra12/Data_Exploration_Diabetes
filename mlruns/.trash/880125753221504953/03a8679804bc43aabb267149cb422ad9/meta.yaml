@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/03a8679804bc43aabb267149cb422ad9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375900
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 03a8679804bc43aabb267149cb422ad9
+run_name: nebulous-vole-740
+run_uuid: 03a8679804bc43aabb267149cb422ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375883
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/880d11bb94784d8ab3cc3400094f6caa/artifacts
+deleted_time: 1712947893581
+end_time: 1712946399540
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 880d11bb94784d8ab3cc3400094f6caa
+run_name: amazing-stork-733
+run_uuid: 880d11bb94784d8ab3cc3400094f6caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946399518
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7a255e4a4d93415b9c70e85872edd74f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946450574
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7a255e4a4d93415b9c70e85872edd74f
+run_name: carefree-dolphin-240
+run_uuid: 7a255e4a4d93415b9c70e85872edd74f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946450535
+status: 3
+tags: []
+user_id: raka

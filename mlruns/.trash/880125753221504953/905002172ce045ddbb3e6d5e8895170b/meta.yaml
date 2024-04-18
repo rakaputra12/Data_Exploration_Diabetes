@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/905002172ce045ddbb3e6d5e8895170b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405724
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 905002172ce045ddbb3e6d5e8895170b
+run_name: bouncy-finch-879
+run_uuid: 905002172ce045ddbb3e6d5e8895170b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405700
+status: 3
+tags: []
+user_id: raka

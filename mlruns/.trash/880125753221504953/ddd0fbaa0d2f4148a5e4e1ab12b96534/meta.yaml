@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ddd0fbaa0d2f4148a5e4e1ab12b96534/artifacts
+deleted_time: 1712947893581
+end_time: 1712946403615
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ddd0fbaa0d2f4148a5e4e1ab12b96534
+run_name: luxuriant-pig-353
+run_uuid: ddd0fbaa0d2f4148a5e4e1ab12b96534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946403592
+status: 3
+tags: []
+user_id: raka

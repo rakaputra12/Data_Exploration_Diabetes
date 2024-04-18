@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8509330c1cb2415cba8613940b96b5ca/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379854
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8509330c1cb2415cba8613940b96b5ca
+run_name: spiffy-bug-938
+run_uuid: 8509330c1cb2415cba8613940b96b5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379839
+status: 3
+tags: []
+user_id: raka

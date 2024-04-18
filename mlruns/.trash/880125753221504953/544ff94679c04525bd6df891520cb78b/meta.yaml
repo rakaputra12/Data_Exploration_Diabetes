@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/544ff94679c04525bd6df891520cb78b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377612
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 544ff94679c04525bd6df891520cb78b
+run_name: gaudy-skink-436
+run_uuid: 544ff94679c04525bd6df891520cb78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377568
+status: 3
+tags: []
+user_id: raka

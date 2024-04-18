@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/63bf6c2fccfa437bb1ec7a50263fe563/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372883
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 63bf6c2fccfa437bb1ec7a50263fe563
+run_name: overjoyed-conch-301
+run_uuid: 63bf6c2fccfa437bb1ec7a50263fe563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372875
+status: 3
+tags: []
+user_id: raka

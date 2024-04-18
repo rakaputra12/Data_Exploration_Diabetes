@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9d83a2669f52458394b4bc15aadb3e4b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405515
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9d83a2669f52458394b4bc15aadb3e4b
+run_name: capable-dog-855
+run_uuid: 9d83a2669f52458394b4bc15aadb3e4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405491
+status: 3
+tags: []
+user_id: raka

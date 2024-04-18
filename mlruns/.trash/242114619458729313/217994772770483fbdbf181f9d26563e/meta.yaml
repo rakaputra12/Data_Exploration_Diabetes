@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/242114619458729313/217994772770483fbdbf181f9d26563e/artifacts
+deleted_time: 1712944405144
+end_time: 1712943534449
+entry_point_name: ''
+experiment_id: '242114619458729313'
+lifecycle_stage: deleted
+run_id: 217994772770483fbdbf181f9d26563e
+run_name: abrasive-koi-710
+run_uuid: 217994772770483fbdbf181f9d26563e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712943531329
+status: 3
+tags: []
+user_id: raka

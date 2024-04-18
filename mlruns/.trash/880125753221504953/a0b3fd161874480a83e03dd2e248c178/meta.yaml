@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a0b3fd161874480a83e03dd2e248c178/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383074
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a0b3fd161874480a83e03dd2e248c178
+run_name: enchanting-trout-537
+run_uuid: a0b3fd161874480a83e03dd2e248c178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383059
+status: 3
+tags: []
+user_id: raka

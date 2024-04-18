@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a7367ffd17694cab8cc1e22b02045610/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381487
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a7367ffd17694cab8cc1e22b02045610
+run_name: bald-jay-276
+run_uuid: a7367ffd17694cab8cc1e22b02045610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381473
+status: 3
+tags: []
+user_id: raka

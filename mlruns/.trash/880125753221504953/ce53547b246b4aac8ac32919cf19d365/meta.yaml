@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ce53547b246b4aac8ac32919cf19d365/artifacts
+deleted_time: 1712947893581
+end_time: 1712946408069
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ce53547b246b4aac8ac32919cf19d365
+run_name: invincible-dog-158
+run_uuid: ce53547b246b4aac8ac32919cf19d365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946408045
+status: 3
+tags: []
+user_id: raka

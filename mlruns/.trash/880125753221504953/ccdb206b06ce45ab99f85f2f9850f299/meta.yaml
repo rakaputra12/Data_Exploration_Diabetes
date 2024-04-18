@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ccdb206b06ce45ab99f85f2f9850f299/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444056
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ccdb206b06ce45ab99f85f2f9850f299
+run_name: worried-ox-190
+run_uuid: ccdb206b06ce45ab99f85f2f9850f299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444020
+status: 3
+tags: []
+user_id: raka

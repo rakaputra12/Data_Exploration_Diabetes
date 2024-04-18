@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/aacda9f1299e42f7844a2b93a1f78a0c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384017
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: aacda9f1299e42f7844a2b93a1f78a0c
+run_name: delicate-duck-900
+run_uuid: aacda9f1299e42f7844a2b93a1f78a0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384003
+status: 3
+tags: []
+user_id: raka

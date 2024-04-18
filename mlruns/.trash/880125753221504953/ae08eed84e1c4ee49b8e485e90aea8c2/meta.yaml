@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ae08eed84e1c4ee49b8e485e90aea8c2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402178
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ae08eed84e1c4ee49b8e485e90aea8c2
+run_name: overjoyed-ram-833
+run_uuid: ae08eed84e1c4ee49b8e485e90aea8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402155
+status: 3
+tags: []
+user_id: raka

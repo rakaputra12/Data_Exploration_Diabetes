@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/685686a12d3c4636ac2fdb5e2cb5ebdb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946416182
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 685686a12d3c4636ac2fdb5e2cb5ebdb
+run_name: clean-mole-176
+run_uuid: 685686a12d3c4636ac2fdb5e2cb5ebdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946416156
+status: 3
+tags: []
+user_id: raka

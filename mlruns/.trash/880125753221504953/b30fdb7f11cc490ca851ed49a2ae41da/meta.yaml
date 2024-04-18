@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b30fdb7f11cc490ca851ed49a2ae41da/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371048
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b30fdb7f11cc490ca851ed49a2ae41da
+run_name: omniscient-cow-968
+run_uuid: b30fdb7f11cc490ca851ed49a2ae41da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371041
+status: 3
+tags: []
+user_id: raka

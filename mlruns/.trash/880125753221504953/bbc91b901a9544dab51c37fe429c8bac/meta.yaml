@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bbc91b901a9544dab51c37fe429c8bac/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391918
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bbc91b901a9544dab51c37fe429c8bac
+run_name: thundering-deer-223
+run_uuid: bbc91b901a9544dab51c37fe429c8bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391898
+status: 3
+tags: []
+user_id: raka

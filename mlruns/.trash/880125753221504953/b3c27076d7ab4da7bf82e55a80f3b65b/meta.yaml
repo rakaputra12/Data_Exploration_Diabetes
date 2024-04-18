@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b3c27076d7ab4da7bf82e55a80f3b65b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946401020
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b3c27076d7ab4da7bf82e55a80f3b65b
+run_name: victorious-rook-727
+run_uuid: b3c27076d7ab4da7bf82e55a80f3b65b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946400998
+status: 3
+tags: []
+user_id: raka

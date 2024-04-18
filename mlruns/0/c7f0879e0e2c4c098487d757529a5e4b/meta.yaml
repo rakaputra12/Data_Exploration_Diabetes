@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/c7f0879e0e2c4c098487d757529a5e4b/artifacts
+end_time: 1713007167921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f0879e0e2c4c098487d757529a5e4b
+run_name: unleashed-bug-248
+run_uuid: c7f0879e0e2c4c098487d757529a5e4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713006778873
+status: 3
+tags: []
+user_id: raka

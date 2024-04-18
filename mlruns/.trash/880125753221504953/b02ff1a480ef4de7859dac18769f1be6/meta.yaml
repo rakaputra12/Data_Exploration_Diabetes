@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b02ff1a480ef4de7859dac18769f1be6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946432611
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b02ff1a480ef4de7859dac18769f1be6
+run_name: rumbling-stoat-319
+run_uuid: b02ff1a480ef4de7859dac18769f1be6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946432579
+status: 3
+tags: []
+user_id: raka

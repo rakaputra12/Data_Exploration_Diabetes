@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bb644d66c8b741579e6e45ec3fca1382/artifacts
+deleted_time: 1712947893581
+end_time: 1712946415405
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bb644d66c8b741579e6e45ec3fca1382
+run_name: handsome-steed-596
+run_uuid: bb644d66c8b741579e6e45ec3fca1382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946415379
+status: 3
+tags: []
+user_id: raka

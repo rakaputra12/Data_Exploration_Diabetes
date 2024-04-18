@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5650379171ed4b2db55e15794c6e80f6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377500
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5650379171ed4b2db55e15794c6e80f6
+run_name: ambitious-kite-273
+run_uuid: 5650379171ed4b2db55e15794c6e80f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377489
+status: 3
+tags: []
+user_id: raka

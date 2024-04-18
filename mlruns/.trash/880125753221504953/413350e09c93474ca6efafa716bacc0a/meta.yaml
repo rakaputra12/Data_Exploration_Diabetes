@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/413350e09c93474ca6efafa716bacc0a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373193
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 413350e09c93474ca6efafa716bacc0a
+run_name: unequaled-kit-70
+run_uuid: 413350e09c93474ca6efafa716bacc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373183
+status: 3
+tags: []
+user_id: raka

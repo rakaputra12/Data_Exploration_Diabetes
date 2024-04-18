@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dcea68262ca1482880bb4f2bd2307390/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388957
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dcea68262ca1482880bb4f2bd2307390
+run_name: mysterious-lark-982
+run_uuid: dcea68262ca1482880bb4f2bd2307390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388939
+status: 3
+tags: []
+user_id: raka

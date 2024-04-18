@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5eb5dd3153e64a78ad6658974b9c6b3e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946440941
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5eb5dd3153e64a78ad6658974b9c6b3e
+run_name: handsome-hare-228
+run_uuid: 5eb5dd3153e64a78ad6658974b9c6b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946440907
+status: 3
+tags: []
+user_id: raka

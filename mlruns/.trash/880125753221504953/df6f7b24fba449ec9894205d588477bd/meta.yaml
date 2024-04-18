@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/df6f7b24fba449ec9894205d588477bd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372653
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: df6f7b24fba449ec9894205d588477bd
+run_name: redolent-shad-829
+run_uuid: df6f7b24fba449ec9894205d588477bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372645
+status: 3
+tags: []
+user_id: raka

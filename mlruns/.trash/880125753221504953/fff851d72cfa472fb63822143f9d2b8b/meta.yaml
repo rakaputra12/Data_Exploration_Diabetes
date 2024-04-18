@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fff851d72cfa472fb63822143f9d2b8b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371765
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fff851d72cfa472fb63822143f9d2b8b
+run_name: amusing-sponge-533
+run_uuid: fff851d72cfa472fb63822143f9d2b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371758
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/64ea64516ef94b4dbc0a60b452a9a53d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376774
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 64ea64516ef94b4dbc0a60b452a9a53d
+run_name: masked-goat-45
+run_uuid: 64ea64516ef94b4dbc0a60b452a9a53d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376761
+status: 3
+tags: []
+user_id: raka

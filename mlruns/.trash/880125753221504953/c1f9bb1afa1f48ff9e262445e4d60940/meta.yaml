@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c1f9bb1afa1f48ff9e262445e4d60940/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390866
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c1f9bb1afa1f48ff9e262445e4d60940
+run_name: illustrious-elk-517
+run_uuid: c1f9bb1afa1f48ff9e262445e4d60940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390848
+status: 3
+tags: []
+user_id: raka

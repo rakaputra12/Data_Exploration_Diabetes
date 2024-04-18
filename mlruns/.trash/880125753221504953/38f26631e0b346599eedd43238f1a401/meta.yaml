@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/38f26631e0b346599eedd43238f1a401/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387949
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 38f26631e0b346599eedd43238f1a401
+run_name: resilient-fowl-381
+run_uuid: 38f26631e0b346599eedd43238f1a401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946387931
+status: 3
+tags: []
+user_id: raka

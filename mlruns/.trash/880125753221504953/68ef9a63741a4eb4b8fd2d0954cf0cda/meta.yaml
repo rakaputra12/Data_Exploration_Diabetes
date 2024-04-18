@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/68ef9a63741a4eb4b8fd2d0954cf0cda/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372795
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 68ef9a63741a4eb4b8fd2d0954cf0cda
+run_name: nimble-gull-192
+run_uuid: 68ef9a63741a4eb4b8fd2d0954cf0cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372787
+status: 3
+tags: []
+user_id: raka

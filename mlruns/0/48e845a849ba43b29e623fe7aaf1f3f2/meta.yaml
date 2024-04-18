@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/48e845a849ba43b29e623fe7aaf1f3f2/artifacts
+end_time: 1713010323768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48e845a849ba43b29e623fe7aaf1f3f2
+run_name: treasured-gull-914
+run_uuid: 48e845a849ba43b29e623fe7aaf1f3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713010323762
+status: 3
+tags: []
+user_id: raka

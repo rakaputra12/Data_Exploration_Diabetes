@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3fae0004143a4f4ca624baf64f91ef23/artifacts
+deleted_time: 1712947893581
+end_time: 1712946403437
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3fae0004143a4f4ca624baf64f91ef23
+run_name: thundering-mink-421
+run_uuid: 3fae0004143a4f4ca624baf64f91ef23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946403414
+status: 3
+tags: []
+user_id: raka

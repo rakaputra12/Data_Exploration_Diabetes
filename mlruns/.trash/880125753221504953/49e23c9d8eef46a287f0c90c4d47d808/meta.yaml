@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/49e23c9d8eef46a287f0c90c4d47d808/artifacts
+deleted_time: 1712947893581
+end_time: 1712946428939
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 49e23c9d8eef46a287f0c90c4d47d808
+run_name: secretive-mule-272
+run_uuid: 49e23c9d8eef46a287f0c90c4d47d808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946428909
+status: 3
+tags: []
+user_id: raka

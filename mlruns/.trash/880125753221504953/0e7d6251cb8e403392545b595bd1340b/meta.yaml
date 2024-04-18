@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0e7d6251cb8e403392545b595bd1340b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372031
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0e7d6251cb8e403392545b595bd1340b
+run_name: intelligent-rat-536
+run_uuid: 0e7d6251cb8e403392545b595bd1340b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372022
+status: 3
+tags: []
+user_id: raka

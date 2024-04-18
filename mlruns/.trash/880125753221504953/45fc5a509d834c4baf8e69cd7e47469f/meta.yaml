@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/45fc5a509d834c4baf8e69cd7e47469f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382580
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 45fc5a509d834c4baf8e69cd7e47469f
+run_name: melodic-snail-574
+run_uuid: 45fc5a509d834c4baf8e69cd7e47469f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382565
+status: 3
+tags: []
+user_id: raka

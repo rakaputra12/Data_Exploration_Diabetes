@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9ce919003884433fbbe0fa3fae7d4802/artifacts
+deleted_time: 1712947893581
+end_time: 1712946440170
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9ce919003884433fbbe0fa3fae7d4802
+run_name: debonair-shoat-533
+run_uuid: 9ce919003884433fbbe0fa3fae7d4802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946440131
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6a45369e6a014772be840669be8ec89b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946443562
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6a45369e6a014772be840669be8ec89b
+run_name: agreeable-kite-314
+run_uuid: 6a45369e6a014772be840669be8ec89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946443528
+status: 3
+tags: []
+user_id: raka

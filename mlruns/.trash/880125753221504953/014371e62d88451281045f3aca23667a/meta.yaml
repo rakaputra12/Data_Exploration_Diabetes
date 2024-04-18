@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/014371e62d88451281045f3aca23667a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946429041
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 014371e62d88451281045f3aca23667a
+run_name: blushing-lark-297
+run_uuid: 014371e62d88451281045f3aca23667a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946429010
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/74f17ae827f240cc9636354c940fae5a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946413410
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 74f17ae827f240cc9636354c940fae5a
+run_name: gifted-stag-324
+run_uuid: 74f17ae827f240cc9636354c940fae5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946413383
+status: 3
+tags: []
+user_id: raka

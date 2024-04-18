@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8511bdf986494ef292aadd82059d89c7/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378343
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8511bdf986494ef292aadd82059d89c7
+run_name: painted-horse-203
+run_uuid: 8511bdf986494ef292aadd82059d89c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378329
+status: 3
+tags: []
+user_id: raka

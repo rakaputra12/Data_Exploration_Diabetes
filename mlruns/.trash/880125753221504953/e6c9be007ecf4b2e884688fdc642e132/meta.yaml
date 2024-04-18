@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e6c9be007ecf4b2e884688fdc642e132/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376969
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e6c9be007ecf4b2e884688fdc642e132
+run_name: luminous-cod-764
+run_uuid: e6c9be007ecf4b2e884688fdc642e132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376956
+status: 3
+tags: []
+user_id: raka

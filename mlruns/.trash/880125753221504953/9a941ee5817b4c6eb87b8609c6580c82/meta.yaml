@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9a941ee5817b4c6eb87b8609c6580c82/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375264
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9a941ee5817b4c6eb87b8609c6580c82
+run_name: adaptable-smelt-640
+run_uuid: 9a941ee5817b4c6eb87b8609c6580c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375254
+status: 3
+tags: []
+user_id: raka

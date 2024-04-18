@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b5b3e6f9fc074fd8ad2187f1386282da/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372213
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b5b3e6f9fc074fd8ad2187f1386282da
+run_name: overjoyed-lamb-52
+run_uuid: b5b3e6f9fc074fd8ad2187f1386282da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372205
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/97728e7762a14c5ea3fb5fec97a1446b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946416063
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 97728e7762a14c5ea3fb5fec97a1446b
+run_name: wistful-rook-253
+run_uuid: 97728e7762a14c5ea3fb5fec97a1446b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946416036
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/929dee2d96ac415fa111fb2daa339e8b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410051
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 929dee2d96ac415fa111fb2daa339e8b
+run_name: upbeat-hog-807
+run_uuid: 929dee2d96ac415fa111fb2daa339e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410025
+status: 3
+tags: []
+user_id: raka

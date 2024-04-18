@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/22f27774b7ce4311baf3a706cc81f298/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396428
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 22f27774b7ce4311baf3a706cc81f298
+run_name: youthful-bee-440
+run_uuid: 22f27774b7ce4311baf3a706cc81f298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396407
+status: 3
+tags: []
+user_id: raka

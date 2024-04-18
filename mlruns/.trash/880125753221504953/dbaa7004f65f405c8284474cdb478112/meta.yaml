@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dbaa7004f65f405c8284474cdb478112/artifacts
+deleted_time: 1712947893581
+end_time: 1712946418138
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dbaa7004f65f405c8284474cdb478112
+run_name: bittersweet-ram-591
+run_uuid: dbaa7004f65f405c8284474cdb478112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946418108
+status: 3
+tags: []
+user_id: raka

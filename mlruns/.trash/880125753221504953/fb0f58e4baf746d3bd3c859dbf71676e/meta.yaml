@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fb0f58e4baf746d3bd3c859dbf71676e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946400777
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fb0f58e4baf746d3bd3c859dbf71676e
+run_name: stately-stork-214
+run_uuid: fb0f58e4baf746d3bd3c859dbf71676e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946400755
+status: 3
+tags: []
+user_id: raka

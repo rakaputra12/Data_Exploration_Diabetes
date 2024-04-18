@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a179ac6eee0d4e8098b98d6b8316b63f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946433817
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a179ac6eee0d4e8098b98d6b8316b63f
+run_name: casual-rook-395
+run_uuid: a179ac6eee0d4e8098b98d6b8316b63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946433781
+status: 3
+tags: []
+user_id: raka

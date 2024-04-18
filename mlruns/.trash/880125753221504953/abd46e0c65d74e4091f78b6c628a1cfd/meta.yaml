@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/abd46e0c65d74e4091f78b6c628a1cfd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378150
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: abd46e0c65d74e4091f78b6c628a1cfd
+run_name: salty-mule-495
+run_uuid: abd46e0c65d74e4091f78b6c628a1cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378138
+status: 3
+tags: []
+user_id: raka

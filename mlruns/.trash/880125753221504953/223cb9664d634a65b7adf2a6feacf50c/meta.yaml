@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/223cb9664d634a65b7adf2a6feacf50c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375537
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 223cb9664d634a65b7adf2a6feacf50c
+run_name: traveling-smelt-173
+run_uuid: 223cb9664d634a65b7adf2a6feacf50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375523
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e22ffbc25d694bdeb13f8b6f31645cf3/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390393
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e22ffbc25d694bdeb13f8b6f31645cf3
+run_name: orderly-mole-388
+run_uuid: e22ffbc25d694bdeb13f8b6f31645cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390373
+status: 3
+tags: []
+user_id: raka

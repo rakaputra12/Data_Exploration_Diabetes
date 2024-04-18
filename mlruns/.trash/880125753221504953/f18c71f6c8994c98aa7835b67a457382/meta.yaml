@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f18c71f6c8994c98aa7835b67a457382/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404337
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f18c71f6c8994c98aa7835b67a457382
+run_name: youthful-loon-364
+run_uuid: f18c71f6c8994c98aa7835b67a457382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404312
+status: 3
+tags: []
+user_id: raka

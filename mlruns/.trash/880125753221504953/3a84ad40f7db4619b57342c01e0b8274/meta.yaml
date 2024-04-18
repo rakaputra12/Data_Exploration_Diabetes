@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3a84ad40f7db4619b57342c01e0b8274/artifacts
+deleted_time: 1712947893581
+end_time: 1712946432822
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3a84ad40f7db4619b57342c01e0b8274
+run_name: abundant-carp-457
+run_uuid: 3a84ad40f7db4619b57342c01e0b8274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946432790
+status: 3
+tags: []
+user_id: raka

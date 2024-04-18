@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/75d50333da4d406d9ac7d2c1e126c61d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946440210
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 75d50333da4d406d9ac7d2c1e126c61d
+run_name: rare-shoat-893
+run_uuid: 75d50333da4d406d9ac7d2c1e126c61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946440174
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/32d620505e144650ad6bd13b332b5928/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376954
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 32d620505e144650ad6bd13b332b5928
+run_name: fun-mole-814
+run_uuid: 32d620505e144650ad6bd13b332b5928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376941
+status: 3
+tags: []
+user_id: raka

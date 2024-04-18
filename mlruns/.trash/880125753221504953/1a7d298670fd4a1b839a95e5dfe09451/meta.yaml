@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1a7d298670fd4a1b839a95e5dfe09451/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392783
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1a7d298670fd4a1b839a95e5dfe09451
+run_name: respected-calf-361
+run_uuid: 1a7d298670fd4a1b839a95e5dfe09451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392764
+status: 3
+tags: []
+user_id: raka

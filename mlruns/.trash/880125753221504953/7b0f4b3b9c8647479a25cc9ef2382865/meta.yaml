@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7b0f4b3b9c8647479a25cc9ef2382865/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371885
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7b0f4b3b9c8647479a25cc9ef2382865
+run_name: mysterious-calf-170
+run_uuid: 7b0f4b3b9c8647479a25cc9ef2382865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371877
+status: 3
+tags: []
+user_id: raka

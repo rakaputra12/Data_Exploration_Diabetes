@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b9b5b144ef9a4429bd9ec90ce1127969/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405593
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b9b5b144ef9a4429bd9ec90ce1127969
+run_name: secretive-slug-121
+run_uuid: b9b5b144ef9a4429bd9ec90ce1127969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405569
+status: 3
+tags: []
+user_id: raka

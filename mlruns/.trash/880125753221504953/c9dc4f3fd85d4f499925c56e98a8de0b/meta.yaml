@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c9dc4f3fd85d4f499925c56e98a8de0b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946400286
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c9dc4f3fd85d4f499925c56e98a8de0b
+run_name: omniscient-chimp-426
+run_uuid: c9dc4f3fd85d4f499925c56e98a8de0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946400264
+status: 3
+tags: []
+user_id: raka

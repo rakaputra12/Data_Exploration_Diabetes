@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/123dc5385fc7449291d13e3d1ef116ad/artifacts
+end_time: 1713012824899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 123dc5385fc7449291d13e3d1ef116ad
+run_name: auspicious-shark-63
+run_uuid: 123dc5385fc7449291d13e3d1ef116ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713011972130
+status: 3
+tags: []
+user_id: raka

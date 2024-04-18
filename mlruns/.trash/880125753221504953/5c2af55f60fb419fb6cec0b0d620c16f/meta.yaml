@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5c2af55f60fb419fb6cec0b0d620c16f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378775
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5c2af55f60fb419fb6cec0b0d620c16f
+run_name: charming-bass-509
+run_uuid: 5c2af55f60fb419fb6cec0b0d620c16f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378762
+status: 3
+tags: []
+user_id: raka

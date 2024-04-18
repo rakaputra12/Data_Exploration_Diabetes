@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f5cc94620b164cc0bb75505d4cffd83b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946410163
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f5cc94620b164cc0bb75505d4cffd83b
+run_name: overjoyed-dove-396
+run_uuid: f5cc94620b164cc0bb75505d4cffd83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946410138
+status: 3
+tags: []
+user_id: raka

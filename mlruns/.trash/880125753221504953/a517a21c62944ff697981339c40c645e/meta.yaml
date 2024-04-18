@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a517a21c62944ff697981339c40c645e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946417668
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a517a21c62944ff697981339c40c645e
+run_name: gaudy-newt-616
+run_uuid: a517a21c62944ff697981339c40c645e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946417641
+status: 3
+tags: []
+user_id: raka

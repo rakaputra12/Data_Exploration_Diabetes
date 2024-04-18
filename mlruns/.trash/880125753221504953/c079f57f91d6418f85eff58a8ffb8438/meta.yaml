@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c079f57f91d6418f85eff58a8ffb8438/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402534
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c079f57f91d6418f85eff58a8ffb8438
+run_name: ambitious-pig-362
+run_uuid: c079f57f91d6418f85eff58a8ffb8438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402511
+status: 3
+tags: []
+user_id: raka

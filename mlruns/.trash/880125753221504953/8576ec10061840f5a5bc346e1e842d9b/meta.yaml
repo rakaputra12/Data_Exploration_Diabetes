@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8576ec10061840f5a5bc346e1e842d9b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946420286
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8576ec10061840f5a5bc346e1e842d9b
+run_name: auspicious-stork-537
+run_uuid: 8576ec10061840f5a5bc346e1e842d9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946420252
+status: 3
+tags: []
+user_id: raka

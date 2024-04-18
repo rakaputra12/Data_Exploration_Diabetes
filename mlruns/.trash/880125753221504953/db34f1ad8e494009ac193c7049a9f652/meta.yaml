@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/db34f1ad8e494009ac193c7049a9f652/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388718
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: db34f1ad8e494009ac193c7049a9f652
+run_name: agreeable-roo-808
+run_uuid: db34f1ad8e494009ac193c7049a9f652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388700
+status: 3
+tags: []
+user_id: raka

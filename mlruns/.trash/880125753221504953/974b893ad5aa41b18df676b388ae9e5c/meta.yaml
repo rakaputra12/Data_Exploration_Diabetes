@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/974b893ad5aa41b18df676b388ae9e5c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378257
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 974b893ad5aa41b18df676b388ae9e5c
+run_name: incongruous-colt-149
+run_uuid: 974b893ad5aa41b18df676b388ae9e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378245
+status: 3
+tags: []
+user_id: raka

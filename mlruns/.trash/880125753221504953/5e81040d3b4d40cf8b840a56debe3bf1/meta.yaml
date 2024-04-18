@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5e81040d3b4d40cf8b840a56debe3bf1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946452839
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5e81040d3b4d40cf8b840a56debe3bf1
+run_name: clumsy-koi-548
+run_uuid: 5e81040d3b4d40cf8b840a56debe3bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946452803
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/331e8e8779d34a84b71d0b5f7df4b369/artifacts
+deleted_time: 1712947893581
+end_time: 1712946449279
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 331e8e8779d34a84b71d0b5f7df4b369
+run_name: beautiful-hound-307
+run_uuid: 331e8e8779d34a84b71d0b5f7df4b369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946449243
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2f8a31dceccf42b0b4d5fe15cdf74131/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392422
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2f8a31dceccf42b0b4d5fe15cdf74131
+run_name: silent-crow-342
+run_uuid: 2f8a31dceccf42b0b4d5fe15cdf74131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392401
+status: 3
+tags: []
+user_id: raka

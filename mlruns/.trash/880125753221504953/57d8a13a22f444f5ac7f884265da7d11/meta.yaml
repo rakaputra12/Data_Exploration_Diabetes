@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/57d8a13a22f444f5ac7f884265da7d11/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437900
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 57d8a13a22f444f5ac7f884265da7d11
+run_name: inquisitive-ox-871
+run_uuid: 57d8a13a22f444f5ac7f884265da7d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437868
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f8e7cc1766ce420a8c66940237f480cb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376895
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f8e7cc1766ce420a8c66940237f480cb
+run_name: painted-roo-505
+run_uuid: f8e7cc1766ce420a8c66940237f480cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376882
+status: 3
+tags: []
+user_id: raka

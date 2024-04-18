@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/846dfbab7f7044d39fa84a1337c0f8c9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379064
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 846dfbab7f7044d39fa84a1337c0f8c9
+run_name: bedecked-shark-15
+run_uuid: 846dfbab7f7044d39fa84a1337c0f8c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379051
+status: 3
+tags: []
+user_id: raka

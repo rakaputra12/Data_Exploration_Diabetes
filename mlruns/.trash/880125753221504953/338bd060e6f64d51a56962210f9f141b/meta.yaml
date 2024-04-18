@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/338bd060e6f64d51a56962210f9f141b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946422704
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 338bd060e6f64d51a56962210f9f141b
+run_name: mercurial-finch-196
+run_uuid: 338bd060e6f64d51a56962210f9f141b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946422674
+status: 3
+tags: []
+user_id: raka

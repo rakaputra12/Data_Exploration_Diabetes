@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e41205265cc1494fbceb84257cb0e94f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377512
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e41205265cc1494fbceb84257cb0e94f
+run_name: puzzled-stork-947
+run_uuid: e41205265cc1494fbceb84257cb0e94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377501
+status: 3
+tags: []
+user_id: raka

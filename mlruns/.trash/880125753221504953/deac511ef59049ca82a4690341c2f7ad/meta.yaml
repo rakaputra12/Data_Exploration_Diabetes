@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/deac511ef59049ca82a4690341c2f7ad/artifacts
+deleted_time: 1712947893581
+end_time: 1712946425182
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: deac511ef59049ca82a4690341c2f7ad
+run_name: judicious-fox-582
+run_uuid: deac511ef59049ca82a4690341c2f7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946425151
+status: 3
+tags: []
+user_id: raka

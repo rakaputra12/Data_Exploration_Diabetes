@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8ceff810957547a68ed3508e79c82bba/artifacts
+deleted_time: 1712947893581
+end_time: 1712946422004
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8ceff810957547a68ed3508e79c82bba
+run_name: delicate-croc-583
+run_uuid: 8ceff810957547a68ed3508e79c82bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946421975
+status: 3
+tags: []
+user_id: raka

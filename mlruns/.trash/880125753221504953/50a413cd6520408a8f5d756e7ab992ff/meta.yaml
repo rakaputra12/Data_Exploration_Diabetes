@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/50a413cd6520408a8f5d756e7ab992ff/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391179
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 50a413cd6520408a8f5d756e7ab992ff
+run_name: flawless-pug-896
+run_uuid: 50a413cd6520408a8f5d756e7ab992ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391161
+status: 3
+tags: []
+user_id: raka

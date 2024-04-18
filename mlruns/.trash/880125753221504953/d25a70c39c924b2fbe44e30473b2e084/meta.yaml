@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d25a70c39c924b2fbe44e30473b2e084/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385786
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d25a70c39c924b2fbe44e30473b2e084
+run_name: popular-goat-701
+run_uuid: d25a70c39c924b2fbe44e30473b2e084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385769
+status: 3
+tags: []
+user_id: raka

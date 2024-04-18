@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d8ac08b5b12e4159a792802b2c02d525/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375508
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d8ac08b5b12e4159a792802b2c02d525
+run_name: fun-horse-1000
+run_uuid: d8ac08b5b12e4159a792802b2c02d525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375496
+status: 3
+tags: []
+user_id: raka

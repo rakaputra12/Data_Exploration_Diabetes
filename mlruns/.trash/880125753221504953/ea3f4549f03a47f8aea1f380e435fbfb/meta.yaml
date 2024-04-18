@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ea3f4549f03a47f8aea1f380e435fbfb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946446700
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ea3f4549f03a47f8aea1f380e435fbfb
+run_name: skillful-ram-792
+run_uuid: ea3f4549f03a47f8aea1f380e435fbfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946446665
+status: 3
+tags: []
+user_id: raka

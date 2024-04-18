@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a05210f7a37449b0bc32095fd5699bc5/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426239
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a05210f7a37449b0bc32095fd5699bc5
+run_name: enchanting-gnat-436
+run_uuid: a05210f7a37449b0bc32095fd5699bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426209
+status: 3
+tags: []
+user_id: raka

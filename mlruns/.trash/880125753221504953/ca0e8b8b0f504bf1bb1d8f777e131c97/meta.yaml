@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ca0e8b8b0f504bf1bb1d8f777e131c97/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383917
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ca0e8b8b0f504bf1bb1d8f777e131c97
+run_name: blushing-trout-393
+run_uuid: ca0e8b8b0f504bf1bb1d8f777e131c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383901
+status: 3
+tags: []
+user_id: raka

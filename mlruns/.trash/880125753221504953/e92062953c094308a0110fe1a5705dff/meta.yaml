@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e92062953c094308a0110fe1a5705dff/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385750
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e92062953c094308a0110fe1a5705dff
+run_name: crawling-fish-528
+run_uuid: e92062953c094308a0110fe1a5705dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385734
+status: 3
+tags: []
+user_id: raka

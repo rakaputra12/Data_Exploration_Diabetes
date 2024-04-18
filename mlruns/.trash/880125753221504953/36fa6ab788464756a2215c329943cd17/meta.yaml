@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/36fa6ab788464756a2215c329943cd17/artifacts
+deleted_time: 1712947893581
+end_time: 1712946409480
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 36fa6ab788464756a2215c329943cd17
+run_name: overjoyed-stork-684
+run_uuid: 36fa6ab788464756a2215c329943cd17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946409455
+status: 3
+tags: []
+user_id: raka

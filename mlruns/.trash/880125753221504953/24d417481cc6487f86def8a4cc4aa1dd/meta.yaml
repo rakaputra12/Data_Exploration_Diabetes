@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/24d417481cc6487f86def8a4cc4aa1dd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946393556
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 24d417481cc6487f86def8a4cc4aa1dd
+run_name: sincere-snake-669
+run_uuid: 24d417481cc6487f86def8a4cc4aa1dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946393537
+status: 3
+tags: []
+user_id: raka

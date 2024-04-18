@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/972c8159fcd845b1bf05a0644be46a1a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402203
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 972c8159fcd845b1bf05a0644be46a1a
+run_name: blushing-lamb-546
+run_uuid: 972c8159fcd845b1bf05a0644be46a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402180
+status: 3
+tags: []
+user_id: raka

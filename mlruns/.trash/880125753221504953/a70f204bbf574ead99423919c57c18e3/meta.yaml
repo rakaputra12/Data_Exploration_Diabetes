@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a70f204bbf574ead99423919c57c18e3/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405145
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a70f204bbf574ead99423919c57c18e3
+run_name: rogue-goose-161
+run_uuid: a70f204bbf574ead99423919c57c18e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405122
+status: 3
+tags: []
+user_id: raka

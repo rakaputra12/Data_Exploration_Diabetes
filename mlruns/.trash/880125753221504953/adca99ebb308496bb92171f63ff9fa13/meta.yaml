@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/adca99ebb308496bb92171f63ff9fa13/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391814
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: adca99ebb308496bb92171f63ff9fa13
+run_name: funny-bee-979
+run_uuid: adca99ebb308496bb92171f63ff9fa13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391796
+status: 3
+tags: []
+user_id: raka

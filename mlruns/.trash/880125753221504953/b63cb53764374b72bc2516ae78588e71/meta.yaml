@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b63cb53764374b72bc2516ae78588e71/artifacts
+deleted_time: 1712947893581
+end_time: 1712946415170
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b63cb53764374b72bc2516ae78588e71
+run_name: learned-whale-2
+run_uuid: b63cb53764374b72bc2516ae78588e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946415143
+status: 3
+tags: []
+user_id: raka

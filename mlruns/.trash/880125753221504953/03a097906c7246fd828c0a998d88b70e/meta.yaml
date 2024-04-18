@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/03a097906c7246fd828c0a998d88b70e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437108
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 03a097906c7246fd828c0a998d88b70e
+run_name: trusting-crow-274
+run_uuid: 03a097906c7246fd828c0a998d88b70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437074
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b113e9d4a17f4daa8fc634b8aad1b6c2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946412948
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b113e9d4a17f4daa8fc634b8aad1b6c2
+run_name: zealous-dog-814
+run_uuid: b113e9d4a17f4daa8fc634b8aad1b6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946412920
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fbb83cfb3e7249ad9f1f9f18b78d1447/artifacts
+deleted_time: 1712947893581
+end_time: 1712946400019
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fbb83cfb3e7249ad9f1f9f18b78d1447
+run_name: gentle-stork-847
+run_uuid: fbb83cfb3e7249ad9f1f9f18b78d1447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946399998
+status: 3
+tags: []
+user_id: raka

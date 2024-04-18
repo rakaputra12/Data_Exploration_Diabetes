@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/46719fe69a134ee1a70f09e4ab7ce325/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370596
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 46719fe69a134ee1a70f09e4ab7ce325
+run_name: secretive-crow-300
+run_uuid: 46719fe69a134ee1a70f09e4ab7ce325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370591
+status: 3
+tags: []
+user_id: raka

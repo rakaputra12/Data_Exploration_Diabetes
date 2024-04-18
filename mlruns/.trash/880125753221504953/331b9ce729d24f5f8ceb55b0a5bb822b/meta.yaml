@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/331b9ce729d24f5f8ceb55b0a5bb822b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379515
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 331b9ce729d24f5f8ceb55b0a5bb822b
+run_name: abrasive-trout-301
+run_uuid: 331b9ce729d24f5f8ceb55b0a5bb822b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379502
+status: 3
+tags: []
+user_id: raka

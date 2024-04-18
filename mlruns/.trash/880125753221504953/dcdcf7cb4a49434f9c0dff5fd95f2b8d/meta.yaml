@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dcdcf7cb4a49434f9c0dff5fd95f2b8d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383354
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dcdcf7cb4a49434f9c0dff5fd95f2b8d
+run_name: merciful-rat-566
+run_uuid: dcdcf7cb4a49434f9c0dff5fd95f2b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383338
+status: 3
+tags: []
+user_id: raka

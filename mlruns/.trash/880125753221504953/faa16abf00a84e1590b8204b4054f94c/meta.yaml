@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/faa16abf00a84e1590b8204b4054f94c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386647
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: faa16abf00a84e1590b8204b4054f94c
+run_name: debonair-toad-948
+run_uuid: faa16abf00a84e1590b8204b4054f94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386631
+status: 3
+tags: []
+user_id: raka

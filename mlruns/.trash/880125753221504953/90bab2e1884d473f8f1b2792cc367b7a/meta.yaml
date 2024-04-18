@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/90bab2e1884d473f8f1b2792cc367b7a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383303
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 90bab2e1884d473f8f1b2792cc367b7a
+run_name: sassy-mule-844
+run_uuid: 90bab2e1884d473f8f1b2792cc367b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383288
+status: 3
+tags: []
+user_id: raka

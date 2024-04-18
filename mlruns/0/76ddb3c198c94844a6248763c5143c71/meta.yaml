@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/76ddb3c198c94844a6248763c5143c71/artifacts
+end_time: 1712951227741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76ddb3c198c94844a6248763c5143c71
+run_name: dazzling-bear-120
+run_uuid: 76ddb3c198c94844a6248763c5143c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712951011071
+status: 3
+tags: []
+user_id: raka

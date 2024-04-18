@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/006fbd054d754f97b1aee1c970a8dc29/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391034
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 006fbd054d754f97b1aee1c970a8dc29
+run_name: hilarious-toad-576
+run_uuid: 006fbd054d754f97b1aee1c970a8dc29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391016
+status: 3
+tags: []
+user_id: raka

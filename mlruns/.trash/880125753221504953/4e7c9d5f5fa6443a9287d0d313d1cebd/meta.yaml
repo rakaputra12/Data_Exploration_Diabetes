@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4e7c9d5f5fa6443a9287d0d313d1cebd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946414085
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4e7c9d5f5fa6443a9287d0d313d1cebd
+run_name: upset-midge-106
+run_uuid: 4e7c9d5f5fa6443a9287d0d313d1cebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946414059
+status: 3
+tags: []
+user_id: raka

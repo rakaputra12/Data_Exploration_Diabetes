@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a1a7ad89580f4582b3e28484cef89322/artifacts
+deleted_time: 1712947893581
+end_time: 1712946451720
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a1a7ad89580f4582b3e28484cef89322
+run_name: upbeat-perch-962
+run_uuid: a1a7ad89580f4582b3e28484cef89322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946451685
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/38d8cd9dfcde449d8e6f5a36667cc2c2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374585
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 38d8cd9dfcde449d8e6f5a36667cc2c2
+run_name: youthful-vole-326
+run_uuid: 38d8cd9dfcde449d8e6f5a36667cc2c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374575
+status: 3
+tags: []
+user_id: raka

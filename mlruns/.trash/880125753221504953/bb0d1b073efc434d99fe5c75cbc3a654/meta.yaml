@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bb0d1b073efc434d99fe5c75cbc3a654/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391263
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bb0d1b073efc434d99fe5c75cbc3a654
+run_name: merciful-foal-409
+run_uuid: bb0d1b073efc434d99fe5c75cbc3a654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391245
+status: 3
+tags: []
+user_id: raka

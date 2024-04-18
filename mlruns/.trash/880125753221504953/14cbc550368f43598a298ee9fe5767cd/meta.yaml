@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/14cbc550368f43598a298ee9fe5767cd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391137
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 14cbc550368f43598a298ee9fe5767cd
+run_name: kindly-grub-695
+run_uuid: 14cbc550368f43598a298ee9fe5767cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391119
+status: 3
+tags: []
+user_id: raka

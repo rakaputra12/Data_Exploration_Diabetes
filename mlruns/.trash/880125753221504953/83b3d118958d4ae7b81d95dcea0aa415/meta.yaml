@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/83b3d118958d4ae7b81d95dcea0aa415/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382018
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 83b3d118958d4ae7b81d95dcea0aa415
+run_name: intelligent-stag-990
+run_uuid: 83b3d118958d4ae7b81d95dcea0aa415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382004
+status: 3
+tags: []
+user_id: raka

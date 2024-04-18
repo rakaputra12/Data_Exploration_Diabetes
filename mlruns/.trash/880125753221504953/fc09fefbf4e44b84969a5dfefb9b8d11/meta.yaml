@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fc09fefbf4e44b84969a5dfefb9b8d11/artifacts
+deleted_time: 1712947893581
+end_time: 1712946397658
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fc09fefbf4e44b84969a5dfefb9b8d11
+run_name: enthused-fowl-425
+run_uuid: fc09fefbf4e44b84969a5dfefb9b8d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946397637
+status: 3
+tags: []
+user_id: raka

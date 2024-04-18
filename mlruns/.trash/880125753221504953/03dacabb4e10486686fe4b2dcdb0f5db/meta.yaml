@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/03dacabb4e10486686fe4b2dcdb0f5db/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436505
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 03dacabb4e10486686fe4b2dcdb0f5db
+run_name: melodic-donkey-802
+run_uuid: 03dacabb4e10486686fe4b2dcdb0f5db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436471
+status: 3
+tags: []
+user_id: raka

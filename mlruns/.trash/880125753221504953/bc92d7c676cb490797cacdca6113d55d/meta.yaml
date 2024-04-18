@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bc92d7c676cb490797cacdca6113d55d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389508
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bc92d7c676cb490797cacdca6113d55d
+run_name: chill-shoat-737
+run_uuid: bc92d7c676cb490797cacdca6113d55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389491
+status: 3
+tags: []
+user_id: raka

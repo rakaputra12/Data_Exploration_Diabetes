@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bc46d2c114c4446398aafdd2320ec32d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946452320
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bc46d2c114c4446398aafdd2320ec32d
+run_name: learned-mink-454
+run_uuid: bc46d2c114c4446398aafdd2320ec32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946452283
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/02b3ce81c0054ba0ad7fa7397e65a177/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374607
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 02b3ce81c0054ba0ad7fa7397e65a177
+run_name: serious-stork-596
+run_uuid: 02b3ce81c0054ba0ad7fa7397e65a177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374597
+status: 3
+tags: []
+user_id: raka

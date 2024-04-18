@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0301053f0e2f486b8fb0d91871b7926f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396586
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0301053f0e2f486b8fb0d91871b7926f
+run_name: masked-swan-144
+run_uuid: 0301053f0e2f486b8fb0d91871b7926f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396566
+status: 3
+tags: []
+user_id: raka

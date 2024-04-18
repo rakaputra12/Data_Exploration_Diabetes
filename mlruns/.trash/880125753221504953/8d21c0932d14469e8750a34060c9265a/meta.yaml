@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8d21c0932d14469e8750a34060c9265a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946452196
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8d21c0932d14469e8750a34060c9265a
+run_name: luminous-flea-236
+run_uuid: 8d21c0932d14469e8750a34060c9265a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946452160
+status: 3
+tags: []
+user_id: raka

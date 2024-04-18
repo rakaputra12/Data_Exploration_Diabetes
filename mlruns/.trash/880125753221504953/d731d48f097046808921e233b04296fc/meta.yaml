@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d731d48f097046808921e233b04296fc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946438057
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d731d48f097046808921e233b04296fc
+run_name: loud-moth-922
+run_uuid: d731d48f097046808921e233b04296fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946438024
+status: 3
+tags: []
+user_id: raka

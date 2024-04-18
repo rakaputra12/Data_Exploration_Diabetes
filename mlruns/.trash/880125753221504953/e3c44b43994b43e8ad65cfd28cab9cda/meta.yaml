@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e3c44b43994b43e8ad65cfd28cab9cda/artifacts
+deleted_time: 1712947893581
+end_time: 1712946425083
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e3c44b43994b43e8ad65cfd28cab9cda
+run_name: bald-doe-890
+run_uuid: e3c44b43994b43e8ad65cfd28cab9cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946425052
+status: 3
+tags: []
+user_id: raka

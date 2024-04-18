@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/012aae7d832c48a5aa689f1a16d7199b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946447678
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 012aae7d832c48a5aa689f1a16d7199b
+run_name: blushing-gull-246
+run_uuid: 012aae7d832c48a5aa689f1a16d7199b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946447642
+status: 3
+tags: []
+user_id: raka

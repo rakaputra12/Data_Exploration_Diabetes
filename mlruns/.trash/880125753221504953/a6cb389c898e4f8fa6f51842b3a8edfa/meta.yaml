@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a6cb389c898e4f8fa6f51842b3a8edfa/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377286
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a6cb389c898e4f8fa6f51842b3a8edfa
+run_name: smiling-moth-690
+run_uuid: a6cb389c898e4f8fa6f51842b3a8edfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377273
+status: 3
+tags: []
+user_id: raka

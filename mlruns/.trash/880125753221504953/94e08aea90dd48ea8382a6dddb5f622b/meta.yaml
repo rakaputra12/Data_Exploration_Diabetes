@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/94e08aea90dd48ea8382a6dddb5f622b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946395040
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 94e08aea90dd48ea8382a6dddb5f622b
+run_name: glamorous-carp-342
+run_uuid: 94e08aea90dd48ea8382a6dddb5f622b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946395021
+status: 3
+tags: []
+user_id: raka

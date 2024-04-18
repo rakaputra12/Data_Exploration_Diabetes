@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/acb0bffcd38c4f50b70ccbc2460f2e4f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391752
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: acb0bffcd38c4f50b70ccbc2460f2e4f
+run_name: welcoming-cow-250
+run_uuid: acb0bffcd38c4f50b70ccbc2460f2e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391733
+status: 3
+tags: []
+user_id: raka

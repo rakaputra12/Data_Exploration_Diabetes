@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7bcfb33fc0c04818a525e4eea18f0653/artifacts
+deleted_time: 1712947893581
+end_time: 1712946393105
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7bcfb33fc0c04818a525e4eea18f0653
+run_name: shivering-whale-585
+run_uuid: 7bcfb33fc0c04818a525e4eea18f0653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946393086
+status: 3
+tags: []
+user_id: raka

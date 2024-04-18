@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0bd08e2316384362a794002c0b15982b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380563
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0bd08e2316384362a794002c0b15982b
+run_name: gaudy-chimp-306
+run_uuid: 0bd08e2316384362a794002c0b15982b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380549
+status: 3
+tags: []
+user_id: raka

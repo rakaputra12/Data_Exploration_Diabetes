@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/84395362c56046809f19655b326b1de0/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387051
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 84395362c56046809f19655b326b1de0
+run_name: learned-crab-646
+run_uuid: 84395362c56046809f19655b326b1de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946387016
+status: 3
+tags: []
+user_id: raka

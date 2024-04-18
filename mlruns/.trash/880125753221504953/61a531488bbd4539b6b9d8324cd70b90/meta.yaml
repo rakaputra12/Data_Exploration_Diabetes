@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/61a531488bbd4539b6b9d8324cd70b90/artifacts
+deleted_time: 1712947893581
+end_time: 1712946452517
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 61a531488bbd4539b6b9d8324cd70b90
+run_name: omniscient-gnat-16
+run_uuid: 61a531488bbd4539b6b9d8324cd70b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946452481
+status: 3
+tags: []
+user_id: raka

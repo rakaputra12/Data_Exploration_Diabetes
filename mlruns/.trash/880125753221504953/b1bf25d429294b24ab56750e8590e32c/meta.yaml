@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b1bf25d429294b24ab56750e8590e32c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380682
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b1bf25d429294b24ab56750e8590e32c
+run_name: lyrical-smelt-465
+run_uuid: b1bf25d429294b24ab56750e8590e32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380668
+status: 3
+tags: []
+user_id: raka

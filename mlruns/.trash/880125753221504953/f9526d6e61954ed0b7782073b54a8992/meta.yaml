@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f9526d6e61954ed0b7782073b54a8992/artifacts
+deleted_time: 1712947893581
+end_time: 1712946406342
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f9526d6e61954ed0b7782073b54a8992
+run_name: abundant-kit-742
+run_uuid: f9526d6e61954ed0b7782073b54a8992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946406317
+status: 3
+tags: []
+user_id: raka

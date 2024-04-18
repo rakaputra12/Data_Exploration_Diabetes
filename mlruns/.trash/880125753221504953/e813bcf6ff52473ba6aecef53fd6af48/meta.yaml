@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e813bcf6ff52473ba6aecef53fd6af48/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375015
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e813bcf6ff52473ba6aecef53fd6af48
+run_name: burly-goat-887
+run_uuid: e813bcf6ff52473ba6aecef53fd6af48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375005
+status: 3
+tags: []
+user_id: raka

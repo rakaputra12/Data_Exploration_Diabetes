@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/eeee0204f33d45579ec88ace4153cd30/artifacts
+deleted_time: 1712947893581
+end_time: 1712946408233
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: eeee0204f33d45579ec88ace4153cd30
+run_name: amusing-gull-52
+run_uuid: eeee0204f33d45579ec88ace4153cd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946408208
+status: 3
+tags: []
+user_id: raka

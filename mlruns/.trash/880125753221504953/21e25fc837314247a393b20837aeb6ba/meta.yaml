@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/21e25fc837314247a393b20837aeb6ba/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402610
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 21e25fc837314247a393b20837aeb6ba
+run_name: capricious-gull-655
+run_uuid: 21e25fc837314247a393b20837aeb6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402587
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ddf46a8586a649dabb0edd9abacbc30f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390071
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ddf46a8586a649dabb0edd9abacbc30f
+run_name: defiant-dog-435
+run_uuid: ddf46a8586a649dabb0edd9abacbc30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390053
+status: 3
+tags: []
+user_id: raka

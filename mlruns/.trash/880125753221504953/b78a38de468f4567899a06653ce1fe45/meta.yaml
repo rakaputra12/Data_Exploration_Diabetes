@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b78a38de468f4567899a06653ce1fe45/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426810
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b78a38de468f4567899a06653ce1fe45
+run_name: popular-ram-972
+run_uuid: b78a38de468f4567899a06653ce1fe45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426780
+status: 3
+tags: []
+user_id: raka

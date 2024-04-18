@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f7bd5aadd4e642a89267a1b9e4a756e6/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383236
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f7bd5aadd4e642a89267a1b9e4a756e6
+run_name: flawless-seal-947
+run_uuid: f7bd5aadd4e642a89267a1b9e4a756e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383222
+status: 3
+tags: []
+user_id: raka

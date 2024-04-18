@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/215282c76f6a46209ed88f406a764f1c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385195
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 215282c76f6a46209ed88f406a764f1c
+run_name: selective-vole-54
+run_uuid: 215282c76f6a46209ed88f406a764f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385179
+status: 3
+tags: []
+user_id: raka

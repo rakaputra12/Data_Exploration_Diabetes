@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d3b0069834dc449f8d7b6a136636b656/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374083
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d3b0069834dc449f8d7b6a136636b656
+run_name: indecisive-shoat-561
+run_uuid: d3b0069834dc449f8d7b6a136636b656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374074
+status: 3
+tags: []
+user_id: raka

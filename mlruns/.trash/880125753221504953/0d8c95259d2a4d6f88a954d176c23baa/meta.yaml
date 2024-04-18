@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0d8c95259d2a4d6f88a954d176c23baa/artifacts
+deleted_time: 1712947893581
+end_time: 1712946408151
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0d8c95259d2a4d6f88a954d176c23baa
+run_name: lyrical-bird-995
+run_uuid: 0d8c95259d2a4d6f88a954d176c23baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946408126
+status: 3
+tags: []
+user_id: raka

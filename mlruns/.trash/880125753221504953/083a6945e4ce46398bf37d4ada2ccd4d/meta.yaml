@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/083a6945e4ce46398bf37d4ada2ccd4d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946395853
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 083a6945e4ce46398bf37d4ada2ccd4d
+run_name: ambitious-quail-499
+run_uuid: 083a6945e4ce46398bf37d4ada2ccd4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946395832
+status: 3
+tags: []
+user_id: raka

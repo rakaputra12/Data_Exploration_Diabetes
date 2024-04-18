@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/155e9dea8277451c96d8c9a560a25caa/artifacts
+deleted_time: 1712947893581
+end_time: 1712946428189
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 155e9dea8277451c96d8c9a560a25caa
+run_name: stylish-roo-192
+run_uuid: 155e9dea8277451c96d8c9a560a25caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946428158
+status: 3
+tags: []
+user_id: raka

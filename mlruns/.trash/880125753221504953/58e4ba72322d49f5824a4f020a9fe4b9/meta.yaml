@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/58e4ba72322d49f5824a4f020a9fe4b9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373536
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 58e4ba72322d49f5824a4f020a9fe4b9
+run_name: loud-doe-997
+run_uuid: 58e4ba72322d49f5824a4f020a9fe4b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373527
+status: 3
+tags: []
+user_id: raka

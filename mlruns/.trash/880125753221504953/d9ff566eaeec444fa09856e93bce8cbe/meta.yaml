@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d9ff566eaeec444fa09856e93bce8cbe/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384085
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d9ff566eaeec444fa09856e93bce8cbe
+run_name: debonair-fox-756
+run_uuid: d9ff566eaeec444fa09856e93bce8cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384070
+status: 3
+tags: []
+user_id: raka

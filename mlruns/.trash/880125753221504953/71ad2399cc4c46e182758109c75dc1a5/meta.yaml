@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/71ad2399cc4c46e182758109c75dc1a5/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382976
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 71ad2399cc4c46e182758109c75dc1a5
+run_name: sassy-frog-32
+run_uuid: 71ad2399cc4c46e182758109c75dc1a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382961
+status: 3
+tags: []
+user_id: raka

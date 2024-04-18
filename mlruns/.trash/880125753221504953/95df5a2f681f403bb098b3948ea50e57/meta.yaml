@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/95df5a2f681f403bb098b3948ea50e57/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378458
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 95df5a2f681f403bb098b3948ea50e57
+run_name: brawny-kit-750
+run_uuid: 95df5a2f681f403bb098b3948ea50e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378446
+status: 3
+tags: []
+user_id: raka

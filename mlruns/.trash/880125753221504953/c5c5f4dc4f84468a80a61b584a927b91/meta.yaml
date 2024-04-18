@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c5c5f4dc4f84468a80a61b584a927b91/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392741
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c5c5f4dc4f84468a80a61b584a927b91
+run_name: abrasive-cow-90
+run_uuid: c5c5f4dc4f84468a80a61b584a927b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392722
+status: 3
+tags: []
+user_id: raka

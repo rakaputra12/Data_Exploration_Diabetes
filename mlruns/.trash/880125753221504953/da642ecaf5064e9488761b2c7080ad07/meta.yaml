@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/da642ecaf5064e9488761b2c7080ad07/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385090
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: da642ecaf5064e9488761b2c7080ad07
+run_name: hilarious-colt-814
+run_uuid: da642ecaf5064e9488761b2c7080ad07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385074
+status: 3
+tags: []
+user_id: raka

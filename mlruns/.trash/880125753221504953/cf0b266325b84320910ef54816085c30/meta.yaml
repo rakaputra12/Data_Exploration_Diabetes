@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cf0b266325b84320910ef54816085c30/artifacts
+deleted_time: 1712947893581
+end_time: 1712946397337
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cf0b266325b84320910ef54816085c30
+run_name: burly-skink-714
+run_uuid: cf0b266325b84320910ef54816085c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946397316
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3dc750eb2a0b440d9d07dc3809f8d93d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370760
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3dc750eb2a0b440d9d07dc3809f8d93d
+run_name: delightful-hawk-618
+run_uuid: 3dc750eb2a0b440d9d07dc3809f8d93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370755
+status: 3
+tags: []
+user_id: raka

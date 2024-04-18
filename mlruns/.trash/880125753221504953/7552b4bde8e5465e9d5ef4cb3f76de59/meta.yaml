@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7552b4bde8e5465e9d5ef4cb3f76de59/artifacts
+deleted_time: 1712947893581
+end_time: 1712946445441
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7552b4bde8e5465e9d5ef4cb3f76de59
+run_name: caring-quail-538
+run_uuid: 7552b4bde8e5465e9d5ef4cb3f76de59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946445406
+status: 3
+tags: []
+user_id: raka

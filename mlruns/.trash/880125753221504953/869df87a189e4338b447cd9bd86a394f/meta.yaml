@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/869df87a189e4338b447cd9bd86a394f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370745
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 869df87a189e4338b447cd9bd86a394f
+run_name: fortunate-moose-122
+run_uuid: 869df87a189e4338b447cd9bd86a394f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370739
+status: 3
+tags: []
+user_id: raka

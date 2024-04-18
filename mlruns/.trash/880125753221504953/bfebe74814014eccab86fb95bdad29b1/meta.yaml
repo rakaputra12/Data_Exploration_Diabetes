@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bfebe74814014eccab86fb95bdad29b1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946443750
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bfebe74814014eccab86fb95bdad29b1
+run_name: handsome-shrimp-777
+run_uuid: bfebe74814014eccab86fb95bdad29b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946443715
+status: 3
+tags: []
+user_id: raka

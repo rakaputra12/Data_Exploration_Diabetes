@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/91e31205744242c1a7edf16f1d2d3d3d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946445289
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 91e31205744242c1a7edf16f1d2d3d3d
+run_name: sneaky-hog-610
+run_uuid: 91e31205744242c1a7edf16f1d2d3d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946445255
+status: 3
+tags: []
+user_id: raka

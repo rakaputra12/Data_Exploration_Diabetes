@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b7224c1450a14b4cb0f9fac7cb36a25e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436246
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b7224c1450a14b4cb0f9fac7cb36a25e
+run_name: blushing-flea-323
+run_uuid: b7224c1450a14b4cb0f9fac7cb36a25e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436210
+status: 3
+tags: []
+user_id: raka

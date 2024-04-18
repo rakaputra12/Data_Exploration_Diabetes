@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e6e3adaca31c4193a291a4d2df65f30a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374214
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e6e3adaca31c4193a291a4d2df65f30a
+run_name: charming-stoat-553
+run_uuid: e6e3adaca31c4193a291a4d2df65f30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374205
+status: 3
+tags: []
+user_id: raka

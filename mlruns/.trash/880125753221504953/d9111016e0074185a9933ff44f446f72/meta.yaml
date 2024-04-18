@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d9111016e0074185a9933ff44f446f72/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371103
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d9111016e0074185a9933ff44f446f72
+run_name: selective-dog-929
+run_uuid: d9111016e0074185a9933ff44f446f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371097
+status: 3
+tags: []
+user_id: raka

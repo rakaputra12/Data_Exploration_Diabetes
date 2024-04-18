@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2fc9f97d1fac4d20b3267e54eb855dcd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946445746
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2fc9f97d1fac4d20b3267e54eb855dcd
+run_name: glamorous-colt-946
+run_uuid: 2fc9f97d1fac4d20b3267e54eb855dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946445711
+status: 3
+tags: []
+user_id: raka

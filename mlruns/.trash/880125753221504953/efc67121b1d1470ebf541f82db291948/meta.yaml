@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/efc67121b1d1470ebf541f82db291948/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372080
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: efc67121b1d1470ebf541f82db291948
+run_name: resilient-shrew-575
+run_uuid: efc67121b1d1470ebf541f82db291948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372070
+status: 3
+tags: []
+user_id: raka

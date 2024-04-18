@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/df69998eaba44c96bb1e62a909782687/artifacts
+deleted_time: 1712947893581
+end_time: 1712946407068
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: df69998eaba44c96bb1e62a909782687
+run_name: bold-seal-843
+run_uuid: df69998eaba44c96bb1e62a909782687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946407044
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/763aa7315ccf4ed5ada71b08557c54dc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396241
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 763aa7315ccf4ed5ada71b08557c54dc
+run_name: crawling-shark-647
+run_uuid: 763aa7315ccf4ed5ada71b08557c54dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396221
+status: 3
+tags: []
+user_id: raka

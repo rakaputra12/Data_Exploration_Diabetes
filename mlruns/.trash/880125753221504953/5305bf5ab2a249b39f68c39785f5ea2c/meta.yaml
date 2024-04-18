@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5305bf5ab2a249b39f68c39785f5ea2c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402867
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5305bf5ab2a249b39f68c39785f5ea2c
+run_name: big-moose-779
+run_uuid: 5305bf5ab2a249b39f68c39785f5ea2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402841
+status: 3
+tags: []
+user_id: raka

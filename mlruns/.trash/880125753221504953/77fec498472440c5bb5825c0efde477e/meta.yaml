@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/77fec498472440c5bb5825c0efde477e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946428906
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 77fec498472440c5bb5825c0efde477e
+run_name: enchanting-moose-200
+run_uuid: 77fec498472440c5bb5825c0efde477e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946428874
+status: 3
+tags: []
+user_id: raka

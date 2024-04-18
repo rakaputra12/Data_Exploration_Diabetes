@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2dd17b86b20c44fe9d18a284175bbb82/artifacts
+deleted_time: 1712947893581
+end_time: 1712946395475
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2dd17b86b20c44fe9d18a284175bbb82
+run_name: invincible-cow-925
+run_uuid: 2dd17b86b20c44fe9d18a284175bbb82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946395423
+status: 3
+tags: []
+user_id: raka

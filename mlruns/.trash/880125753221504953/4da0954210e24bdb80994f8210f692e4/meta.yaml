@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4da0954210e24bdb80994f8210f692e4/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383042
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4da0954210e24bdb80994f8210f692e4
+run_name: aged-penguin-271
+run_uuid: 4da0954210e24bdb80994f8210f692e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383028
+status: 3
+tags: []
+user_id: raka

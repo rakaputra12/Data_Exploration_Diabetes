@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/74c941559f4d41e294bd14c0797c26f7/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385857
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 74c941559f4d41e294bd14c0797c26f7
+run_name: auspicious-fowl-661
+run_uuid: 74c941559f4d41e294bd14c0797c26f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385841
+status: 3
+tags: []
+user_id: raka

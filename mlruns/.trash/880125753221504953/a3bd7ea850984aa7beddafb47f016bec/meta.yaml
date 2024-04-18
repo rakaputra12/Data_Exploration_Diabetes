@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a3bd7ea850984aa7beddafb47f016bec/artifacts
+deleted_time: 1712947893581
+end_time: 1712946441486
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a3bd7ea850984aa7beddafb47f016bec
+run_name: flawless-penguin-939
+run_uuid: a3bd7ea850984aa7beddafb47f016bec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946441452
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/989ff32bdb474140862c1beea93f4235/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404259
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 989ff32bdb474140862c1beea93f4235
+run_name: bemused-smelt-175
+run_uuid: 989ff32bdb474140862c1beea93f4235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404235
+status: 3
+tags: []
+user_id: raka

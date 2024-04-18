@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/aea3f25b5714403286c462d17b459c89/artifacts
+deleted_time: 1712947893581
+end_time: 1712946417729
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: aea3f25b5714403286c462d17b459c89
+run_name: bedecked-gnu-615
+run_uuid: aea3f25b5714403286c462d17b459c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946417701
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2a48ee98e4bf473e87bc381a67d9751a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946419126
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2a48ee98e4bf473e87bc381a67d9751a
+run_name: omniscient-gull-151
+run_uuid: 2a48ee98e4bf473e87bc381a67d9751a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946419097
+status: 3
+tags: []
+user_id: raka

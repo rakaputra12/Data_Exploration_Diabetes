@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/538a3e34e3134fdea4105417ad1a4196/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396778
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 538a3e34e3134fdea4105417ad1a4196
+run_name: thundering-lark-753
+run_uuid: 538a3e34e3134fdea4105417ad1a4196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396756
+status: 3
+tags: []
+user_id: raka

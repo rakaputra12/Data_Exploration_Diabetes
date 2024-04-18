@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/69902eaf93d04a72b63bad04078d58e1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946377962
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 69902eaf93d04a72b63bad04078d58e1
+run_name: mysterious-owl-699
+run_uuid: 69902eaf93d04a72b63bad04078d58e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946377950
+status: 3
+tags: []
+user_id: raka

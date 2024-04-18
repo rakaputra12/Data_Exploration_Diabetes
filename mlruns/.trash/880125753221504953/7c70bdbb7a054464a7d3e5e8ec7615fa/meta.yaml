@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7c70bdbb7a054464a7d3e5e8ec7615fa/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444329
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7c70bdbb7a054464a7d3e5e8ec7615fa
+run_name: defiant-fly-71
+run_uuid: 7c70bdbb7a054464a7d3e5e8ec7615fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444294
+status: 3
+tags: []
+user_id: raka

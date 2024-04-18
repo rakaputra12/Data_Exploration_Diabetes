@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0ebc15056fb2432cbdd4a013d0293a9a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946379641
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0ebc15056fb2432cbdd4a013d0293a9a
+run_name: magnificent-colt-739
+run_uuid: 0ebc15056fb2432cbdd4a013d0293a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946379629
+status: 3
+tags: []
+user_id: raka

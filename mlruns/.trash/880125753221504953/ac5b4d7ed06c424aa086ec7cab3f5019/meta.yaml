@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ac5b4d7ed06c424aa086ec7cab3f5019/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382468
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ac5b4d7ed06c424aa086ec7cab3f5019
+run_name: loud-squid-981
+run_uuid: ac5b4d7ed06c424aa086ec7cab3f5019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382454
+status: 3
+tags: []
+user_id: raka

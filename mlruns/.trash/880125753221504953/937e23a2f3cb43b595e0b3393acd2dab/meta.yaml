@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/937e23a2f3cb43b595e0b3393acd2dab/artifacts
+deleted_time: 1712947893581
+end_time: 1712946406427
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 937e23a2f3cb43b595e0b3393acd2dab
+run_name: righteous-donkey-237
+run_uuid: 937e23a2f3cb43b595e0b3393acd2dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946406402
+status: 3
+tags: []
+user_id: raka

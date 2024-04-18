@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dd445a95070a41198cb5910712d29348/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378500
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dd445a95070a41198cb5910712d29348
+run_name: colorful-steed-585
+run_uuid: dd445a95070a41198cb5910712d29348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378488
+status: 3
+tags: []
+user_id: raka

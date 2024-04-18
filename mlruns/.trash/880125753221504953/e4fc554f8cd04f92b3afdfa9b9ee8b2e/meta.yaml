@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e4fc554f8cd04f92b3afdfa9b9ee8b2e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381218
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e4fc554f8cd04f92b3afdfa9b9ee8b2e
+run_name: fearless-bass-139
+run_uuid: e4fc554f8cd04f92b3afdfa9b9ee8b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381204
+status: 3
+tags: []
+user_id: raka

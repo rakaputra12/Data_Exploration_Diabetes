@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/08193ee436524525a423948c196c6199/artifacts
+deleted_time: 1712947893581
+end_time: 1712946445175
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 08193ee436524525a423948c196c6199
+run_name: adorable-smelt-430
+run_uuid: 08193ee436524525a423948c196c6199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946445140
+status: 3
+tags: []
+user_id: raka

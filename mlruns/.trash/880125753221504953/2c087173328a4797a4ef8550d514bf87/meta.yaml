@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2c087173328a4797a4ef8550d514bf87/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405890
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2c087173328a4797a4ef8550d514bf87
+run_name: rare-hound-604
+run_uuid: 2c087173328a4797a4ef8550d514bf87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405865
+status: 3
+tags: []
+user_id: raka

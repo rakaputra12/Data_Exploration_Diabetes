@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c9a85af0e63d47cf9239c95d01fa83dc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382819
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c9a85af0e63d47cf9239c95d01fa83dc
+run_name: gentle-smelt-10
+run_uuid: c9a85af0e63d47cf9239c95d01fa83dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382805
+status: 3
+tags: []
+user_id: raka

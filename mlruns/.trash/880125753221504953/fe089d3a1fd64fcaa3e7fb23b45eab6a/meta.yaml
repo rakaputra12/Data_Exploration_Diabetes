@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fe089d3a1fd64fcaa3e7fb23b45eab6a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390683
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fe089d3a1fd64fcaa3e7fb23b45eab6a
+run_name: grandiose-yak-529
+run_uuid: fe089d3a1fd64fcaa3e7fb23b45eab6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390664
+status: 3
+tags: []
+user_id: raka

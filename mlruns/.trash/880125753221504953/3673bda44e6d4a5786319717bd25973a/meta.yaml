@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3673bda44e6d4a5786319717bd25973a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402635
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3673bda44e6d4a5786319717bd25973a
+run_name: rambunctious-ray-531
+run_uuid: 3673bda44e6d4a5786319717bd25973a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402612
+status: 3
+tags: []
+user_id: raka

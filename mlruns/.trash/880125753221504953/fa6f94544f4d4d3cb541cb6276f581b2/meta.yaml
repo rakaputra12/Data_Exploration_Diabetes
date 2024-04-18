@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fa6f94544f4d4d3cb541cb6276f581b2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378910
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fa6f94544f4d4d3cb541cb6276f581b2
+run_name: amazing-dolphin-521
+run_uuid: fa6f94544f4d4d3cb541cb6276f581b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378897
+status: 3
+tags: []
+user_id: raka

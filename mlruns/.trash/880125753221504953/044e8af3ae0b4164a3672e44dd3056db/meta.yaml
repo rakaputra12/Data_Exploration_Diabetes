@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/044e8af3ae0b4164a3672e44dd3056db/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375156
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 044e8af3ae0b4164a3672e44dd3056db
+run_name: enchanting-eel-658
+run_uuid: 044e8af3ae0b4164a3672e44dd3056db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375146
+status: 3
+tags: []
+user_id: raka

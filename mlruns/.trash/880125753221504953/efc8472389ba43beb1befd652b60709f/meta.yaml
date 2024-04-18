@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/efc8472389ba43beb1befd652b60709f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388267
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: efc8472389ba43beb1befd652b60709f
+run_name: aged-loon-983
+run_uuid: efc8472389ba43beb1befd652b60709f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388229
+status: 3
+tags: []
+user_id: raka

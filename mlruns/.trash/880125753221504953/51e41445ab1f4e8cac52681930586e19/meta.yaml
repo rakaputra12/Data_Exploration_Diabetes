@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/51e41445ab1f4e8cac52681930586e19/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373100
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 51e41445ab1f4e8cac52681930586e19
+run_name: mercurial-fowl-335
+run_uuid: 51e41445ab1f4e8cac52681930586e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373092
+status: 3
+tags: []
+user_id: raka

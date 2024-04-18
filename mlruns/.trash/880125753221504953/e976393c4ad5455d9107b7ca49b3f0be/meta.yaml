@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e976393c4ad5455d9107b7ca49b3f0be/artifacts
+deleted_time: 1712947893581
+end_time: 1712946436206
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e976393c4ad5455d9107b7ca49b3f0be
+run_name: treasured-gnat-308
+run_uuid: e976393c4ad5455d9107b7ca49b3f0be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946436170
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8865a67ff1a7485197d01fb15e0be903/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375618
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8865a67ff1a7485197d01fb15e0be903
+run_name: judicious-rook-870
+run_uuid: 8865a67ff1a7485197d01fb15e0be903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375606
+status: 3
+tags: []
+user_id: raka

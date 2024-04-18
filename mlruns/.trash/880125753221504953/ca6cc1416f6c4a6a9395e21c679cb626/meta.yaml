@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ca6cc1416f6c4a6a9395e21c679cb626/artifacts
+deleted_time: 1712947893581
+end_time: 1712946397383
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ca6cc1416f6c4a6a9395e21c679cb626
+run_name: capable-panda-540
+run_uuid: ca6cc1416f6c4a6a9395e21c679cb626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946397362
+status: 3
+tags: []
+user_id: raka

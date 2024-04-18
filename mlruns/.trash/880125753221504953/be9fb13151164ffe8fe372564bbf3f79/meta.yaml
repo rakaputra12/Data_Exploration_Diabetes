@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/be9fb13151164ffe8fe372564bbf3f79/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402968
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: be9fb13151164ffe8fe372564bbf3f79
+run_name: nervous-rook-582
+run_uuid: be9fb13151164ffe8fe372564bbf3f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402946
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/07642d318cf1419f9c81900931f12154/artifacts
+end_time: 1713010006712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07642d318cf1419f9c81900931f12154
+run_name: hilarious-auk-89
+run_uuid: 07642d318cf1419f9c81900931f12154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713007308603
+status: 3
+tags: []
+user_id: raka

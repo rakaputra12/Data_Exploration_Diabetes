@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8b5ce8ced5b149b1b4da3d290aa5ccb1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378123
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8b5ce8ced5b149b1b4da3d290aa5ccb1
+run_name: adorable-crow-530
+run_uuid: 8b5ce8ced5b149b1b4da3d290aa5ccb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378111
+status: 3
+tags: []
+user_id: raka

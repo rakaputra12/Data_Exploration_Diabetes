@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7dd2f485f3ef49bb88a2ebf1a5bbe878/artifacts
+deleted_time: 1712947893581
+end_time: 1712946431852
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7dd2f485f3ef49bb88a2ebf1a5bbe878
+run_name: skillful-ox-813
+run_uuid: 7dd2f485f3ef49bb88a2ebf1a5bbe878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946431821
+status: 3
+tags: []
+user_id: raka

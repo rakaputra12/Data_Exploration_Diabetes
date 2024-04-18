@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/deb63d30fbd0490a8cbad06089f5ac73/artifacts
+deleted_time: 1712947893581
+end_time: 1712946425049
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: deb63d30fbd0490a8cbad06089f5ac73
+run_name: wistful-dolphin-191
+run_uuid: deb63d30fbd0490a8cbad06089f5ac73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946425019
+status: 3
+tags: []
+user_id: raka

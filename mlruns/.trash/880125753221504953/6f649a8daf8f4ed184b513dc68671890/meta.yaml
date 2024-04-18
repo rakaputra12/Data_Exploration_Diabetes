@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6f649a8daf8f4ed184b513dc68671890/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371494
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6f649a8daf8f4ed184b513dc68671890
+run_name: zealous-sow-459
+run_uuid: 6f649a8daf8f4ed184b513dc68671890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371487
+status: 3
+tags: []
+user_id: raka

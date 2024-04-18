@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/aae428c9d06240ad8cf28ddfaa2d6639/artifacts
+deleted_time: 1712947893581
+end_time: 1712946419475
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: aae428c9d06240ad8cf28ddfaa2d6639
+run_name: popular-frog-479
+run_uuid: aae428c9d06240ad8cf28ddfaa2d6639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946419447
+status: 3
+tags: []
+user_id: raka

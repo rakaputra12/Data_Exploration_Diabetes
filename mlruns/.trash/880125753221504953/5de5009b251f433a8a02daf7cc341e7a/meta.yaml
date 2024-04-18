@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5de5009b251f433a8a02daf7cc341e7a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405645
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5de5009b251f433a8a02daf7cc341e7a
+run_name: adaptable-snake-701
+run_uuid: 5de5009b251f433a8a02daf7cc341e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405621
+status: 3
+tags: []
+user_id: raka

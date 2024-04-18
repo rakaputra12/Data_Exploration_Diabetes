@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0b93693dc5ee4821a05ce8808b0f726f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946416212
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0b93693dc5ee4821a05ce8808b0f726f
+run_name: handsome-bear-159
+run_uuid: 0b93693dc5ee4821a05ce8808b0f726f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946416185
+status: 3
+tags: []
+user_id: raka

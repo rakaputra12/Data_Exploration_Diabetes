@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/734cd99af89f4e5ead159726f29b0fce/artifacts
+deleted_time: 1712947893581
+end_time: 1712946443448
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 734cd99af89f4e5ead159726f29b0fce
+run_name: amazing-hare-428
+run_uuid: 734cd99af89f4e5ead159726f29b0fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946443412
+status: 3
+tags: []
+user_id: raka

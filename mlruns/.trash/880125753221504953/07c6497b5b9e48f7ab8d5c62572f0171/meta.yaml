@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/07c6497b5b9e48f7ab8d5c62572f0171/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426577
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 07c6497b5b9e48f7ab8d5c62572f0171
+run_name: brawny-hen-167
+run_uuid: 07c6497b5b9e48f7ab8d5c62572f0171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426546
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b9900326d8ab4575962777f3e3322935/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370364
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b9900326d8ab4575962777f3e3322935
+run_name: serious-conch-869
+run_uuid: b9900326d8ab4575962777f3e3322935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370359
+status: 3
+tags: []
+user_id: raka

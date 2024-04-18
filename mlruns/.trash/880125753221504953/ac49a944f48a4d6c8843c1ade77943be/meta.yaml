@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ac49a944f48a4d6c8843c1ade77943be/artifacts
+deleted_time: 1712947893581
+end_time: 1712946442799
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ac49a944f48a4d6c8843c1ade77943be
+run_name: resilient-pug-926
+run_uuid: ac49a944f48a4d6c8843c1ade77943be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946442765
+status: 3
+tags: []
+user_id: raka

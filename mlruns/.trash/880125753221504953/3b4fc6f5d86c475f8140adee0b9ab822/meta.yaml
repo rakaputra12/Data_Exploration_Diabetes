@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3b4fc6f5d86c475f8140adee0b9ab822/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390724
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3b4fc6f5d86c475f8140adee0b9ab822
+run_name: indecisive-panda-843
+run_uuid: 3b4fc6f5d86c475f8140adee0b9ab822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390705
+status: 3
+tags: []
+user_id: raka

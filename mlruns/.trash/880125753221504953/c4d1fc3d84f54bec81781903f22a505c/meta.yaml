@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c4d1fc3d84f54bec81781903f22a505c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392234
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c4d1fc3d84f54bec81781903f22a505c
+run_name: peaceful-conch-812
+run_uuid: c4d1fc3d84f54bec81781903f22a505c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392214
+status: 3
+tags: []
+user_id: raka

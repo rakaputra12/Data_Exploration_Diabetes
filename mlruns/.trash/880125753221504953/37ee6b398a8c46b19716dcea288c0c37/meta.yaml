@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/37ee6b398a8c46b19716dcea288c0c37/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389489
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 37ee6b398a8c46b19716dcea288c0c37
+run_name: efficient-worm-297
+run_uuid: 37ee6b398a8c46b19716dcea288c0c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389471
+status: 3
+tags: []
+user_id: raka

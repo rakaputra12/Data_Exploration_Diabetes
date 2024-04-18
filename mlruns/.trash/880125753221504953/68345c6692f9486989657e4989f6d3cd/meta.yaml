@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/68345c6692f9486989657e4989f6d3cd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946388622
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 68345c6692f9486989657e4989f6d3cd
+run_name: invincible-slug-35
+run_uuid: 68345c6692f9486989657e4989f6d3cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946388604
+status: 3
+tags: []
+user_id: raka

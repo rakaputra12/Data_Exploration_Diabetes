@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3aab8475b47b4b84a485c87db4503d3e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426643
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3aab8475b47b4b84a485c87db4503d3e
+run_name: debonair-bug-705
+run_uuid: 3aab8475b47b4b84a485c87db4503d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426613
+status: 3
+tags: []
+user_id: raka

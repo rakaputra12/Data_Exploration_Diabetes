@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f35d2bdc07c3483e8f86d5d259467d8b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378980
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f35d2bdc07c3483e8f86d5d259467d8b
+run_name: redolent-sheep-724
+run_uuid: f35d2bdc07c3483e8f86d5d259467d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378967
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/4da74be24c774289892ee5352e8abdb1/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372520
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 4da74be24c774289892ee5352e8abdb1
+run_name: sneaky-ant-248
+run_uuid: 4da74be24c774289892ee5352e8abdb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372512
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/50c05c7ca7d34286b7897cf93a291549/artifacts
+deleted_time: 1712947893581
+end_time: 1712946449043
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 50c05c7ca7d34286b7897cf93a291549
+run_name: vaunted-whale-375
+run_uuid: 50c05c7ca7d34286b7897cf93a291549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946449007
+status: 3
+tags: []
+user_id: raka

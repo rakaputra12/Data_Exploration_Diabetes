@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d34e7cd13b7c496eae14588e0d838838/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404207
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d34e7cd13b7c496eae14588e0d838838
+run_name: incongruous-doe-552
+run_uuid: d34e7cd13b7c496eae14588e0d838838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404185
+status: 3
+tags: []
+user_id: raka

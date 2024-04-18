@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2c69f5475c604b5d9d468a895ef73406/artifacts
+deleted_time: 1712947893581
+end_time: 1712946448184
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2c69f5475c604b5d9d468a895ef73406
+run_name: upbeat-sponge-990
+run_uuid: 2c69f5475c604b5d9d468a895ef73406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946448148
+status: 3
+tags: []
+user_id: raka

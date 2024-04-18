@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d2d46ada33b1487e872b55723bc3b607/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392888
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d2d46ada33b1487e872b55723bc3b607
+run_name: legendary-sloth-222
+run_uuid: d2d46ada33b1487e872b55723bc3b607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392869
+status: 3
+tags: []
+user_id: raka

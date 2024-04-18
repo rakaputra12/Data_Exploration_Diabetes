@@ -1,0 +1,7 @@
+artifact_location: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/242114619458729313
+creation_time: 1712943484759
+experiment_id: '242114619458729313'
+last_update_time: 1712944405144
+lifecycle_stage: deleted
+name: SVM_Hyperparameter_Tuning
+tags: {}

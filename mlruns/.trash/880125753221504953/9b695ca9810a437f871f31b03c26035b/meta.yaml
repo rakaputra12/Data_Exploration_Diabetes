@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9b695ca9810a437f871f31b03c26035b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946447560
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9b695ca9810a437f871f31b03c26035b
+run_name: hilarious-bird-290
+run_uuid: 9b695ca9810a437f871f31b03c26035b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946447524
+status: 3
+tags: []
+user_id: raka

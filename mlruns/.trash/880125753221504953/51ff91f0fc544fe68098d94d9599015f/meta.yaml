@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/51ff91f0fc544fe68098d94d9599015f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946426476
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 51ff91f0fc544fe68098d94d9599015f
+run_name: bouncy-chimp-183
+run_uuid: 51ff91f0fc544fe68098d94d9599015f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946426445
+status: 3
+tags: []
+user_id: raka

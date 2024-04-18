@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/034bf1452c8e4fb39f4ef8de43db675d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946424455
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 034bf1452c8e4fb39f4ef8de43db675d
+run_name: able-gnat-507
+run_uuid: 034bf1452c8e4fb39f4ef8de43db675d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946424424
+status: 3
+tags: []
+user_id: raka

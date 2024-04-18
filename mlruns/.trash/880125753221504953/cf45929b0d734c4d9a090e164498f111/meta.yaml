@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cf45929b0d734c4d9a090e164498f111/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391446
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cf45929b0d734c4d9a090e164498f111
+run_name: colorful-stoat-756
+run_uuid: cf45929b0d734c4d9a090e164498f111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391428
+status: 3
+tags: []
+user_id: raka

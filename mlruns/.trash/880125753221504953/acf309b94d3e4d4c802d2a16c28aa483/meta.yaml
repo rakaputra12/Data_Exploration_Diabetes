@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/acf309b94d3e4d4c802d2a16c28aa483/artifacts
+deleted_time: 1712947893581
+end_time: 1712946409995
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: acf309b94d3e4d4c802d2a16c28aa483
+run_name: gaudy-snake-4
+run_uuid: acf309b94d3e4d4c802d2a16c28aa483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946409970
+status: 3
+tags: []
+user_id: raka

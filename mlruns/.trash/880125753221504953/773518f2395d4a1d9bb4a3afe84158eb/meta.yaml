@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/773518f2395d4a1d9bb4a3afe84158eb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946401642
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 773518f2395d4a1d9bb4a3afe84158eb
+run_name: caring-shrimp-611
+run_uuid: 773518f2395d4a1d9bb4a3afe84158eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946401620
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fb46491e995b41ea914e62d3c9436a09/artifacts
+deleted_time: 1712947893581
+end_time: 1712946383706
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fb46491e995b41ea914e62d3c9436a09
+run_name: suave-gnu-377
+run_uuid: fb46491e995b41ea914e62d3c9436a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946383690
+status: 3
+tags: []
+user_id: raka

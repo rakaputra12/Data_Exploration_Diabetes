@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f5763e013ef74418a705f6d4ce4094af/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372777
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f5763e013ef74418a705f6d4ce4094af
+run_name: whimsical-fowl-32
+run_uuid: f5763e013ef74418a705f6d4ce4094af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372768
+status: 3
+tags: []
+user_id: raka

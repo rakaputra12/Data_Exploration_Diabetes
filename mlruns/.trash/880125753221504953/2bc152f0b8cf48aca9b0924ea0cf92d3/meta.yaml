@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2bc152f0b8cf48aca9b0924ea0cf92d3/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380773
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2bc152f0b8cf48aca9b0924ea0cf92d3
+run_name: grandiose-auk-475
+run_uuid: 2bc152f0b8cf48aca9b0924ea0cf92d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380759
+status: 3
+tags: []
+user_id: raka

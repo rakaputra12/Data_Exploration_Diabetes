@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f111d2f9e44444ef9144382d6d43ba04/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389210
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f111d2f9e44444ef9144382d6d43ba04
+run_name: glamorous-hog-588
+run_uuid: f111d2f9e44444ef9144382d6d43ba04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389193
+status: 3
+tags: []
+user_id: raka

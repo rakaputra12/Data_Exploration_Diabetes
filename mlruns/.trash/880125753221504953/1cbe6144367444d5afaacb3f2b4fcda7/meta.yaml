@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1cbe6144367444d5afaacb3f2b4fcda7/artifacts
+deleted_time: 1712947893581
+end_time: 1712946381294
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1cbe6144367444d5afaacb3f2b4fcda7
+run_name: carefree-ray-594
+run_uuid: 1cbe6144367444d5afaacb3f2b4fcda7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946381280
+status: 3
+tags: []
+user_id: raka

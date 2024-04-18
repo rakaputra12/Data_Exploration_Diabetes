@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dbf8bf04630443febdb19cf478ac4b08/artifacts
+deleted_time: 1712947893581
+end_time: 1712946378137
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dbf8bf04630443febdb19cf478ac4b08
+run_name: masked-lynx-177
+run_uuid: dbf8bf04630443febdb19cf478ac4b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946378124
+status: 3
+tags: []
+user_id: raka

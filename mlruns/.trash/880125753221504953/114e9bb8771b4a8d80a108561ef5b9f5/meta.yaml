@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/114e9bb8771b4a8d80a108561ef5b9f5/artifacts
+deleted_time: 1712947893581
+end_time: 1712946443788
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 114e9bb8771b4a8d80a108561ef5b9f5
+run_name: abrasive-ant-465
+run_uuid: 114e9bb8771b4a8d80a108561ef5b9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946443754
+status: 3
+tags: []
+user_id: raka

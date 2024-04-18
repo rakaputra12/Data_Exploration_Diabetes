@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/63aac4d9099c4ec2b8235ea3a751a90a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946441220
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 63aac4d9099c4ec2b8235ea3a751a90a
+run_name: colorful-shark-35
+run_uuid: 63aac4d9099c4ec2b8235ea3a751a90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946441185
+status: 3
+tags: []
+user_id: raka

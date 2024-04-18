@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/38b3d61a945c4ed49ee4c9a4bb7c7fee/artifacts
+deleted_time: 1712947893581
+end_time: 1712946417760
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 38b3d61a945c4ed49ee4c9a4bb7c7fee
+run_name: defiant-robin-573
+run_uuid: 38b3d61a945c4ed49ee4c9a4bb7c7fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946417732
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0e88597dac8e497e94522c223a86c9ed/artifacts
+deleted_time: 1712947893581
+end_time: 1712946425768
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0e88597dac8e497e94522c223a86c9ed
+run_name: unleashed-croc-941
+run_uuid: 0e88597dac8e497e94522c223a86c9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946425738
+status: 3
+tags: []
+user_id: raka

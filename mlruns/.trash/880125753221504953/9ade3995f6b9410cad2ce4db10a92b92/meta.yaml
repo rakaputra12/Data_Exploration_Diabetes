@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9ade3995f6b9410cad2ce4db10a92b92/artifacts
+deleted_time: 1712947893581
+end_time: 1712946434882
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9ade3995f6b9410cad2ce4db10a92b92
+run_name: nimble-bass-988
+run_uuid: 9ade3995f6b9410cad2ce4db10a92b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946434850
+status: 3
+tags: []
+user_id: raka

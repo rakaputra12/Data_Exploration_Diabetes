@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a06bd4e66c224381a855c7baa22e6288/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404545
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a06bd4e66c224381a855c7baa22e6288
+run_name: colorful-bird-672
+run_uuid: a06bd4e66c224381a855c7baa22e6288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404522
+status: 3
+tags: []
+user_id: raka

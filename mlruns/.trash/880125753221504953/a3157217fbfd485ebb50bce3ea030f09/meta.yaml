@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/a3157217fbfd485ebb50bce3ea030f09/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385626
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: a3157217fbfd485ebb50bce3ea030f09
+run_name: unequaled-sloth-497
+run_uuid: a3157217fbfd485ebb50bce3ea030f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385610
+status: 3
+tags: []
+user_id: raka

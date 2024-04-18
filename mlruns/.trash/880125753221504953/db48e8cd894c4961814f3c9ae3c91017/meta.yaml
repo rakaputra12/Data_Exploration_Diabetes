@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/db48e8cd894c4961814f3c9ae3c91017/artifacts
+deleted_time: 1712947893581
+end_time: 1712946450493
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: db48e8cd894c4961814f3c9ae3c91017
+run_name: abrasive-snipe-390
+run_uuid: db48e8cd894c4961814f3c9ae3c91017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946450458
+status: 3
+tags: []
+user_id: raka

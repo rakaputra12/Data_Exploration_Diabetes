@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/d21e00acca89402ba8cd61bec34dbc7c/artifacts
+deleted_time: 1712947893581
+end_time: 1712946396473
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: d21e00acca89402ba8cd61bec34dbc7c
+run_name: aged-croc-176
+run_uuid: d21e00acca89402ba8cd61bec34dbc7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946396452
+status: 3
+tags: []
+user_id: raka

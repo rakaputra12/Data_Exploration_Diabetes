@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f773a15c37544f36a870fbaecf5ce665/artifacts
+deleted_time: 1712947893581
+end_time: 1712946427785
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f773a15c37544f36a870fbaecf5ce665
+run_name: puzzled-toad-786
+run_uuid: f773a15c37544f36a870fbaecf5ce665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946427755
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f0067b76b2c84dc281ba1ec16d3fbc01/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389191
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f0067b76b2c84dc281ba1ec16d3fbc01
+run_name: mercurial-yak-897
+run_uuid: f0067b76b2c84dc281ba1ec16d3fbc01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389173
+status: 3
+tags: []
+user_id: raka

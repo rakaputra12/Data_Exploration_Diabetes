@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c32a4c4fd1a1421ba3ab3e65e9bbd9a9/artifacts
+deleted_time: 1712947893581
+end_time: 1712946407309
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c32a4c4fd1a1421ba3ab3e65e9bbd9a9
+run_name: sedate-pig-623
+run_uuid: c32a4c4fd1a1421ba3ab3e65e9bbd9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946407285
+status: 3
+tags: []
+user_id: raka

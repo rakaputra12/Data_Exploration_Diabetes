@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dd2f26bb03b44f96a8d4dd06a42e9115/artifacts
+deleted_time: 1712947893581
+end_time: 1712946438471
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dd2f26bb03b44f96a8d4dd06a42e9115
+run_name: inquisitive-rat-135
+run_uuid: dd2f26bb03b44f96a8d4dd06a42e9115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946438435
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7ba33ce3865647e4bb5d767fc9c7a486/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373153
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7ba33ce3865647e4bb5d767fc9c7a486
+run_name: rogue-dolphin-756
+run_uuid: 7ba33ce3865647e4bb5d767fc9c7a486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373144
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fa4a5dc7abd544db8513e8e6bf8c8ecb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404700
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fa4a5dc7abd544db8513e8e6bf8c8ecb
+run_name: worried-fowl-562
+run_uuid: fa4a5dc7abd544db8513e8e6bf8c8ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404677
+status: 3
+tags: []
+user_id: raka

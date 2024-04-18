@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/271db7594127496bbe0051b0539e98f8/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372089
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 271db7594127496bbe0051b0539e98f8
+run_name: secretive-hen-658
+run_uuid: 271db7594127496bbe0051b0539e98f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372081
+status: 3
+tags: []
+user_id: raka

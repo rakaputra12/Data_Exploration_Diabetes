@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8d30b8813ebc4bad9775eea99a3aa330/artifacts
+deleted_time: 1712947893581
+end_time: 1712946416514
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8d30b8813ebc4bad9775eea99a3aa330
+run_name: big-bird-177
+run_uuid: 8d30b8813ebc4bad9775eea99a3aa330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946416485
+status: 3
+tags: []
+user_id: raka

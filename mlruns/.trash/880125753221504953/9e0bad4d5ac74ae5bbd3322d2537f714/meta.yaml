@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9e0bad4d5ac74ae5bbd3322d2537f714/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392191
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9e0bad4d5ac74ae5bbd3322d2537f714
+run_name: handsome-swan-447
+run_uuid: 9e0bad4d5ac74ae5bbd3322d2537f714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392172
+status: 3
+tags: []
+user_id: raka

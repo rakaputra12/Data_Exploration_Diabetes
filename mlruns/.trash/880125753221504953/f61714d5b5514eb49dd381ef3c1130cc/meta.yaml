@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f61714d5b5514eb49dd381ef3c1130cc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946373872
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f61714d5b5514eb49dd381ef3c1130cc
+run_name: welcoming-shad-809
+run_uuid: f61714d5b5514eb49dd381ef3c1130cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946373863
+status: 3
+tags: []
+user_id: raka

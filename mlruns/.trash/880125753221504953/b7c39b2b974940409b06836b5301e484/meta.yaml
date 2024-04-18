@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b7c39b2b974940409b06836b5301e484/artifacts
+deleted_time: 1712947893581
+end_time: 1712946389113
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b7c39b2b974940409b06836b5301e484
+run_name: enthused-ant-542
+run_uuid: b7c39b2b974940409b06836b5301e484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946389096
+status: 3
+tags: []
+user_id: raka

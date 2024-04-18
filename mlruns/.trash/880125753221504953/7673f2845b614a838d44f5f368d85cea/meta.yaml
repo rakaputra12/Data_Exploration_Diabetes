@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7673f2845b614a838d44f5f368d85cea/artifacts
+deleted_time: 1712947893581
+end_time: 1712946420249
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7673f2845b614a838d44f5f368d85cea
+run_name: orderly-rat-741
+run_uuid: 7673f2845b614a838d44f5f368d85cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946420218
+status: 3
+tags: []
+user_id: raka

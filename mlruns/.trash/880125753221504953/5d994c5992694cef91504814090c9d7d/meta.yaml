@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5d994c5992694cef91504814090c9d7d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946384374
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5d994c5992694cef91504814090c9d7d
+run_name: righteous-rook-723
+run_uuid: 5d994c5992694cef91504814090c9d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946384357
+status: 3
+tags: []
+user_id: raka

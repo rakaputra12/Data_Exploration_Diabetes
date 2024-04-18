@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5f62e880ccf54a7f8a28a42374b2c03a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946412429
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5f62e880ccf54a7f8a28a42374b2c03a
+run_name: monumental-elk-591
+run_uuid: 5f62e880ccf54a7f8a28a42374b2c03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946412402
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/3f64f0d2c5b5436ab486e29afce547fb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946417176
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 3f64f0d2c5b5436ab486e29afce547fb
+run_name: unleashed-whale-206
+run_uuid: 3f64f0d2c5b5436ab486e29afce547fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946417149
+status: 3
+tags: []
+user_id: raka

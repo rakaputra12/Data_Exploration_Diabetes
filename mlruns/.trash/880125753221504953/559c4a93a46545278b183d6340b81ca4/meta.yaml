@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/559c4a93a46545278b183d6340b81ca4/artifacts
+deleted_time: 1712947893581
+end_time: 1712946372672
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 559c4a93a46545278b183d6340b81ca4
+run_name: able-roo-944
+run_uuid: 559c4a93a46545278b183d6340b81ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946372664
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/15f1cda6998b4889b1ebe3ac8f74e6ae/artifacts
+deleted_time: 1712947893581
+end_time: 1712946423536
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 15f1cda6998b4889b1ebe3ac8f74e6ae
+run_name: omniscient-fox-730
+run_uuid: 15f1cda6998b4889b1ebe3ac8f74e6ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946423506
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/fdb76b4325164340a1afc719fe2f0001/artifacts
+deleted_time: 1712947893581
+end_time: 1712946395173
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: fdb76b4325164340a1afc719fe2f0001
+run_name: sneaky-toad-217
+run_uuid: fdb76b4325164340a1afc719fe2f0001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946395153
+status: 3
+tags: []
+user_id: raka

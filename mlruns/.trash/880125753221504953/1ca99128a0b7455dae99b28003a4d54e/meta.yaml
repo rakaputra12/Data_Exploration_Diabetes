@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1ca99128a0b7455dae99b28003a4d54e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946407501
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1ca99128a0b7455dae99b28003a4d54e
+run_name: classy-shoat-376
+run_uuid: 1ca99128a0b7455dae99b28003a4d54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946407475
+status: 3
+tags: []
+user_id: raka

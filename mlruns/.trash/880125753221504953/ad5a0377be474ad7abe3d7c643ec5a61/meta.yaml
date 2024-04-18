@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ad5a0377be474ad7abe3d7c643ec5a61/artifacts
+deleted_time: 1712947893581
+end_time: 1712946390562
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ad5a0377be474ad7abe3d7c643ec5a61
+run_name: polite-fawn-335
+run_uuid: ad5a0377be474ad7abe3d7c643ec5a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946390544
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8b60be9bd02f4caeb5b23a42b4f4d6ef/artifacts
+deleted_time: 1712947893581
+end_time: 1712946421209
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8b60be9bd02f4caeb5b23a42b4f4d6ef
+run_name: stately-sheep-375
+run_uuid: 8b60be9bd02f4caeb5b23a42b4f4d6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946421179
+status: 3
+tags: []
+user_id: raka

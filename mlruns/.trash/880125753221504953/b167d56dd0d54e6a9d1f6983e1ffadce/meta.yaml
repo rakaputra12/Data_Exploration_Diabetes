@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b167d56dd0d54e6a9d1f6983e1ffadce/artifacts
+deleted_time: 1712947893581
+end_time: 1712946437071
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b167d56dd0d54e6a9d1f6983e1ffadce
+run_name: clean-crow-325
+run_uuid: b167d56dd0d54e6a9d1f6983e1ffadce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946437033
+status: 3
+tags: []
+user_id: raka

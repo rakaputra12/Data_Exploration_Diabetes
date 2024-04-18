@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/713d717e3337471fbee91aff9ad0e8b4/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398873
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 713d717e3337471fbee91aff9ad0e8b4
+run_name: unequaled-fawn-958
+run_uuid: 713d717e3337471fbee91aff9ad0e8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398852
+status: 3
+tags: []
+user_id: raka

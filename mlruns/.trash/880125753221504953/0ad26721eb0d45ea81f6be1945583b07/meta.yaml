@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0ad26721eb0d45ea81f6be1945583b07/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386610
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0ad26721eb0d45ea81f6be1945583b07
+run_name: salty-shad-814
+run_uuid: 0ad26721eb0d45ea81f6be1945583b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386594
+status: 3
+tags: []
+user_id: raka

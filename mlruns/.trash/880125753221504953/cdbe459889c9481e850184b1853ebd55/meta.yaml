@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/cdbe459889c9481e850184b1853ebd55/artifacts
+deleted_time: 1712947893581
+end_time: 1712946441182
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: cdbe459889c9481e850184b1853ebd55
+run_name: adaptable-bass-430
+run_uuid: cdbe459889c9481e850184b1853ebd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946441143
+status: 3
+tags: []
+user_id: raka

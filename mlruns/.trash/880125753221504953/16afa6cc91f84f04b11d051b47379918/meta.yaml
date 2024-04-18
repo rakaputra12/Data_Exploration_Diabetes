@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/16afa6cc91f84f04b11d051b47379918/artifacts
+deleted_time: 1712947893581
+end_time: 1712946391385
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 16afa6cc91f84f04b11d051b47379918
+run_name: luminous-snake-126
+run_uuid: 16afa6cc91f84f04b11d051b47379918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946391367
+status: 3
+tags: []
+user_id: raka

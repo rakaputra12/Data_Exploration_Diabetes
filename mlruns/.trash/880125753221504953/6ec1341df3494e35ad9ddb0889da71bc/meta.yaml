@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6ec1341df3494e35ad9ddb0889da71bc/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398210
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6ec1341df3494e35ad9ddb0889da71bc
+run_name: amusing-wren-457
+run_uuid: 6ec1341df3494e35ad9ddb0889da71bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398189
+status: 3
+tags: []
+user_id: raka

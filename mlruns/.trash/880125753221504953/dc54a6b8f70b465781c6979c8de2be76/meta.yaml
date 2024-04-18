@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dc54a6b8f70b465781c6979c8de2be76/artifacts
+deleted_time: 1712947893581
+end_time: 1712946375550
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dc54a6b8f70b465781c6979c8de2be76
+run_name: mercurial-hawk-894
+run_uuid: dc54a6b8f70b465781c6979c8de2be76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946375539
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/1bd3bf185e794b0ca3b97ada30227398/artifacts
+deleted_time: 1712947893581
+end_time: 1712946397032
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 1bd3bf185e794b0ca3b97ada30227398
+run_name: adaptable-mouse-326
+run_uuid: 1bd3bf185e794b0ca3b97ada30227398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946397011
+status: 3
+tags: []
+user_id: raka

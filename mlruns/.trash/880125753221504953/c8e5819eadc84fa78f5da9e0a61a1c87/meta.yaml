@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/c8e5819eadc84fa78f5da9e0a61a1c87/artifacts
+deleted_time: 1712947893581
+end_time: 1712946386066
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: c8e5819eadc84fa78f5da9e0a61a1c87
+run_name: funny-cow-416
+run_uuid: c8e5819eadc84fa78f5da9e0a61a1c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946386047
+status: 3
+tags: []
+user_id: raka

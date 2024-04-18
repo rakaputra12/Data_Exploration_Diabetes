@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/9bdf3fb044b84f99a0007f5f00f5d203/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385229
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 9bdf3fb044b84f99a0007f5f00f5d203
+run_name: resilient-loon-472
+run_uuid: 9bdf3fb044b84f99a0007f5f00f5d203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385214
+status: 3
+tags: []
+user_id: raka

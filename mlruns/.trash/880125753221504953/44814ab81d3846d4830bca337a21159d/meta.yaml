@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/44814ab81d3846d4830bca337a21159d/artifacts
+deleted_time: 1712947893581
+end_time: 1712946431748
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 44814ab81d3846d4830bca337a21159d
+run_name: serious-sow-734
+run_uuid: 44814ab81d3846d4830bca337a21159d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946431715
+status: 3
+tags: []
+user_id: raka

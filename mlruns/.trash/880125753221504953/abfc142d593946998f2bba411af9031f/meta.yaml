@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/abfc142d593946998f2bba411af9031f/artifacts
+deleted_time: 1712947893581
+end_time: 1712946395216
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: abfc142d593946998f2bba411af9031f
+run_name: intelligent-hound-59
+run_uuid: abfc142d593946998f2bba411af9031f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946395196
+status: 3
+tags: []
+user_id: raka

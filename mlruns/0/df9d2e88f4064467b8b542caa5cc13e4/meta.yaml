@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/df9d2e88f4064467b8b542caa5cc13e4/artifacts
+end_time: 1712915516068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df9d2e88f4064467b8b542caa5cc13e4
+run_name: fortunate-swan-292
+run_uuid: df9d2e88f4064467b8b542caa5cc13e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712915246520
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/bb8398f01d1d405798085e4d14958012/artifacts
+deleted_time: 1712947893581
+end_time: 1712946385608
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: bb8398f01d1d405798085e4d14958012
+run_name: wise-yak-547
+run_uuid: bb8398f01d1d405798085e4d14958012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946385593
+status: 3
+tags: []
+user_id: raka

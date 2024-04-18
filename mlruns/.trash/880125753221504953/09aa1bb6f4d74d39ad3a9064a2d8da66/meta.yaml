@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/09aa1bb6f4d74d39ad3a9064a2d8da66/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444681
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 09aa1bb6f4d74d39ad3a9064a2d8da66
+run_name: receptive-trout-706
+run_uuid: 09aa1bb6f4d74d39ad3a9064a2d8da66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444646
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e77d6c659a994a12ac41d099bc7ff4db/artifacts
+deleted_time: 1712947893581
+end_time: 1712946376655
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e77d6c659a994a12ac41d099bc7ff4db
+run_name: blushing-roo-370
+run_uuid: e77d6c659a994a12ac41d099bc7ff4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946376642
+status: 3
+tags: []
+user_id: raka

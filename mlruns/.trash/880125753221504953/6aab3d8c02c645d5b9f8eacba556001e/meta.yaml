@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/6aab3d8c02c645d5b9f8eacba556001e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946398658
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 6aab3d8c02c645d5b9f8eacba556001e
+run_name: bustling-donkey-465
+run_uuid: 6aab3d8c02c645d5b9f8eacba556001e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946398637
+status: 3
+tags: []
+user_id: raka

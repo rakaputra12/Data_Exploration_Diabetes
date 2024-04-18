@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/f7f98963851344e99887c9d73aaab8da/artifacts
+deleted_time: 1712947893581
+end_time: 1712946380121
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: f7f98963851344e99887c9d73aaab8da
+run_name: amazing-steed-22
+run_uuid: f7f98963851344e99887c9d73aaab8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946380109
+status: 3
+tags: []
+user_id: raka

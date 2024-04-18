@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/731c156f5c174644b9f42513bb3afa38/artifacts
+deleted_time: 1712947893581
+end_time: 1712946405541
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 731c156f5c174644b9f42513bb3afa38
+run_name: melodic-rat-849
+run_uuid: 731c156f5c174644b9f42513bb3afa38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946405517
+status: 3
+tags: []
+user_id: raka

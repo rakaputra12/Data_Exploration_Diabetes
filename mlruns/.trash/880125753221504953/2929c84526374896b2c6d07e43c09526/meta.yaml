@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/2929c84526374896b2c6d07e43c09526/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444719
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 2929c84526374896b2c6d07e43c09526
+run_name: orderly-seal-980
+run_uuid: 2929c84526374896b2c6d07e43c09526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444684
+status: 3
+tags: []
+user_id: raka

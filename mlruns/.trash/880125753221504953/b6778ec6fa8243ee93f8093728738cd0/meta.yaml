@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/b6778ec6fa8243ee93f8093728738cd0/artifacts
+deleted_time: 1712947893581
+end_time: 1712946447285
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: b6778ec6fa8243ee93f8093728738cd0
+run_name: smiling-duck-286
+run_uuid: b6778ec6fa8243ee93f8093728738cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946447249
+status: 3
+tags: []
+user_id: raka

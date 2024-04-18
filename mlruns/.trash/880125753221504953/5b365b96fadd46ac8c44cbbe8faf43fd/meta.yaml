@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5b365b96fadd46ac8c44cbbe8faf43fd/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404752
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5b365b96fadd46ac8c44cbbe8faf43fd
+run_name: nebulous-calf-754
+run_uuid: 5b365b96fadd46ac8c44cbbe8faf43fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404728
+status: 3
+tags: []
+user_id: raka

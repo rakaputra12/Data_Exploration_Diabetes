@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/dc0e844953374111a8316a0e4e51f444/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370580
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: dc0e844953374111a8316a0e4e51f444
+run_name: delicate-eel-649
+run_uuid: dc0e844953374111a8316a0e4e51f444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370569
+status: 3
+tags: []
+user_id: raka

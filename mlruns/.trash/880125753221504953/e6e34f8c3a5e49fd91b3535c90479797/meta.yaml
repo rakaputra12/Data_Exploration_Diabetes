@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/e6e34f8c3a5e49fd91b3535c90479797/artifacts
+deleted_time: 1712947893581
+end_time: 1712946411679
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: e6e34f8c3a5e49fd91b3535c90479797
+run_name: traveling-finch-509
+run_uuid: e6e34f8c3a5e49fd91b3535c90479797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946411653
+status: 3
+tags: []
+user_id: raka

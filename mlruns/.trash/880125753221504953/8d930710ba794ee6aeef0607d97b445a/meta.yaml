@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/8d930710ba794ee6aeef0607d97b445a/artifacts
+deleted_time: 1712947893581
+end_time: 1712946402811
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 8d930710ba794ee6aeef0607d97b445a
+run_name: monumental-mole-330
+run_uuid: 8d930710ba794ee6aeef0607d97b445a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946402788
+status: 3
+tags: []
+user_id: raka

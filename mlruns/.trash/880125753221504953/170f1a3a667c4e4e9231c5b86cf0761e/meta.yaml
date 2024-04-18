@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/170f1a3a667c4e4e9231c5b86cf0761e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946404990
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 170f1a3a667c4e4e9231c5b86cf0761e
+run_name: rumbling-lark-945
+run_uuid: 170f1a3a667c4e4e9231c5b86cf0761e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946404966
+status: 3
+tags: []
+user_id: raka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/31abdb114f474d4fb383123abd097b26/artifacts
+deleted_time: 1712947893581
+end_time: 1712946370380
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 31abdb114f474d4fb383123abd097b26
+run_name: polite-perch-823
+run_uuid: 31abdb114f474d4fb383123abd097b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946370373
+status: 3
+tags: []
+user_id: raka

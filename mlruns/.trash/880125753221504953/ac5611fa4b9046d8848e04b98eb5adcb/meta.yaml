@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ac5611fa4b9046d8848e04b98eb5adcb/artifacts
+deleted_time: 1712947893581
+end_time: 1712946392316
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ac5611fa4b9046d8848e04b98eb5adcb
+run_name: luxuriant-shad-350
+run_uuid: ac5611fa4b9046d8848e04b98eb5adcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946392298
+status: 3
+tags: []
+user_id: raka

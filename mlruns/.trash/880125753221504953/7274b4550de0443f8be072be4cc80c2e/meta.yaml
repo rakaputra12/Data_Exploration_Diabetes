@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/7274b4550de0443f8be072be4cc80c2e/artifacts
+deleted_time: 1712947893581
+end_time: 1712946444565
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 7274b4550de0443f8be072be4cc80c2e
+run_name: puzzled-seal-715
+run_uuid: 7274b4550de0443f8be072be4cc80c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946444530
+status: 3
+tags: []
+user_id: raka

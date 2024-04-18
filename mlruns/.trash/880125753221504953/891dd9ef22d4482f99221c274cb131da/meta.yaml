@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/891dd9ef22d4482f99221c274cb131da/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387988
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 891dd9ef22d4482f99221c274cb131da
+run_name: skittish-cat-88
+run_uuid: 891dd9ef22d4482f99221c274cb131da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946387970
+status: 3
+tags: []
+user_id: raka

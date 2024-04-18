@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/202e1f3f603d485f92f1691cb620f40b/artifacts
+deleted_time: 1712947893581
+end_time: 1712946387455
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 202e1f3f603d485f92f1691cb620f40b
+run_name: treasured-fly-449
+run_uuid: 202e1f3f603d485f92f1691cb620f40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946387438
+status: 3
+tags: []
+user_id: raka

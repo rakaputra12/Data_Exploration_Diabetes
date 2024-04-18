@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/08a498c55e1f49e9aa22eb7621f6d964/artifacts
+deleted_time: 1712947893581
+end_time: 1712946418922
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 08a498c55e1f49e9aa22eb7621f6d964
+run_name: indecisive-whale-119
+run_uuid: 08a498c55e1f49e9aa22eb7621f6d964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946418894
+status: 3
+tags: []
+user_id: raka

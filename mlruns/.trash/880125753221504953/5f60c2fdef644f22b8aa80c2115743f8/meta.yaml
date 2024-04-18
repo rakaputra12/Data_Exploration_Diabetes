@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/5f60c2fdef644f22b8aa80c2115743f8/artifacts
+deleted_time: 1712947893581
+end_time: 1712946382908
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 5f60c2fdef644f22b8aa80c2115743f8
+run_name: suave-roo-883
+run_uuid: 5f60c2fdef644f22b8aa80c2115743f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946382893
+status: 3
+tags: []
+user_id: raka

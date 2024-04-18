@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/0f5806ed18e94e5ab9d59c91e37ed1d2/artifacts
+deleted_time: 1712947893581
+end_time: 1712946371338
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 0f5806ed18e94e5ab9d59c91e37ed1d2
+run_name: crawling-stoat-876
+run_uuid: 0f5806ed18e94e5ab9d59c91e37ed1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946371331
+status: 3
+tags: []
+user_id: raka

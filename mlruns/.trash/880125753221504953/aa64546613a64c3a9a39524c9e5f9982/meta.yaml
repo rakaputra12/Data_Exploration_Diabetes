@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/aa64546613a64c3a9a39524c9e5f9982/artifacts
+deleted_time: 1712947893581
+end_time: 1712946441372
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: aa64546613a64c3a9a39524c9e5f9982
+run_name: angry-snail-711
+run_uuid: aa64546613a64c3a9a39524c9e5f9982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946441338
+status: 3
+tags: []
+user_id: raka

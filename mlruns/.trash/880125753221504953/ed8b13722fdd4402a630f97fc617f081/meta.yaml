@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ed8b13722fdd4402a630f97fc617f081/artifacts
+deleted_time: 1712947893581
+end_time: 1712946374303
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ed8b13722fdd4402a630f97fc617f081
+run_name: nosy-mule-881
+run_uuid: ed8b13722fdd4402a630f97fc617f081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946374294
+status: 3
+tags: []
+user_id: raka

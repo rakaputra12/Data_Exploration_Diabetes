@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/77cc157e4ae94d6b94b292f6a5da4aab/artifacts
+deleted_time: 1712947893581
+end_time: 1712946449631
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: 77cc157e4ae94d6b94b292f6a5da4aab
+run_name: rogue-snipe-551
+run_uuid: 77cc157e4ae94d6b94b292f6a5da4aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946449595
+status: 3
+tags: []
+user_id: raka

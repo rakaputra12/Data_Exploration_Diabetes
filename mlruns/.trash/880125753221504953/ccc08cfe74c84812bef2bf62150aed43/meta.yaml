@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/880125753221504953/ccc08cfe74c84812bef2bf62150aed43/artifacts
+deleted_time: 1712947893581
+end_time: 1712946407473
+entry_point_name: ''
+experiment_id: '880125753221504953'
+lifecycle_stage: deleted
+run_id: ccc08cfe74c84812bef2bf62150aed43
+run_name: painted-hawk-480
+run_uuid: ccc08cfe74c84812bef2bf62150aed43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946407448
+status: 3
+tags: []
+user_id: raka
