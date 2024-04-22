@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raka/Downloads/Semester.4/Data%20Exploration/Data_Exploration_Diabetes/mlruns/0/b3de37383b6d4695890ff657fd87fcff/artifacts
+end_time: 1713601413917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3de37383b6d4695890ff657fd87fcff
+run_name: adaptable-ape-733
+run_uuid: b3de37383b6d4695890ff657fd87fcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713596981382
+status: 3
+tags: []
+user_id: raka
